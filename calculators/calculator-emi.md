@@ -8,9 +8,9 @@ EMI (Equated Monthly Installment) is the fixed payment amount made by a borrower
 
 The standard formula to calculate EMI is:
 
-\[
+$$
 EMI = \frac{P \times r \times (1 + r)^n}{(1 + r)^n - 1}
-\]
+$$
 
 Where:
 - **P** = Principal loan amount
@@ -21,9 +21,9 @@ Where:
 
 If you take a loan of ₹1,00,000 at an annual interest rate of 12% for 2 years, the EMI can be calculated as:
 
-\[
+$$
 EMI = \frac{1,00,000 \times \frac{12}{12 \times 100} \times (1 + \frac{12}{12 \times 100})^{24}}{(1 + \frac{12}{12 \times 100})^{24} - 1}
-\]
+$$
 
 By solving, you'll get an EMI of approximately ₹4,707.
 
