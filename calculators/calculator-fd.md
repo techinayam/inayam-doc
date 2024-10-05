@@ -1,4 +1,4 @@
-# FD Calculator
+## FD Calculator
 
 ## Definition
 A Fixed Deposit (FD) is a financial instrument provided by banks and non-banking financial companies (NBFCs) that offers investors a higher interest rate than a regular savings account, until the given maturity date. The investor deposits a lump sum amount for a fixed period, and the interest earned on the deposit is paid at maturity or at regular intervals.
