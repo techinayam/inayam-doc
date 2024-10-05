@@ -10,9 +10,9 @@ CAGR is especially useful for comparing the growth rates of different investment
 
 The formula to calculate **CAGR** is:
 
-\[
+$$
 CAGR = \left(\frac{EV}{BV}\right)^\frac{1}{n} - 1
-\]
+$$
 
 Where:
 - **CAGR** = Compound Annual Growth Rate
@@ -29,9 +29,9 @@ Where:
 
 If you invested ₹50,000 in a stock five years ago and its value has grown to ₹90,000, you can calculate the CAGR as follows:
 
-\[
+$$
 CAGR = \left(\frac{90000}{50000}\right)^\frac{1}{5} - 1
-\]
+$$
 
 By solving this, you’ll find that the CAGR is approximately **12.93%** per annum. This means your investment has grown at an average annual rate of 12.93% over the five-year period.
 
@@ -66,9 +66,9 @@ CAGR stands for Compound Annual Growth Rate. It represents the annual growth rat
 #### 2. **How do I calculate CAGR?**
 The formula for calculating CAGR is:
 
-\[
+$$
 CAGR = \left(\frac{EV}{BV}\right)^\frac{1}{n} - 1
-\]
+$$
 
 Where:
 - **EV** = Ending Value

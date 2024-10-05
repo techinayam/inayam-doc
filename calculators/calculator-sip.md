@@ -7,9 +7,9 @@ A Systematic Investment Plan (SIP) is a method of investing a fixed sum regularl
 
 The formula to calculate the future value of investments made through SIP is:
 
-\[
+$$
 FV = P \times \frac{(1 + r)^n - 1}{r} \times (1 + r)
-\]
+$$
 
 Where:
 - **FV** = Future Value of the investment
@@ -21,9 +21,9 @@ Where:
 
 If you invest ₹5,000 per month for 10 years with an expected annual return of 12%, the future value can be calculated as:
 
-\[
+$$
 FV = 5000 \times \frac{(1 + \frac{12}{100 \times 12})^{120} - 1}{\frac{12}{100 \times 12}} \times (1 + \frac{12}{100 \times 12})
-\]
+$$
 
 By solving, you'll get a future value of approximately ₹9,20,000.
 

@@ -10,9 +10,9 @@ Compound interest helps investments grow at an accelerating rate over time, maki
 
 The formula to calculate the future value using compound interest is:
 
-\[
+$$
 A = P \times \left(1 + \frac{r}{n}\right)^{n \times t}
-\]
+$$
 
 Where:
 - **A** = The amount of money accumulated after interest, including the principal.
@@ -31,9 +31,9 @@ Where:
 
 If you invest ₹10,000 at an annual interest rate of 6%, compounded quarterly, for 5 years, the future value can be calculated as:
 
-\[
+$$
 A = 10000 \times \left(1 + \frac{0.06}{4}\right)^{4 \times 5}
-\]
+$$
 
 Solving this, you’ll get a future value of approximately ₹13,488.50.
 
@@ -75,9 +75,9 @@ The more frequently the interest is compounded, the higher the amount of accumul
 #### 4. **What is the formula for Compound Interest?**
 The formula for compound interest is:
 
-\[
+$$
 A = P \times \left(1 + \frac{r}{n}\right)^{n \times t}
-\]
+$$
 
 Where **A** is the amount after interest, **P** is the principal, **r** is the annual interest rate, **n** is the number of times interest is compounded per year, and **t** is the time in years.
 

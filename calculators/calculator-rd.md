@@ -7,9 +7,9 @@ A Recurring Deposit (RD) is a financial product offered by banks and financial i
 
 The formula to calculate the maturity amount for a Recurring Deposit is:
 
-\[
+$$
 M = P \times \frac{(1 + r/n)^{nt} - 1}{(r/n)} \times (1 + r/n)
-\]
+$$
 
 Where:
 - **M** = Maturity Amount
@@ -22,9 +22,9 @@ Where:
 
 If you deposit ₹5,000 per month for 5 years at an annual interest rate of 7% compounded monthly, the maturity amount can be calculated as:
 
-\[
+$$
 M = 5000 \times \frac{(1 + \frac{0.07}{12})^{12 \times 5} - 1}{\frac{0.07}{12}} \times (1 + \frac{0.07}{12})
-\]
+$$
 
 By solving, you'll get a maturity amount of approximately ₹3,70,918.64.
 

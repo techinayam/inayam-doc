@@ -8,9 +8,9 @@ Simple Interest is a method of calculating the interest amount charged on the pr
 
 The formula to calculate simple interest is:
 
-\[
+$$
 SI = \frac{P \times R \times T}{100}
-\]
+$$
 
 Where:
 - **SI** = Simple Interest
@@ -27,9 +27,9 @@ Where:
 
 If you invest ₹10,000 for 3 years at an annual interest rate of 5%, the simple interest can be calculated using the formula:
 
-\[
+$$
 SI = \frac{10000 \times 5 \times 3}{100} = 1500
-\]
+$$
 
 Thus, the interest earned after 3 years will be ₹1,500, and the total amount (Principal + Interest) will be ₹11,500.
 
@@ -57,9 +57,9 @@ Simple interest is a method of calculating interest on the principal, where inte
 #### 2. **What is the formula for calculating Simple Interest?**
 The formula for calculating simple interest is:
 
-\[
+$$
 SI = \frac{P \times R \times T}{100}
-\]
+$$
 
 Where **P** is the principal, **R** is the rate of interest per annum, and **T** is the time in years.
 
@@ -78,9 +78,9 @@ Simple interest is typically not used for long-term investments because compound
 #### 7. **How do I calculate the total amount payable or receivable?**
 The total amount payable or receivable after applying simple interest is:
 
-\[
+$$
 A = P + SI
-\]
+$$
 
 Where:
 - **A** = Total Amount

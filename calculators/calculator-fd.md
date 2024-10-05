@@ -7,9 +7,9 @@ A Fixed Deposit (FD) is a financial instrument provided by banks and non-banking
 
 The formula to calculate the maturity amount for a Fixed Deposit is:
 
-\[
+$$
 M = P \times \left(1 + \frac{r}{n}\right)^{nt}
-\]
+$$
 
 Where:
 - **M** = Maturity Amount
@@ -22,9 +22,9 @@ Where:
 
 If you invest ₹1,00,000 at an annual interest rate of 6% compounded quarterly for 3 years, the maturity amount can be calculated as:
 
-\[
+$$
 M = 1,00,000 \times \left(1 + \frac{0.06}{4}\right)^{4 \times 3}
-\]
+$$
 
 By solving, you'll get a maturity amount of approximately ₹1,19,101.64.
 
