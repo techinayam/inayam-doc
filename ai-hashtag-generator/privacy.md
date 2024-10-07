@@ -1,3 +1,4 @@
+
 ## Inayam AI Hashtag Generator
 
 
@@ -10,11 +11,11 @@ Start using the **Inayam AI Hashtag Generator** today to supercharge your social
 - **Stay Current**: Keep up with trending topics and hashtags to ensure your content stays relevant.
 
 
-#### Global Language Support for Any Country
+#### Global Language Support for Any Country 🌍
 
 The **Inayam AI Hashtag Generator** is designed to support **any language from any country**. Whether you're creating content in WorldWide, India, Italy, Portuguese, Australia, or any other language, our AI-driven generator ensures that your hashtags are **relevant, accurate, and localized** to reach your target audience.
 
-#### Multi-Platform Compatibility
+#### Multi-Platform Compatibility 🚀
 
 Our hashtag generator works seamlessly across all the major platforms where hashtags make an impact. It’s perfect for content creators, marketers, and businesses looking to **boost visibility** and **engage with the right audience**. Here's where you can use it:
 
