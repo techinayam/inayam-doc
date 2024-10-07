@@ -26,6 +26,8 @@ Our hashtag generator works seamlessly across all the major platforms where hash
 - **LinkedIn**: Use hashtags to target professionals and increase visibility on your LinkedIn posts and articles.
 
 
+
+
 ### AI Hashtag Generator Privacy Policy
 
 #### OpenAI Privacy and Usage Policy
