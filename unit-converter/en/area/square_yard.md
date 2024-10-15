@@ -1,7 +1,7 @@
-## A square yard (symbol: ydÂ²) is a unit of area equal to the area of a square with sides of one yard in length. It is commonly used in the United States and the UK for measuring land and property sizes.
+## A square yard (symbol: yd²) is a unit of area equal to the area of a square with sides of one yard in length. It is commonly used in the United States and the UK for measuring land and property sizes.
 
 ### Definition
-A square yard (symbol: ydÂ²) is a unit of area equal to the area of a square with sides of one yard in length. It is commonly used in the United States and the UK for measuring land and property sizes.
+A square yard (symbol: yd²) is a unit of area equal to the area of a square with sides of one yard in length. It is commonly used in the United States and the UK for measuring land and property sizes.
 
 ### History and Origin
 The square yard originated from the imperial system, with historical use in land measurement dating back centuries. It provides a familiar unit for real estate and construction industries, facilitating property assessments and land usage planning.

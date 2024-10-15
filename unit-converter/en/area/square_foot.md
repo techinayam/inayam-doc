@@ -1,7 +1,7 @@
-## A square foot (symbol: ftÂ²) is a unit of area equal to the area of a square with sides of one foot in length. It is widely used in the United States and other countries for measuring real estate, construction, and indoor spaces.
+## A square foot (symbol: ft²) is a unit of area equal to the area of a square with sides of one foot in length. It is widely used in the United States and other countries for measuring real estate, construction, and indoor spaces.
 
 ### Definition
-A square foot (symbol: ftÂ²) is a unit of area equal to the area of a square with sides of one foot in length. It is widely used in the United States and other countries for measuring real estate, construction, and indoor spaces.
+A square foot (symbol: ft²) is a unit of area equal to the area of a square with sides of one foot in length. It is widely used in the United States and other countries for measuring real estate, construction, and indoor spaces.
 
 ### History and Origin
 The square foot has historical roots in the imperial system, becoming a common measure for land and property sizes over centuries. Its continued use reflects familiarity and practicality in various industries, including real estate and architecture.

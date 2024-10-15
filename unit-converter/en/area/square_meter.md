@@ -1,7 +1,7 @@
-## A square meter (symbol: mÂ²) is the SI unit of area. It represents the area of a square with sides measuring one meter each. This unit is fundamental in measuring surface areas in various fields, including architecture, real estate, and land management.
+## A square meter (symbol: m²) is the SI unit of area. It represents the area of a square with sides measuring one meter each. This unit is fundamental in measuring surface areas in various fields, including architecture, real estate, and land management.
 
 ### Definition
-A square meter (symbol: mÂ²) is the SI unit of area. It represents the area of a square with sides measuring one meter each. This unit is fundamental in measuring surface areas in various fields, including architecture, real estate, and land management.
+A square meter (symbol: m²) is the SI unit of area. It represents the area of a square with sides measuring one meter each. This unit is fundamental in measuring surface areas in various fields, including architecture, real estate, and land management.
 
 ### History and Origin
 The square meter was established as a metric unit in 1795, derived from the meter, which was based on the Earth's meridian. It has been widely accepted as the standard unit of area in scientific and everyday measurements, facilitating international communication and trade.

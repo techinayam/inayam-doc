@@ -1,7 +1,7 @@
-## A square rod (also known as a square perch or pole; symbol: rdÂ²) is a unit of area equal to 272.25 square feet or 25.29 square meters. It is used primarily in land measurement and agriculture in some regions.
+## A square rod (also known as a square perch or pole; symbol: rd²) is a unit of area equal to 272.25 square feet or 25.29 square meters. It is used primarily in land measurement and agriculture in some regions.
 
 ### Definition
-A square rod (also known as a square perch or pole; symbol: rdÂ²) is a unit of area equal to 272.25 square feet or 25.29 square meters. It is used primarily in land measurement and agriculture in some regions.
+A square rod (also known as a square perch or pole; symbol: rd²) is a unit of area equal to 272.25 square feet or 25.29 square meters. It is used primarily in land measurement and agriculture in some regions.
 
 ### History and Origin
 The square rod has historical roots in land measurement dating back to medieval England, originally referring to a rod used for measuring land. Its continued use reflects traditional agricultural practices and property assessment.

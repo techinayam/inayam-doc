@@ -1,7 +1,7 @@
-## A square decimeter (symbol: dmÂ²) is a metric unit of area equal to one hundredth of a square meter. It is often used for measuring small areas, especially in fields like textiles and cooking.
+## A square decimeter (symbol: dm²) is a metric unit of area equal to one hundredth of a square meter. It is often used for measuring small areas, especially in fields like textiles and cooking.
 
 ### Definition
-A square decimeter (symbol: dmÂ²) is a metric unit of area equal to one hundredth of a square meter. It is often used for measuring small areas, especially in fields like textiles and cooking.
+A square decimeter (symbol: dm²) is a metric unit of area equal to one hundredth of a square meter. It is often used for measuring small areas, especially in fields like textiles and cooking.
 
 ### History and Origin
 The square decimeter has been part of the metric system since its inception in the late 18th century, providing a convenient measure for small areas. Its continued use reflects its practical application in various industries.

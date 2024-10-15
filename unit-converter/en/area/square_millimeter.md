@@ -1,7 +1,7 @@
-## A square millimeter (symbol: mmÂ²) is a unit of area equal to one millionth of a square meter, commonly used for very small measurements in technical and scientific applications. It provides an appropriate scale for items requiring high precision.
+## A square millimeter (symbol: mm²) is a unit of area equal to one millionth of a square meter, commonly used for very small measurements in technical and scientific applications. It provides an appropriate scale for items requiring high precision.
 
 ### Definition
-A square millimeter (symbol: mmÂ²) is a unit of area equal to one millionth of a square meter, commonly used for very small measurements in technical and scientific applications. It provides an appropriate scale for items requiring high precision.
+A square millimeter (symbol: mm²) is a unit of area equal to one millionth of a square meter, commonly used for very small measurements in technical and scientific applications. It provides an appropriate scale for items requiring high precision.
 
 ### History and Origin
 Square millimeters have been utilized since the early days of the metric system, reflecting the need for precision in measuring small areas. Their adoption has facilitated advancements in fields requiring detailed measurements, such as engineering and electronics.

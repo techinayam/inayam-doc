@@ -1,7 +1,7 @@
-## A square inch (symbol: inÂ²) is a unit of area equal to the area of a square with sides of one inch in length. It is commonly used in the United States for measuring smaller areas, especially in manufacturing and design.
+## A square inch (symbol: in²) is a unit of area equal to the area of a square with sides of one inch in length. It is commonly used in the United States for measuring smaller areas, especially in manufacturing and design.
 
 ### Definition
-A square inch (symbol: inÂ²) is a unit of area equal to the area of a square with sides of one inch in length. It is commonly used in the United States for measuring smaller areas, especially in manufacturing and design.
+A square inch (symbol: in²) is a unit of area equal to the area of a square with sides of one inch in length. It is commonly used in the United States for measuring smaller areas, especially in manufacturing and design.
 
 ### History and Origin
 The square inch has been used since the establishment of the imperial system, providing a practical measurement for small areas. Its familiarity supports its continued use in various applications, particularly in crafts, engineering, and product specifications.

@@ -1,7 +1,7 @@
-## A square mile (symbol: miÂ²) is a unit of area equal to 640 acres or 2.58999 square kilometers. It is commonly used in the United States for measuring large land areas, such as cities, counties, and states.
+## A square mile (symbol: mi²) is a unit of area equal to 640 acres or 2.58999 square kilometers. It is commonly used in the United States for measuring large land areas, such as cities, counties, and states.
 
 ### Definition
-A square mile (symbol: miÂ²) is a unit of area equal to 640 acres or 2.58999 square kilometers. It is commonly used in the United States for measuring large land areas, such as cities, counties, and states.
+A square mile (symbol: mi²) is a unit of area equal to 640 acres or 2.58999 square kilometers. It is commonly used in the United States for measuring large land areas, such as cities, counties, and states.
 
 ### History and Origin
 The square mile has historical roots in the imperial system and has been used for land measurement since medieval times. Its continued use reflects practicality in discussing large land areas, particularly in real estate and urban planning.

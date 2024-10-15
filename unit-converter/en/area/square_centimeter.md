@@ -1,7 +1,7 @@
-## A square centimeter (symbol: cmÂ²) is a unit of area equal to one hundredth of a square meter. It is commonly used for smaller measurements, providing a precise scale for applications in cooking, textiles, and small-scale engineering projects.
+## A square centimeter (symbol: cm²) is a unit of area equal to one hundredth of a square meter. It is commonly used for smaller measurements, providing a precise scale for applications in cooking, textiles, and small-scale engineering projects.
 
 ### Definition
-A square centimeter (symbol: cmÂ²) is a unit of area equal to one hundredth of a square meter. It is commonly used for smaller measurements, providing a precise scale for applications in cooking, textiles, and small-scale engineering projects.
+A square centimeter (symbol: cm²) is a unit of area equal to one hundredth of a square meter. It is commonly used for smaller measurements, providing a precise scale for applications in cooking, textiles, and small-scale engineering projects.
 
 ### History and Origin
 The square centimeter was adopted with the metric system in the late 18th century, allowing for detailed measurements of small areas. Its consistent use has made it a staple in scientific research and everyday life for tasks requiring precision.

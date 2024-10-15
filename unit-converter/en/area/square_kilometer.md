@@ -1,7 +1,7 @@
-## A square kilometer (symbol: kmÂ²) is a metric unit of area equal to one million square meters. It is commonly used to measure larger land areas, such as cities, countries, and regions. This unit provides a practical scale for geographical and spatial analyses.
+## A square kilometer (symbol: km²) is a metric unit of area equal to one million square meters. It is commonly used to measure larger land areas, such as cities, countries, and regions. This unit provides a practical scale for geographical and spatial analyses.
 
 ### Definition
-A square kilometer (symbol: kmÂ²) is a metric unit of area equal to one million square meters. It is commonly used to measure larger land areas, such as cities, countries, and regions. This unit provides a practical scale for geographical and spatial analyses.
+A square kilometer (symbol: km²) is a metric unit of area equal to one million square meters. It is commonly used to measure larger land areas, such as cities, countries, and regions. This unit provides a practical scale for geographical and spatial analyses.
 
 ### History and Origin
 The square kilometer has been in use since the establishment of the metric system in the late 18th century. It became a standard unit for land measurement and geographic studies, reflecting the need for consistent area measurements on a larger scale.
