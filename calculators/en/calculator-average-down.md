@@ -1,15 +1,5 @@
 ## Average Down Investment Calculator
 
-### Table of Contents
-1. [Introduction to Averaging Down](#introduction-to-averaging-down)
-2. [Calculator Function Overview](#calculator-function-overview)
-3. [Core Calculations](#core-calculations)
-4. [Setting Optimal Averaging Points](#setting-optimal-averaging-points)
-5. [Best Practices for Averaging Down](#best-practices-for-averaging-down)
-6. [Practical Examples](#practical-examples)
-7. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
-8. [Conclusion](#conclusion)
-
 ### Introduction to Averaging Down
 Averaging down is an investment strategy used when an investor buys additional shares of a stock they already own at a lower price than their previous purchases. This approach reduces the average cost per share, allowing investors to potentially break even or make a profit when the stock price rebounds. 
 
