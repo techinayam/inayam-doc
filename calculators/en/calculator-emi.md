@@ -1,5 +1,5 @@
 
-## EMI Calculator
+## EMI Calculator – Calculate Monthly Installments for Home, Car, and Personal Loans"
 
 ### Definition
 EMI (Equated Monthly Installment) is the fixed payment amount made by a borrower to a lender at a specified date each calendar month. The EMI is used to pay off both the principal loan amount and the interest accrued. The EMI calculator helps in determining the monthly installment amount for a given loan amount, interest rate, and loan tenure.
