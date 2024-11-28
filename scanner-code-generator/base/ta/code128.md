@@ -1,4 +1,4 @@
-# Generate Custom Barcodes with Our Code 128 Barcode Generator
+## Generate Custom Barcodes with Our Code 128 Barcode Generator
 
 ## Introduction
 

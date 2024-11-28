@@ -1,4 +1,4 @@
-# Code 39 Barcode Generator: Your Ultimate Solution for Product Identification
+## Code 39 Barcode Generator: Your Ultimate Solution for Product Identification
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# EAN-13 Barcode Generator: Your Complete Guide
+## EAN-13 Barcode Generator: Your Complete Guide
 
 ## Introduction
 

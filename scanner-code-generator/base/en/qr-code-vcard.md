@@ -1,4 +1,4 @@
-# QR Code VCard Generator: Effortless Contact Sharing Made Simple
+## QR Code VCard Generator: Effortless Contact Sharing Made Simple
 
 ## Introduction
 

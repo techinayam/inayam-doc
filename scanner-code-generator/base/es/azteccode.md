@@ -1,4 +1,4 @@
-# Aztec Code Generator: Unlock the Power of 2D Barcodes
+## Aztec Code Generator: Unlock the Power of 2D Barcodes
 
 ## Introduction
 In today's data-driven world, efficient information storage and retrieval are paramount. Enter the Aztec Code — a 2D barcode that efficiently encapsulates large volumes of data in a compact format. Whether you're looking to streamline your product packaging, enhance your marketing campaigns, or simplify inventory management, generating Aztec Codes can transform your operational efficiency. Our Aztec Code Generator provides an easy-to-use platform for creating these powerful barcodes, enabling you to encode dense data effortlessly.
