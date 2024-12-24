@@ -1,109 +1,108 @@
-## Compound Interest Calculator
+## கூட்டு வட்டி கால்குலேட்டர்
 
-### Definition
+### வரையறை
 
-Compound interest is the interest on a loan or deposit calculated based on both the initial principal and the accumulated interest from previous periods. Unlike simple interest, which is calculated only on the principal amount, compound interest allows the interest to grow over time because the interest is added to the principal and future interest is earned on the new total.
+கூட்டு வட்டி என்பது ஆரம்ப முதன்மை மற்றும் முந்தைய காலங்களிலிருந்து திரட்டப்பட்ட வட்டி இரண்டின் அடிப்படையில் கணக்கிடப்பட்ட கடன் அல்லது வைப்புத்தொகையின் வட்டி ஆகும்.எளிய ஆர்வத்தைப் போலன்றி, இது பிரதான தொகையில் மட்டுமே கணக்கிடப்படுகிறது, கூட்டு வட்டி காலப்போக்கில் வட்டி வளர அனுமதிக்கிறது, ஏனெனில் வட்டி முதன்மை மற்றும் எதிர்கால வட்டி புதிய மொத்தத்தில் சம்பாதிக்கப்படுகிறது.
 
-Compound interest helps investments grow at an accelerating rate over time, making it a powerful tool for long-term wealth creation.
+கூட்டு வட்டி காலப்போக்கில் விரைவான விகிதத்தில் முதலீடுகள் வளர உதவுகிறது, இது நீண்டகால செல்வத்தை உருவாக்குவதற்கான சக்திவாய்ந்த கருவியாக அமைகிறது.
 
-### Formula to Calculate Compound Interest
+கூட்டு ஆர்வத்தை கணக்கிட ### சூத்திரம்
 
-The formula to calculate the future value using compound interest is:
-
-$$
-A = P \times \left(1 + \frac{r}{n}\right)^{n \times t}
-$$
-
-Where:
-- **A** = The amount of money accumulated after interest, including the principal.
-- **P** = The principal amount (the initial money).
-- **r** = Annual interest rate (in decimal form, so 5% becomes 0.05).
-- **n** = Number of times interest is compounded per year.
-- **t** = Time the money is invested or borrowed for, in years.
-
-#### Explanation:
-- **Principal (P):** The starting amount of money.
-- **Rate (r):** The annual interest rate applied to the principal.
-- **n:** The frequency of compounding (e.g., annually, semi-annually, quarterly, or monthly).
-- **Time (t):** The total number of years the interest is applied.
-
-#### Example:
-
-If you invest ₹10,000 at an annual interest rate of 6%, compounded quarterly, for 5 years, the future value can be calculated as:
+கூட்டு ஆர்வத்தைப் பயன்படுத்தி எதிர்கால மதிப்பைக் கணக்கிடுவதற்கான சூத்திரம்:
 
 $$
-A = 10000 \times \left(1 + \frac{0.06}{4}\right)^{4 \times 5}
+A = p \ முறை \ இடது (1 + \ frac {r} {n} \ வலது)^{n \ டைம்ஸ் t}
 $$
 
-Solving this, you’ll get a future value of approximately ₹13,488.50.
+எங்கே:
+- ** A ** = அதிபர் உட்பட வட்டிக்குப் பிறகு திரட்டப்பட்ட பணத்தின் அளவு.
+- ** ப ** = முதன்மை தொகை (ஆரம்ப பணம்).
+- ** ஆர் ** = வருடாந்திர வட்டி வீதம் (தசம வடிவத்தில், எனவே 5% 0.05 ஆகிறது).
+- ** n ** = வருடத்திற்கு வட்டி எண்ணிக்கை அதிகமாகும்.
+- ** t ** = நேரம் பல ஆண்டுகளில் பணம் முதலீடு செய்யப்படுகிறது அல்லது கடன் வாங்கப்படுகிறது.
 
-### Importance of Compound Interest
+#### விளக்கம்:
+- ** முதன்மை (பி): ** பணத்தின் தொடக்க தொகை.
+- ** விகிதம் (ஆர்): ** வருடாந்திர வட்டி விகிதம் அதிபருக்கு பயன்படுத்தப்படுகிறது.
+- ** n: ** கூட்டு அதிர்வெண் (எ.கா., ஆண்டுதோறும், அரை ஆண்டுக்கு, காலாண்டு அல்லது மாதாந்திர).
+- ** நேரம் (டி): ** வட்டி பயன்படுத்தப்படும் மொத்த ஆண்டுகளின் எண்ணிக்கை.
 
-The concept of compound interest is extremely powerful because it allows for **"interest on interest"**, leading to exponential growth over time. The longer you let your money grow, the more significant the impact of compounding will be.
+#### எடுத்துக்காட்டு:
 
-#### Benefits of Compound Interest:
-1. **Wealth Accumulation**: Compound interest is essential for long-term investments as it helps in building wealth faster than simple interest.
-2. **Retirement Planning**: Regular investments in instruments that use compound interest (like mutual funds or retirement accounts) can create substantial wealth over decades.
-3. **Early Investing**: The earlier you start investing, the greater the benefit due to the power of time in compounding your returns.
-
-### Difference Between Simple Interest and Compound Interest
-
-| **Simple Interest**                           | **Compound Interest**                          |
-|-----------------------------------------------|------------------------------------------------|
-| Interest is calculated only on the principal. | Interest is calculated on both principal and accumulated interest. |
-| The interest amount remains constant.         | Interest grows exponentially over time.        |
-| Suitable for short-term loans and investments.| Best for long-term wealth creation.            |
-
-### Frequently Asked Questions (FAQ)
-
-#### 1. **What is Compound Interest?**
-Compound interest is the interest calculated on the initial principal, which also includes all accumulated interest from previous periods. It is commonly used in investments and savings.
-
-#### 2. **How does Compound Interest differ from Simple Interest?**
-In compound interest, interest is calculated not only on the principal amount but also on the interest accumulated from previous periods. In simple interest, the interest is only calculated on the original principal.
-
-#### 3. **How often is interest compounded?**
-Interest can be compounded on various frequencies such as:
-- Annually (once a year)
-- Semi-annually (twice a year)
-- Quarterly (four times a year)
-- Monthly (12 times a year)
-- Daily (365 times a year)
-
-The more frequently the interest is compounded, the higher the amount of accumulated interest.
-
-#### 4. **What is the formula for Compound Interest?**
-The formula for compound interest is:
+நீங்கள் ₹ 10,000 ஐ ஆண்டு வட்டி விகிதத்தில் 6%, காலாண்டு, 5 ஆண்டுகளுக்கு முதலீடு செய்தால், எதிர்கால மதிப்பை இவ்வாறு கணக்கிட முடியும்:
 
 $$
-A = P \times \left(1 + \frac{r}{n}\right)^{n \times t}
+A = 10000 \ முறை \ இடது (1 + \ frac {0.06} {4} \ வலது)^{4 \ முறை 5}
 $$
 
-Where **A** is the amount after interest, **P** is the principal, **r** is the annual interest rate, **n** is the number of times interest is compounded per year, and **t** is the time in years.
+இதைத் தீர்ப்பதன் மூலம், எதிர்கால மதிப்பை சுமார், 13,488.50 பெறுவீர்கள்.
 
-#### 5. **How can Compound Interest benefit long-term investments?**
-Compound interest accelerates the growth of investments over time. The interest earned is added back to the principal, which allows future interest to be calculated on a larger base. This results in exponential growth, making it especially valuable for long-term goals like retirement savings.
+### கூட்டு ஆர்வத்தின் முக்கியத்துவம்
 
-#### 6. **Can Compound Interest apply to loans as well?**
-Yes, compound interest can also apply to loans, which makes the borrower pay more interest over time compared to simple interest. In loans, compounding interest means the borrower pays interest not only on the initial loan but also on any accumulated interest.
+கூட்டு ஆர்வத்தின் கருத்து மிகவும் சக்தி வாய்ந்தது, ஏனெனில் இது ** "ஆர்வத்தில் ஆர்வத்தை" அனுமதிக்கிறது **, இது காலப்போக்கில் அதிவேக வளர்ச்சிக்கு வழிவகுக்கிறது.உங்கள் பணத்தை நீங்கள் நீண்ட நேரம் வளர அனுமதிக்கும்போது, ​​கலவையின் தாக்கம் மிகவும் குறிப்பிடத்தக்கதாக இருக்கும்.
 
-#### 7. **How is interest compounded in savings accounts?**
-Most savings accounts compound interest monthly, meaning the interest you earn in one month is added to your balance, and in the next month, you earn interest on the new balance.
+#### கூட்டு ஆர்வத்தின் நன்மைகள்:
+1. ** செல்வக் குவிப்பு **: நீண்ட கால முதலீடுகளுக்கு கூட்டு வட்டி அவசியம், ஏனெனில் இது எளிய ஆர்வத்தை விட விரைவாக செல்வத்தை உருவாக்க உதவுகிறது.
+2. ** ஓய்வூதிய திட்டமிடல் **: கூட்டு ஆர்வத்தைப் பயன்படுத்தும் (பரஸ்பர நிதிகள் அல்லது ஓய்வூதியக் கணக்குகள் போன்றவை) கருவிகளில் வழக்கமான முதலீடுகள் பல தசாப்தங்களாக கணிசமான செல்வத்தை உருவாக்க முடியும்.
+3. ** ஆரம்ப முதலீடு **: நீங்கள் முன்னர் முதலீடு செய்யத் தொடங்குவது, உங்கள் வருமானத்தை அதிகரிப்பதில் நேரத்தின் சக்தி காரணமாக அதிக நன்மை.
 
-#### 8. **How does starting early affect compound interest?**
-Starting early significantly enhances the benefits of compound interest. The longer your money has to grow, the more time interest has to accumulate, resulting in larger returns over time. Even small contributions can lead to significant growth if invested early.
+### எளிய ஆர்வத்திற்கும் கூட்டு ஆர்வத்திற்கும் இடையிலான வேறுபாடு
 
-#### 9. **What happens if I withdraw money early from an account with compound interest?**
-Withdrawing money early from an account where interest compounds may reduce the total interest earned. Many investment products, such as certificates of deposit (CDs) or retirement accounts, may also charge penalties for early withdrawal.
+|** எளிய ஆர்வம் ** |** கூட்டு ஆர்வம் ** |
+| ------------------------------------------------------ |----------------------------------------------------- |
+|ஆர்வம் அதிபருக்கு மட்டுமே கணக்கிடப்படுகிறது.|முக்கிய மற்றும் திரட்டப்பட்ட ஆர்வத்தில் வட்டி கணக்கிடப்படுகிறது.|
+|வட்டி தொகை மாறாமல் உள்ளது.|காலப்போக்கில் ஆர்வம் அதிவேகமாக வளர்கிறது.|
+|குறுகிய கால கடன்கள் மற்றும் முதலீடுகளுக்கு ஏற்றது. |நீண்டகால செல்வத்தை உருவாக்குவதற்கு சிறந்தது.|
 
-#### 10. **What is the best frequency for compounding interest?**
-The higher the frequency of compounding (such as monthly or daily), the better, as this leads to more frequent interest being added to the principal. However, the exact impact depends on the terms of the investment or loan.
+### அடிக்கடி கேட்கப்படும் கேள்விகள் (கேள்விகள்)
+
+#### 1. ** கூட்டு ஆர்வம் என்றால் என்ன? **
+கூட்டு வட்டி என்பது ஆரம்ப அதிபரில் கணக்கிடப்பட்ட வட்டி ஆகும், இதில் முந்தைய காலங்களிலிருந்து திரட்டப்பட்ட அனைத்து ஆர்வமும் அடங்கும்.இது பொதுவாக முதலீடுகள் மற்றும் சேமிப்புகளில் பயன்படுத்தப்படுகிறது.
+
+#### 2. ** கூட்டு ஆர்வத்திலிருந்து எளிய ஆர்வத்திலிருந்து எவ்வாறு வேறுபடுகிறது? **
+கூட்டு ஆர்வத்தில், வட்டி முதன்மை தொகையில் மட்டுமல்ல, முந்தைய காலங்களிலிருந்து திரட்டப்பட்ட வட்டியிலும் கணக்கிடப்படுகிறது.எளிமையான ஆர்வத்தில், வட்டி அசல் அதிபரில் மட்டுமே கணக்கிடப்படுகிறது.
+
+#### 3. ** வட்டி எவ்வளவு அடிக்கடி ஒருங்கிணைக்கப்படுகிறது? **
+போன்ற பல்வேறு அதிர்வெண்களில் ஆர்வத்தை ஒருங்கிணைக்க முடியும்:
+- ஆண்டுதோறும் (வருடத்திற்கு ஒரு முறை)
+- அரை ஆண்டுக்கு (வருடத்திற்கு இரண்டு முறை)
+- காலாண்டு (வருடத்திற்கு நான்கு முறை)
+- மாதாந்திர (வருடத்திற்கு 12 முறை)
+- தினசரி (வருடத்திற்கு 365 முறை)
+
+வட்டி அடிக்கடி ஒருங்கிணைக்கப்படுகிறது, திரட்டப்பட்ட ஆர்வத்தின் அளவு அதிகமாகும்.
+
+#### 4. ** கூட்டு ஆர்வத்திற்கான சூத்திரம் என்ன? **
+கூட்டு ஆர்வத்திற்கான சூத்திரம்:
+
+$$ A = p \ முறை \ இடது (1 + \ frac {r} {n} \ வலது)^{n \ டைம்ஸ் t}
+$$
+
+** A ** என்பது ஆர்வத்திற்குப் பிறகு, ** p ** என்பது முதன்மை, ** r ** என்பது வருடாந்திர வட்டி விகிதம், ** n ** என்பது வருடத்திற்கு எத்தனை முறை வட்டி கலக்கப்படுகிறது, மற்றும்**t ** என்பது ஆண்டுகளில் நேரம்.
+
+#### 5. ** நீண்ட கால முதலீடுகளை எவ்வாறு கூட்டு பயனடைய முடியும்? **
+கூட்டு வட்டி காலப்போக்கில் முதலீடுகளின் வளர்ச்சியை துரிதப்படுத்துகிறது.சம்பாதித்த வட்டி மீண்டும் அதிபரிடம் சேர்க்கப்படுகிறது, இது எதிர்கால ஆர்வத்தை ஒரு பெரிய தளத்தில் கணக்கிட அனுமதிக்கிறது.இது அதிவேக வளர்ச்சியில் விளைகிறது, இது ஓய்வூதிய சேமிப்பு போன்ற நீண்ட கால இலக்குகளுக்கு குறிப்பாக மதிப்புமிக்கதாக அமைகிறது.
+
+#### 6. ** கடன்களுக்கும் ஆர்வம் பொருந்துமா? **
+ஆம், கூட்டு வட்டி கடன்களுக்கும் பொருந்தும், இது எளிய வட்டியுடன் ஒப்பிடும்போது கடன் வாங்குபவர் காலப்போக்கில் அதிக வட்டி செலுத்த வைக்கிறது.கடன்களில், வட்டி என்பது கடன் வாங்கியவர் ஆரம்ப கடனுக்கு மட்டுமல்ல, திரட்டப்பட்ட எந்தவொரு வட்டியிலும் வட்டியை செலுத்துகிறார்.
+
+#### 7. ** சேமிப்புக் கணக்குகளில் வட்டி எவ்வாறு ஒருங்கிணைக்கப்படுகிறது? **
+பெரும்பாலான சேமிப்புக் கணக்குகள் மாதந்தோறும் ஆர்வத்தை அதிகரிக்கின்றன, அதாவது ஒரு மாதத்தில் நீங்கள் சம்பாதிக்கும் வட்டி உங்கள் நிலுவைத் தொகையில் சேர்க்கப்படுகிறது, அடுத்த மாதத்தில், புதிய நிலுவைத் தொகையில் நீங்கள் வட்டி சம்பாதிக்கிறீர்கள்.
+
+#### 8. ** ஆரம்பத்தில் தொடங்குவது கூட்டு ஆர்வத்தை எவ்வாறு பாதிக்கிறது? **
+ஆரம்பத்தில் தொடங்குவது கூட்டு ஆர்வத்தின் நன்மைகளை கணிசமாக மேம்படுத்துகிறது.உங்கள் பணம் நீண்ட காலம் வளர வேண்டும், அதிக நேரம் வட்டி குவிக்க வேண்டும், இதன் விளைவாக காலப்போக்கில் பெரிய வருமானம் கிடைக்கும்.சிறிய பங்களிப்புகள் கூட ஆரம்பத்தில் முதலீடு செய்தால் குறிப்பிடத்தக்க வளர்ச்சிக்கு வழிவகுக்கும்.
+
+#### 9. ** கூட்டு வட்டி கொண்ட ஒரு கணக்கிலிருந்து ஆரம்பத்தில் பணத்தை திரும்பப் பெற்றால் என்ன ஆகும்? **
+வட்டி கலவைகள் சம்பாதித்த மொத்த வட்டியைக் குறைக்கக்கூடிய ஒரு கணக்கிலிருந்து ஆரம்பத்தில் பணத்தை திரும்பப் பெறுதல்.டெபாசிட் சான்றிதழ்கள் (சி.டி.எஸ்) அல்லது ஓய்வூதியக் கணக்குகள் போன்ற பல முதலீட்டு தயாரிப்புகள் முன்கூட்டியே திரும்பப் பெறுவதற்கான அபராதங்களையும் வசூலிக்கலாம்.
+
+#### 10. ** ஆர்வத்தை ஒருங்கிணைப்பதற்கான சிறந்த அதிர்வெண் எது? **
+கூட்டத்தின் அதிக அதிர்வெண் (மாதாந்திர அல்லது தினசரி போன்றவை), சிறந்தது, ஏனெனில் இது அதிபருக்கு அடிக்கடி ஆர்வம் சேர்க்க வழிவகுக்கிறது.இருப்பினும், சரியான தாக்கம் முதலீடு அல்லது கடனின் விதிமுறைகளைப் பொறுத்தது.
 
 ---
-### AI-Generated Content Disclaimer
+### AI- உருவாக்கிய உள்ளடக்க மறுப்பு
 
-This content was **AI-generated** using natural language processing technology. While efforts have been made to ensure the accuracy and relevance of the information, it may not be perfect. Users are encouraged to verify the information independently where applicable.
+இந்த உள்ளடக்கம் இயற்கையான மொழி செயலாக்க தொழில்நுட்பத்தைப் பயன்படுத்தி ** AI- உருவாக்கப்பட்ட ** ஆகும்.தகவல்களின் துல்லியத்தையும் பொருத்தத்தையும் உறுதிப்படுத்த முயற்சிகள் மேற்கொள்ளப்பட்டாலும், அது சரியானதாக இருக்காது.பொருந்தக்கூடிய இடங்களில் தகவல்களை சுயாதீனமாக சரிபார்க்க பயனர்கள் ஊக்குவிக்கப்படுகிறார்கள்.
 
-**Note**: AI-generated content should be used as a supportive tool, not a substitute for professional advice.
+** குறிப்பு **: AI- உருவாக்கிய உள்ளடக்கம் ஒரு ஆதரவான கருவியாகப் பயன்படுத்தப்பட வேண்டும், தொழில்முறை ஆலோசனைக்கு மாற்றாக அல்ல.
 
-**Note**:  04-Oct-2024 : Currently, the site is under development and will be validated and updated soon
+** குறிப்பு **: 04-அக் -2024: தற்போது, ​​தளம் வளர்ச்சியில் உள்ளது, விரைவில் சரிபார்க்கப்பட்டு புதுப்பிக்கப்படும்

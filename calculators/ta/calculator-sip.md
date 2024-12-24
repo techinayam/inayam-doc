@@ -1,75 +1,75 @@
-## SIP Calculator
+## SIP கால்குலேட்டர்
 
-### Definition
-A Systematic Investment Plan (SIP) is a method of investing a fixed sum regularly in mutual funds. SIP allows investors to purchase units of a particular scheme on a particular date each month. This approach enables investors to take advantage of market volatility through rupee cost averaging and builds a disciplined investment habit.
+### வரையறை
+ஒரு முறையான முதலீட்டு திட்டம் (எஸ்ஐபி) என்பது பரஸ்பர நிதிகளில் ஒரு நிலையான தொகையை தவறாமல் முதலீடு செய்யும் முறையாகும்.ஒவ்வொரு மாதமும் ஒரு குறிப்பிட்ட தேதியில் ஒரு குறிப்பிட்ட திட்டத்தின் அலகுகளை வாங்க முதலீட்டாளர்களை SIP அனுமதிக்கிறது.இந்த அணுகுமுறை முதலீட்டாளர்களுக்கு ரூபாய் செலவு சராசரியின் மூலம் சந்தை ஏற்ற இறக்கத்தைப் பயன்படுத்த உதவுகிறது மற்றும் ஒழுக்கமான முதலீட்டு பழக்கத்தை உருவாக்குகிறது.
 
-### Formula to Calculate SIP
+SIP ஐக் கணக்கிட ### சூத்திரம்
 
-The formula to calculate the future value of investments made through SIP is:
-
-$$
-FV = P \times \frac{(1 + r)^n - 1}{r} \times (1 + r)
-$$
-
-Where:
-- **FV** = Future Value of the investment
-- **P** = Amount invested at regular intervals (SIP amount)
-- **r** = Expected rate of return (annual rate divided by 12)
-- **n** = Total number of investments (months)
-
-#### Example:
-
-If you invest ₹5,000 per month for 10 years with an expected annual return of 12%, the future value can be calculated as:
+SIP மூலம் செய்யப்பட்ட முதலீடுகளின் எதிர்கால மதிப்பைக் கணக்கிடுவதற்கான சூத்திரம்:
 
 $$
-FV = 5000 \times \frac{(1 + \frac{12}{100 \times 12})^{120} - 1}{\frac{12}{100 \times 12}} \times (1 + \frac{12}{100 \times 12})
+Fv = p \ times \ frac {(1 + r)^n - 1} {r} \ times (1 + r)
 $$
 
-By solving, you'll get a future value of approximately ₹9,20,000.
+எங்கே:
+- ** FV ** = முதலீட்டின் எதிர்கால மதிப்பு
+- ** பி ** = வழக்கமான இடைவெளியில் முதலீடு செய்யப்பட்ட தொகை (எஸ்ஐபி தொகை)
+- ** r ** = எதிர்பார்க்கப்படும் வருவாய் விகிதம் (வருடாந்திர வீதம் 12 ஆல் வகுக்கப்படுகிறது)
+- ** n ** = மொத்த முதலீடுகளின் எண்ணிக்கை (மாதங்கள்)
 
-### Use of the Formula
+#### எடுத்துக்காட்டு:
 
-- **Investment Planning**: SIP helps investors to plan their investments by providing a clearer view of expected returns based on consistent contributions.
-- **Wealth Creation**: The formula aids in estimating how much wealth can be generated over time, helping investors set realistic financial goals.
-- **Risk Mitigation**: Regular investments help mitigate risks associated with market volatility, allowing investors to benefit from market ups and downs.
+நீங்கள் மாதத்திற்கு ₹ 5,000 க்கு 10 ஆண்டுகளுக்கு 12%எதிர்பார்க்கப்படும் வருடாந்திர வருவாயுடன் முதலீடு செய்தால், எதிர்கால மதிப்பை இவ்வாறு கணக்கிட முடியும்:
 
-### Frequently Asked Questions (FAQ)
+$$
+Fv = 5000 \ முறை \ frac {(1 + \ frac {12} {100 \ முறை 12})^{120} - 1} {\ frac {12} {100 \ முறை 12}} \ முறை (1 + \ frac{12} {100 \ முறை 12})
+$$
 
-#### 1. **What is a SIP?**
-A Systematic Investment Plan (SIP) is an investment strategy where a fixed amount is invested regularly in mutual funds.
+தீர்ப்பதன் மூலம், எதிர்கால மதிப்பை சுமார், 9,20,000 பெறுவீர்கள்.
 
-#### 2. **How does SIP work?**
-SIP works by allowing investors to invest a fixed sum of money regularly. This can be monthly, quarterly, or annually, depending on the investor's choice.
+### சூத்திரத்தின் பயன்பாடு
 
-#### 3. **What are the benefits of SIP?**
-SIP allows for rupee cost averaging, disciplined investing, and the power of compounding, making it easier for investors to grow their wealth over time.
+- ** முதலீட்டுத் திட்டமிடல் **: நிலையான பங்களிப்புகளின் அடிப்படையில் எதிர்பார்க்கப்படும் வருமானத்தின் தெளிவான பார்வையை வழங்குவதன் மூலம் முதலீட்டாளர்கள் தங்கள் முதலீடுகளைத் திட்டமிட SIP உதவுகிறது.
+.
+.
 
-#### 4. **Can SIPs help in achieving long-term goals?**
-Yes, SIPs are particularly effective for long-term financial goals such as retirement planning, buying a home, or funding children's education.
+### அடிக்கடி கேட்கப்படும் கேள்விகள் (கேள்விகள்)
 
-#### 5. **What is the minimum amount required to start a SIP?**
-The minimum investment for SIP varies by mutual fund schemes, but many allow investors to start with as low as ₹500 per month.
+#### 1. ** ஒரு சிப் என்றால் என்ன? **
+ஒரு முறையான முதலீட்டு திட்டம் (SIP) என்பது ஒரு முதலீட்டு உத்தி, அங்கு ஒரு நிலையான தொகை பரஸ்பர நிதிகளில் தவறாமல் முதலீடு செய்யப்படுகிறது.
 
-#### 6. **Can I stop or modify my SIP?**
-Yes, investors can pause, stop, or modify their SIP investments based on their financial situation.
+#### 2. ** SIP எவ்வாறு செயல்படுகிறது? **
+முதலீட்டாளர்களை ஒரு நிலையான தொகையை தவறாமல் முதலீடு செய்ய அனுமதிப்பதன் மூலம் SIP செயல்படுகிறது.இது முதலீட்டாளரின் தேர்வைப் பொறுத்து மாதாந்திர, காலாண்டு அல்லது ஆண்டுதோறும் இருக்கலாம்.
 
-#### 7. **Is there any lock-in period for SIPs?**
-SIP investments in equity mutual funds do not have a lock-in period, but some specific schemes like ELSS have a mandatory lock-in period of three years.
+#### 3. ** SIP இன் நன்மைகள் என்ன? **
+ரூபாய் செலவு சராசரி, ஒழுக்கமான முதலீடு மற்றும் கூட்டு சக்தி ஆகியவற்றை SIP அனுமதிக்கிறது, இது முதலீட்டாளர்கள் காலப்போக்கில் தங்கள் செல்வத்தை வளர்ப்பதை எளிதாக்குகிறது.
 
-#### 8. **How is the return on SIP calculated?**
-The return on SIP is calculated based on the mutual fund's performance over the investment period. It varies based on market conditions and the mutual fund's strategy.
+#### 4. ** நீண்ட கால இலக்குகளை அடைய SIPS உதவ முடியுமா? **
+ஆமாம், ஓய்வூதிய திட்டமிடல், வீடு வாங்குவது அல்லது குழந்தைகளின் கல்விக்கு நிதியளித்தல் போன்ற நீண்டகால நிதி இலக்குகளுக்கு SIP கள் குறிப்பாக பயனுள்ளதாக இருக்கும்.
 
-#### 9. **Can I invest in multiple SIPs?**
-Yes, investors can invest in multiple SIPs across different mutual fund schemes to diversify their portfolio.
+#### 5. ** ஒரு சிப்பைத் தொடங்க தேவையான குறைந்தபட்ச தொகை என்ன? **
+SIP க்கான குறைந்தபட்ச முதலீடு மியூச்சுவல் ஃபண்ட் திட்டங்களால் மாறுபடும், ஆனால் பல முதலீட்டாளர்களை மாதத்திற்கு ₹ 500 வரை குறைவாகத் தொடங்க அனுமதிக்கின்றன.
 
-#### 10. **Are there any charges associated with SIPs?**
-SIP investments typically involve expense ratios and exit loads, which vary by mutual fund scheme. Always check the terms before investing.
+#### 6. ** எனது சிப்பை நிறுத்தவோ மாற்றவோ முடியுமா? **
+ஆம், முதலீட்டாளர்கள் தங்கள் நிதி நிலைமையின் அடிப்படையில் தங்கள் SIP முதலீடுகளை இடைநிறுத்தலாம், நிறுத்தலாம் அல்லது மாற்றலாம்.
+
+#### 7. ** சிப்ஸுக்கு ஏதேனும் பூட்டுதல் காலம் இருக்கிறதா? **
+ஈக்விட்டி மியூச்சுவல் ஃபண்டுகளில் SIP முதலீடுகள் பூட்டுதல் காலம் இல்லை, ஆனால் ELSS போன்ற சில குறிப்பிட்ட திட்டங்கள் மூன்று ஆண்டுகளின் கட்டாய பூட்டுதல் காலத்தைக் கொண்டுள்ளன.
+
+#### 8. ** SIP இல் வருமானம் எவ்வாறு கணக்கிடப்படுகிறது? **
+முதலீட்டு காலத்தில் மியூச்சுவல் ஃபண்டின் செயல்திறனின் அடிப்படையில் SIP மீதான வருமானம் கணக்கிடப்படுகிறது.இது சந்தை நிலைமைகள் மற்றும் மியூச்சுவல் ஃபண்டின் மூலோபாயத்தின் அடிப்படையில் மாறுபடும்.
+
+#### 9. ** நான் பல சிப்ஸில் முதலீடு செய்யலாமா? **
+ஆம், முதலீட்டாளர்கள் தங்கள் போர்ட்ஃபோலியோவை பன்முகப்படுத்த வெவ்வேறு மியூச்சுவல் ஃபண்ட் திட்டங்களில் பல SIP களில் முதலீடு செய்யலாம்.
+
+#### 10. ** சிப்ஸுடன் தொடர்புடைய ஏதேனும் கட்டணங்கள் உள்ளதா? **
+SIP முதலீடுகள் பொதுவாக செலவு விகிதங்கள் மற்றும் வெளியேறும் சுமைகளை உள்ளடக்கியது, அவை பரஸ்பர நிதி திட்டத்தால் வேறுபடுகின்றன.முதலீடு செய்வதற்கு முன் எப்போதும் விதிமுறைகளை சரிபார்க்கவும்.
 
 ---
-### AI-Generated Content Disclaimer
+### AI- உருவாக்கிய உள்ளடக்க மறுப்பு
 
-This content was **AI-generated** using natural language processing technology. While efforts have been made to ensure the accuracy and relevance of the information, it may not be perfect. Users are encouraged to verify the information independently where applicable.
+இந்த உள்ளடக்கம் இயற்கையான மொழி செயலாக்க தொழில்நுட்பத்தைப் பயன்படுத்தி ** AI- உருவாக்கப்பட்ட ** ஆகும்.தகவல்களின் துல்லியத்தையும் பொருத்தத்தையும் உறுதிப்படுத்த முயற்சிகள் மேற்கொள்ளப்பட்டாலும், அது சரியானதாக இருக்காது.பொருந்தக்கூடிய இடங்களில் தகவல்களை சுயாதீனமாக சரிபார்க்க பயனர்கள் ஊக்குவிக்கப்படுகிறார்கள்.
 
-**Note**: AI-generated content should be used as a supportive tool, not a substitute for professional advice.
+** குறிப்பு **: AI- உருவாக்கிய உள்ளடக்கம் ஒரு ஆதரவான கருவியாகப் பயன்படுத்தப்பட வேண்டும், தொழில்முறை ஆலோசனைக்கு மாற்றாக அல்ல.
 
-**Note**: Currently, the site is under development and will be validated and updated soon (27-Sep-2024).
+** குறிப்பு **: தற்போது, ​​தளம் வளர்ச்சியில் உள்ளது, இது விரைவில் சரிபார்க்கப்பட்டு புதுப்பிக்கப்படும் (27-செப் -2024).

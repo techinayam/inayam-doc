@@ -81,14 +81,6 @@ Let’s look at a couple of scenarios to see how averaging down works in practic
 
 Calculating the total investment and determining how many shares to buy can help the investor understand the implications of their decision.
 
-#### Example 2: Long-Term Holding
-- **Current Cost**: ₹120
-- **Current Quantity**: 100 shares
-- **New Price**: ₹100
-- **Desired Average Price**: ₹110
-
-By using the calculator, the investor can determine the best course of action to lower their average cost and improve their long-term investment outlook.
-
 ### Frequently Asked Questions (FAQ)
 
 #### 1. **What is averaging down?**

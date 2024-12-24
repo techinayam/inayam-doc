@@ -1,106 +1,106 @@
-## Simple Interest Calculator
+## எளிய வட்டி கால்குலேட்டர்
 
-### Definition
+### வரையறை
 
-Simple Interest is a method of calculating the interest amount charged on the principal, or original, amount of a loan or investment. It is a quick and easy way to compute the interest for a period based on the initial amount, rate of interest, and time duration. Unlike compound interest, where interest is added to the principal and interest is calculated on the new balance, simple interest remains fixed and does not compound.
+எளிய வட்டி என்பது கடன் அல்லது முதலீட்டின் முதன்மை அல்லது அசல் தொகையில் வசூலிக்கப்படும் வட்டி தொகையை கணக்கிடும் முறையாகும்.ஆரம்ப தொகை, வட்டி வீதம் மற்றும் கால அளவு ஆகியவற்றின் அடிப்படையில் ஒரு காலத்திற்கான வட்டியைக் கணக்கிடுவதற்கான விரைவான மற்றும் எளிதான வழியாகும்.கூட்டு வட்டி போலல்லாமல், அதிபருக்கு வட்டி சேர்க்கப்பட்டு புதிய சமநிலையில் வட்டி கணக்கிடப்படுகிறது, எளிய வட்டி சரி செய்யப்படுகிறது, மேலும் அவை கூட்டு இல்லை.
 
-### Formula to Calculate Simple Interest
+எளிய ஆர்வத்தை கணக்கிட ### சூத்திரம்
 
-The formula to calculate simple interest is:
-
-$$
-SI = \frac{P \times R \times T}{100}
-$$
-
-Where:
-- **SI** = Simple Interest
-- **P** = Principal (the original sum of money)
-- **R** = Rate of interest per year (in percentage)
-- **T** = Time the money is invested or borrowed for, in years
-
-#### Explanation:
-- **Principal (P):** This is the amount of money that is either invested or borrowed.
-- **Rate (R):** The percentage of interest applied to the principal annually.
-- **Time (T):** The duration (in years) for which the money is invested or borrowed.
-
-#### Example:
-
-If you invest ₹10,000 for 3 years at an annual interest rate of 5%, the simple interest can be calculated using the formula:
+எளிய ஆர்வத்தை கணக்கிடுவதற்கான சூத்திரம்:
 
 $$
-SI = \frac{10000 \times 5 \times 3}{100} = 1500
+Si = \ frac {p \ times r \ times t} {100}
 $$
 
-Thus, the interest earned after 3 years will be ₹1,500, and the total amount (Principal + Interest) will be ₹11,500.
+எங்கே:
+- ** Si ** = எளிய ஆர்வம்
+- ** ப ** = முதன்மை (பணத்தின் அசல் தொகை)
+- ** r ** = வருடத்திற்கு வட்டி விகிதம் (சதவீதத்தில்)
+- ** t ** = நேரம் பல ஆண்டுகளில் பணம் முதலீடு செய்யப்படுகிறது அல்லது கடன் வாங்கப்படுகிறது
 
-### How Simple Interest Works
+#### விளக்கம்:
+- ** முதன்மை (பி): ** இது முதலீடு செய்யப்பட்ட அல்லது கடன் வாங்கிய பணத்தின் அளவு.
+- ** விகிதம் (ஆர்): ** ஆண்டுதோறும் அதிபருக்குப் பயன்படுத்தப்படும் வட்டி சதவீதம்.
+- ** நேரம் (டி): ** பணம் முதலீடு செய்யப்படும் அல்லது கடன் வாங்கப்படும் காலம் (ஆண்டுகளில்).
 
-Simple interest works by calculating the interest solely on the principal amount. Whether you’re borrowing money or investing it, the interest is determined only on the initial sum over the duration specified. This makes it easier to predict how much interest will be charged or earned, especially in short-term loans or savings instruments where compounding is not involved.
+#### எடுத்துக்காட்டு:
 
-#### Real-World Use Cases:
-- **Short-term loans** like car loans or personal loans often use simple interest, as it is straightforward and easy to calculate.
-- **Government Bonds and Savings Instruments** frequently use simple interest to provide investors with fixed returns over a set period.
-- **Education loans** may also employ simple interest, helping borrowers understand how much they owe in total without the complexity of compounding.
-
-### Use of the Formula
-
-The simple interest formula is extremely useful in:
-- **Loan Calculations:** Borrowers can quickly determine the interest they will pay over the term of the loan.
-- **Investment Planning:** Investors can easily estimate how much interest they will earn on their fixed investments.
-- **Quick Financial Decisions:** The formula provides a straightforward way to make decisions based on the interest cost of loans or the returns on savings.
-
-### Frequently Asked Questions (FAQ)
-
-#### 1. **What is Simple Interest?**
-Simple interest is a method of calculating interest on the principal, where interest is charged only on the initial sum of money, not on the interest that accumulates over time.
-
-#### 2. **What is the formula for calculating Simple Interest?**
-The formula for calculating simple interest is:
+நீங்கள் 3 ஆண்டுகளுக்கு ₹ 10,000 முதலீடு செய்தால், ஆண்டு வட்டி விகிதத்தில் 5%, எளிய வட்டி சூத்திரத்தைப் பயன்படுத்தி கணக்கிடப்படலாம்:
 
 $$
-SI = \frac{P \times R \times T}{100}
+Si = \ frac {10000 \ முறை 5 \ முறை 3} {100} = 1500
 $$
 
-Where **P** is the principal, **R** is the rate of interest per annum, and **T** is the time in years.
+எனவே, 3 ஆண்டுகளுக்குப் பிறகு சம்பாதித்த வட்டி, 500 1,500 ஆகவும், மொத்த தொகை (முதன்மை + வட்டி), 500 11,500 ஆகவும் இருக்கும்.
 
-#### 3. **Where is Simple Interest commonly used?**
-Simple interest is used in car loans, short-term personal loans, government bonds, and certain types of savings accounts.
+### எளிய ஆர்வம் எவ்வாறு செயல்படுகிறது
 
-#### 4. **What is the difference between Simple Interest and Compound Interest?**
-Simple interest is calculated only on the principal amount, while compound interest is calculated on both the principal and the accumulated interest. In simple interest, the interest amount remains constant, whereas in compound interest, the interest grows exponentially over time.
+ஆர்வத்தை முக்கிய தொகையில் மட்டுமே கணக்கிடுவதன் மூலம் எளிய வட்டி செயல்படுகிறது.நீங்கள் கடன் வாங்கினாலும் அல்லது முதலீடு செய்தாலும், குறிப்பிட்ட காலத்தின் ஆரம்ப தொகையில் மட்டுமே வட்டி தீர்மானிக்கப்படுகிறது.இது எவ்வளவு வட்டி சார்ஜ் செய்யப்படும் அல்லது சம்பாதிக்கப்படும் என்பதைக் கணிப்பதை எளிதாக்குகிறது, குறிப்பாக குறுகிய கால கடன்கள் அல்லது சேமிப்பு கருவிகளில் கலவை சம்பந்தப்படவில்லை.
 
-#### 5. **Is Simple Interest better than Compound Interest?**
-It depends on the context. For borrowers, simple interest is generally better because it results in lower total interest payments. For investors, compound interest can be more beneficial, as it can result in higher returns over time due to interest compounding on both the principal and accumulated interest.
+#### நிஜ-உலக பயன்பாட்டு வழக்குகள்:
+- ** குறுகிய கால கடன்கள் ** கார் கடன்கள் அல்லது தனிப்பட்ட கடன்கள் போன்றவை பெரும்பாலும் எளிய ஆர்வத்தைப் பயன்படுத்துகின்றன, ஏனெனில் இது நேரடியானது மற்றும் கணக்கிட எளிதானது.
+- ** அரசாங்க பத்திரங்கள் மற்றும் சேமிப்பு கருவிகள் ** ஒரு குறிப்பிட்ட காலப்பகுதியில் முதலீட்டாளர்களுக்கு நிலையான வருமானத்தை வழங்க எளிய ஆர்வத்தை அடிக்கடி பயன்படுத்துகின்றன.
+.
 
-#### 6. **Can Simple Interest be applied to long-term investments?**
-Simple interest is typically not used for long-term investments because compound interest is more beneficial over time. However, for short-term investments or loans, simple interest can be a clear and predictable way of calculating returns or payments.
+### சூத்திரத்தின் பயன்பாடு
 
-#### 7. **How do I calculate the total amount payable or receivable?**
-The total amount payable or receivable after applying simple interest is:
+எளிய வட்டி சூத்திரம் மிகவும் பயனுள்ளதாக இருக்கும்:
+- ** கடன் கணக்கீடுகள்: ** கடன் வாங்குபவர்கள் கடனின் காலத்திற்கு மேல் செலுத்தும் வட்டியை விரைவாக தீர்மானிக்க முடியும்.
+- ** முதலீட்டு திட்டமிடல்: ** முதலீட்டாளர்கள் தங்கள் நிலையான முதலீடுகளில் எவ்வளவு ஆர்வத்தை சம்பாதிப்பார்கள் என்பதை எளிதாக மதிப்பிட முடியும்.
+- ** விரைவான நிதி முடிவுகள்: ** கடன்களின் வட்டி செலவு அல்லது சேமிப்பின் வருமானத்தின் அடிப்படையில் முடிவுகளை எடுக்க சூத்திரம் நேரடியான வழியை வழங்குகிறது.
+
+### அடிக்கடி கேட்கப்படும் கேள்விகள் (கேள்விகள்)
+
+#### 1. ** எளிய ஆர்வம் என்றால் என்ன? **
+எளிய வட்டி என்பது அதிபரின் மீதான ஆர்வத்தைக் கணக்கிடுவதற்கான ஒரு முறையாகும், அங்கு வட்டி ஆரம்பத்தில் மட்டுமே வசூலிக்கப்படுகிறது, காலப்போக்கில் குவிக்கும் வட்டிக்கு அல்ல.
+
+#### 2. ** எளிய ஆர்வத்தை கணக்கிடுவதற்கான சூத்திரம் என்ன? **
+எளிய ஆர்வத்தை கணக்கிடுவதற்கான சூத்திரம்:
 
 $$
-A = P + SI
+Si = \ frac {p \ times r \ times t} {100}
 $$
 
-Where:
-- **A** = Total Amount
-- **P** = Principal
-- **SI** = Simple Interest calculated using the formula
+** p ** என்பது முதன்மையானது, ** r ** என்பது ஆண்டுக்கு வட்டி விகிதம், மற்றும் ** t ** என்பது ஆண்டுகளில் நேரம்.
 
-#### 8. **Can simple interest change over time?**
-No, simple interest remains constant as it is calculated on the principal amount only. There is no compounding of interest over time.
+#### 3. ** எளிய ஆர்வம் பொதுவாக எங்கே பயன்படுத்தப்படுகிறது? **
+கார் கடன்கள், குறுகிய கால தனிப்பட்ட கடன்கள், அரசு பத்திரங்கள் மற்றும் சில வகையான சேமிப்புக் கணக்குகளில் எளிய ஆர்வம் பயன்படுத்தப்படுகிறது.
 
-#### 9. **What happens if I repay a loan earlier in a simple interest scenario?**
-In loans using simple interest, if you repay the loan earlier, the interest amount decreases as interest is calculated based on the time the loan is outstanding.
+####. ** எளிய ஆர்வத்திற்கும் கூட்டு ஆர்வத்திற்கும் என்ன வித்தியாசம்? **
+எளிய வட்டி முதன்மைத் தொகையில் மட்டுமே கணக்கிடப்படுகிறது, அதே நேரத்தில் கூட்டு வட்டி முதன்மை மற்றும் திரட்டப்பட்ட வட்டி இரண்டிலும் கணக்கிடப்படுகிறது.எளிமையான ஆர்வத்தில், வட்டி தொகை மாறாமல் உள்ளது, அதேசமயம் கூட்டு ஆர்வத்தில், வட்டி காலப்போக்கில் அதிவேகமாக வளர்கிறது.
 
-#### 10. **How do lenders use simple interest to calculate EMIs?**
-In simple interest loans, EMIs are calculated by dividing the total of the principal and interest evenly over the loan tenure. This ensures that each EMI consists of both a portion of the principal and the interest accrued.
+#### 5. ** கூட்டு ஆர்வத்தை விட எளிய ஆர்வமா? **
+இது சூழலைப் பொறுத்தது.கடன் வாங்குபவர்களுக்கு, எளிய வட்டி பொதுவாக சிறந்தது, ஏனெனில் இது குறைந்த மொத்த வட்டி செலுத்துதல்களை விளைவிக்கிறது.முதலீட்டாளர்களைப் பொறுத்தவரை, கூட்டு வட்டி MOR ஆக இருக்கலாம் மின் நன்மை பயக்கும், ஏனெனில் இது முதன்மை மற்றும் திரட்டப்பட்ட வட்டி இரண்டிலும் வட்டி கூட்டு காரணமாக காலப்போக்கில் அதிக வருமானத்தை ஏற்படுத்தும்.
+
+#### 6. ** நீண்ட கால முதலீடுகளுக்கு எளிய ஆர்வத்தைப் பயன்படுத்த முடியுமா? **
+எளிய ஆர்வம் பொதுவாக நீண்ட கால முதலீடுகளுக்கு பயன்படுத்தப்படாது, ஏனெனில் காலப்போக்கில் கூட்டு வட்டி மிகவும் நன்மை பயக்கும்.இருப்பினும், குறுகிய கால முதலீடுகள் அல்லது கடன்களுக்கு, எளிய வட்டி வருமானம் அல்லது கொடுப்பனவுகளை கணக்கிடுவதற்கான தெளிவான மற்றும் கணிக்கக்கூடிய வழியாகும்.
+
+#### 7. ** செலுத்த வேண்டிய அல்லது பெறத்தக்க மொத்த தொகையை நான் எவ்வாறு கணக்கிடுவது? **
+எளிய வட்டியைப் பயன்படுத்திய பிறகு செலுத்த வேண்டிய அல்லது பெறக்கூடிய மொத்த தொகை:
+
+$$
+A = p + si
+$$
+
+எங்கே:
+- ** A ** = மொத்த தொகை
+- ** ப ** = முதன்மை
+- ** Si ** = சூத்திரத்தைப் பயன்படுத்தி கணக்கிடப்பட்ட எளிய ஆர்வம்
+
+#### 8. ** காலப்போக்கில் எளிய வட்டி மாற முடியுமா? **
+இல்லை, எளிய வட்டி முதன்மை தொகையில் மட்டுமே கணக்கிடப்படுவதால் மாறாமல் இருக்கும்.காலப்போக்கில் ஆர்வம் இல்லை.
+
+#### 9. ** ஒரு எளிய வட்டி சூழ்நிலையில் நான் முன்பு கடனை திருப்பிச் செலுத்தினால் என்ன ஆகும்? **
+எளிய வட்டியைப் பயன்படுத்தும் கடன்களில், நீங்கள் முன்பு கடனை திருப்பிச் செலுத்தினால், கடன் நிலுவையில் உள்ள நேரத்தின் அடிப்படையில் வட்டி கணக்கிடப்படுவதால் வட்டி தொகை குறைகிறது.
+
+#### 10. ** கடன் வழங்குநர்கள் EMIS ஐக் கணக்கிட எளிய ஆர்வத்தை எவ்வாறு பயன்படுத்துகிறார்கள்? **
+எளிமையான வட்டி கடன்களில், கடன் பதவிக்காலத்தில் முதன்மை மற்றும் வட்டியின் மொத்தத்தை சமமாக பிரிப்பதன் மூலம் ஈ.எம்.ஐ.க்கள் கணக்கிடப்படுகின்றன.ஒவ்வொரு ஈ.எம்.ஐ.யும் அதிபரின் ஒரு பகுதி மற்றும் திரட்டப்பட்ட ஆர்வம் இரண்டையும் கொண்டிருப்பதை இது உறுதி செய்கிறது.
 
 ---
-### AI-Generated Content Disclaimer
+### AI- உருவாக்கிய உள்ளடக்க மறுப்பு
 
-This content was **AI-generated** using natural language processing technology. While efforts have been made to ensure the accuracy and relevance of the information, it may not be perfect. Users are encouraged to verify the information independently where applicable.
+இந்த உள்ளடக்கம் இயற்கையான மொழி செயலாக்க தொழில்நுட்பத்தைப் பயன்படுத்தி ** AI- உருவாக்கப்பட்ட ** ஆகும்.தகவல்களின் துல்லியத்தையும் பொருத்தத்தையும் உறுதிப்படுத்த முயற்சிகள் மேற்கொள்ளப்பட்டாலும், அது சரியானதாக இருக்காது.பொருந்தக்கூடிய இடங்களில் தகவல்களை சுயாதீனமாக சரிபார்க்க பயனர்கள் ஊக்குவிக்கப்படுகிறார்கள்.
 
-**Note**: AI-generated content should be used as a supportive tool, not a substitute for professional advice.
+** குறிப்பு **: AI- உருவாக்கிய உள்ளடக்கம் ஒரு ஆதரவான கருவியாகப் பயன்படுத்தப்பட வேண்டும், தொழில்முறை ஆலோசனைக்கு மாற்றாக அல்ல.
 
-**Note**:  04-Oct-2024 : Currently, the site is under development and will be validated and updated soon
+** குறிப்பு **: 04-அக் -2024: தற்போது, ​​தளம் வளர்ச்சியில் உள்ளது, விரைவில் சரிபார்க்கப்பட்டு புதுப்பிக்கப்படும்

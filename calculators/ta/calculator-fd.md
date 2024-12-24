@@ -1,76 +1,76 @@
-## FD Calculator
+## FD கால்குலேட்டர்
 
-## Definition
-A Fixed Deposit (FD) is a financial instrument provided by banks and non-banking financial companies (NBFCs) that offers investors a higher interest rate than a regular savings account, until the given maturity date. The investor deposits a lump sum amount for a fixed period, and the interest earned on the deposit is paid at maturity or at regular intervals.
+## வரையறை
+ஒரு நிலையான வைப்பு (எஃப்.டி) என்பது வங்கிகள் மற்றும் வங்கி அல்லாத நிதி நிறுவனங்கள் (என்.பி.எஃப்.சி) வழங்கிய நிதிக் கருவியாகும், இது முதலீட்டாளர்களுக்கு வழக்கமான சேமிப்புக் கணக்கை விட அதிக வட்டி விகிதத்தை வழங்குகிறது, கொடுக்கப்பட்ட முதிர்வு தேதி வரை.முதலீட்டாளர் ஒரு குறிப்பிட்ட காலத்திற்கு மொத்த தொகை தொகையை வைக்கிறது, மேலும் வைப்புத்தொகையில் சம்பாதித்த வட்டி முதிர்ச்சியில் அல்லது வழக்கமான இடைவெளியில் செலுத்தப்படுகிறது.
 
-## Formula to Calculate FD Maturity Amount
+## FD முதிர்வு தொகையைக் கணக்கிட சூத்திரம்
 
-The formula to calculate the maturity amount for a Fixed Deposit is:
-
-$$
-M = P \times \left(1 + \frac{r}{n}\right)^{nt}
-$$
-
-Where:
-- **M** = Maturity Amount
-- **P** = Principal Amount (initial deposit)
-- **r** = Annual Interest Rate (in decimal)
-- **n** = Number of times interest is compounded per year
-- **t** = Time in years
-
-### Example:
-
-If you invest ₹1,00,000 at an annual interest rate of 6% compounded quarterly for 3 years, the maturity amount can be calculated as:
+ஒரு நிலையான வைப்புத்தொகைக்கான முதிர்வு தொகையை கணக்கிடுவதற்கான சூத்திரம்:
 
 $$
-M = 1,00,000 \times \left(1 + \frac{0.06}{4}\right)^{4 \times 3}
+M = p \ முறை \ இடது (1 + \ frac {r} {n} \ வலது)^{nt}
 $$
 
-By solving, you'll get a maturity amount of approximately ₹1,19,101.64.
+எங்கே:
+- ** மீ ** = முதிர்வு அளவு
+- ** பி ** = முதன்மை தொகை (ஆரம்ப வைப்பு)
+- ** ஆர் ** = வருடாந்திர வட்டி வீதம் (தசமத்தில்)
+- ** n ** = வருடத்திற்கு வட்டி எண்ணிக்கை அதிகமாகும்
+- ** t ** = ஆண்டுகளில் நேரம்
 
-## Use of the Formula
+### எடுத்துக்காட்டு:
 
-- **Investment Growth**: The FD maturity amount formula helps investors estimate the growth of their investments over time.
-- **Comparative Analysis**: Investors can compare different FD offers by varying principal amounts, interest rates, and tenures to find the most lucrative option.
-- **Financial Planning**: This formula aids individuals in planning for future expenses, such as education or retirement, by providing clarity on how much money will be available at maturity.
+3 ஆண்டுகளுக்கு 6% கூட்டு காலாண்டு ஆண்டு வட்டி விகிதத்தில், 000 1,00,000 முதலீடு செய்தால், முதிர்வு தொகையை இவ்வாறு கணக்கிட முடியும்:
 
-## Frequently Asked Questions (FAQ)
+$$
+M = 1,00,000 \ முறை \ இடது (1 + \ frac {0.06} {4} \ வலது)^{4 \ முறை 3}
+$$
 
-### 1. **What is a Fixed Deposit?**
-A Fixed Deposit (FD) is a savings option offered by banks where you can deposit a lump sum amount for a specific tenure at a fixed interest rate.
+தீர்ப்பதன் மூலம், முதிர்ச்சி அளவு சுமார் 19 1,19,101.64 கிடைக்கும்.
 
-### 2. **How is interest calculated on an FD?**
-Interest on an FD is calculated based on the principal amount, the interest rate, and the tenure using the formula mentioned above.
+## சூத்திரத்தின் பயன்பாடு
 
-### 3. **Is the interest on FD taxable?**
-Yes, the interest earned on Fixed Deposits is taxable under the Income Tax Act in India, as per the individual's tax slab.
+- ** முதலீட்டு வளர்ச்சி **: எஃப்.டி முதிர்வு தொகை சூத்திரம் முதலீட்டாளர்கள் காலப்போக்கில் அவர்களின் முதலீடுகளின் வளர்ச்சியை மதிப்பிட உதவுகிறது.
+.
+.
 
-### 4. **Can I withdraw my FD amount before maturity?**
-Yes, most banks allow premature withdrawal of Fixed Deposits, but it may attract a penalty and reduced interest rate.
+## அடிக்கடி கேட்கப்படும் கேள்விகள் (கேள்விகள்)
 
-### 5. **What happens if I miss an FD interest payout?**
-If you miss an interest payout date, the interest will usually be credited to your account automatically on the next due date.
+### 1. ** நிலையான வைப்பு என்றால் என்ன? **
+ஒரு நிலையான வைப்பு (எஃப்.டி) என்பது வங்கிகளால் வழங்கப்படும் சேமிப்பு விருப்பமாகும், அங்கு நீங்கள் ஒரு குறிப்பிட்ட பதவிக்காலத்திற்கு ஒரு மொத்த தொகை தொகையை ஒரு நிலையான வட்டி விகிதத்தில் டெபாசிட் செய்யலாம்.
 
-### 6. **What is the minimum amount required to open an FD?**
-The minimum amount required to open an FD varies by bank but is often around ₹1,000 to ₹10,000.
+### 2. ** ஒரு FD இல் வட்டி எவ்வாறு கணக்கிடப்படுகிறது? **
+ஒரு எஃப்.டி மீதான வட்டி முக்கிய தொகை, வட்டி விகிதம் மற்றும் மேலே குறிப்பிட்ட சூத்திரத்தைப் பயன்படுத்தும் பதவிக்காலம் ஆகியவற்றின் அடிப்படையில் கணக்கிடப்படுகிறது.
 
-### 7. **Are FDs safe investments?**
-Yes, Fixed Deposits are considered safe investments as they are insured by the Deposit Insurance and Credit Guarantee Corporation (DICGC) up to ₹5 lakh.
+### 3. ** FD மீதான வட்டி வரி விதிக்கப்படுமா? **
+ஆம், நிலையான வைப்புகளில் சம்பாதித்த வட்டி இந்தியாவில் வருமான வரிச் சட்டத்தின் கீழ், தனிநபரின் வரி அடுக்கின் படி வரி விதிக்கப்படுகிறது.
 
-### 8. **What are cumulative and non-cumulative FDs?**
-Cumulative FDs reinvest the interest earned, leading to higher returns at maturity, while non-cumulative FDs pay interest at regular intervals.
+### 4. ** முதிர்ச்சிக்கு முன் எனது FD தொகையை திரும்பப் பெற முடியுமா? **
+ஆமாம், பெரும்பாலான வங்கிகள் நிலையான வைப்புகளை முன்கூட்டியே திரும்பப் பெற அனுமதிக்கின்றன, ஆனால் இது அபராதம் மற்றும் வட்டி விகிதத்தை குறைக்கக்கூடும்.
 
-### 9. **Can I take a loan against my FD?**
-Yes, many banks offer loans against Fixed Deposits, allowing you to borrow money while keeping your deposit intact.
+### 5. ** நான் ஒரு FD வட்டி செலுத்துதலை தவறவிட்டால் என்ன ஆகும்? **
+வட்டி செலுத்தும் தேதியை நீங்கள் தவறவிட்டால், வட்டி வழக்கமாக அடுத்த தேதியில் தானாகவே உங்கள் கணக்கிற்கு வரவு வைக்கப்படும்.
 
-### 10. **How do I calculate the maturity amount for an FD?**
-You can use the FD maturity amount formula provided above to calculate the maturity amount based on the principal, interest rate, and tenure.
+### 6. ** ஒரு FD ஐ திறக்க குறைந்தபட்ச தொகை என்ன? **
+ஒரு FD ஐ திறக்க தேவையான குறைந்தபட்ச தொகை வங்கியால் மாறுபடும், ஆனால் பெரும்பாலும் ₹ 1,000 முதல் ₹ 10,000 வரை இருக்கும்.
+
+### 7. ** FDS பாதுகாப்பான முதலீடுகள்? **
+ஆம், நிலையான வைப்புத்தொகை பாதுகாப்பான முதலீடுகளாகக் கருதப்படுகிறது, ஏனெனில் அவை டெபாசிட் காப்பீடு மற்றும் கடன் உத்தரவாதக் கழகம் (டி.ஐ.சி.ஜி.சி) மூலம் 5 லட்சம் வரை காப்பீடு செய்யப்படுகின்றன.
+
+### 8. ** ஒட்டுமொத்த மற்றும் உச்சம் அல்லாத எஃப்.டி.எஸ் என்றால் என்ன? **
+ஒட்டுமொத்த எஃப்.டி.எஸ் சம்பாதித்த வட்டியை மீண்டும் முதலீடு செய்கிறது, இது முதிர்ச்சியில் அதிக வருமானத்திற்கு வழிவகுக்கிறது, அதே நேரத்தில் சிம்முலேடிவ் அல்லாத எஃப்.டி.எஸ் வழக்கமான இடைவெளியில் வட்டி செலுத்துகிறது.
+
+### 9. ** எனது எஃப்.டி.க்கு எதிராக கடன் எடுக்கலாமா? **
+ஆம், பல வங்கிகள் நிலையான வைப்புகளுக்கு எதிராக கடன்களை வழங்குகின்றன, உங்கள் வைப்புத்தொகையை அப்படியே வைத்திருக்கும்போது கடன் வாங்க அனுமதிக்கிறது.
+
+### 10. ** ஒரு FD க்கான முதிர்வு தொகையை எவ்வாறு கணக்கிடுவது? **
+முதன்மை, வட்டி வீதம் மற்றும் பதவிக்காலத்தின் அடிப்படையில் முதிர்வு தொகையை கணக்கிட மேலே வழங்கப்பட்ட FD முதிர்வு தொகை சூத்திரத்தைப் பயன்படுத்தலாம்.
 
 ---
-## AI-Generated Content Disclaimer
+## AI- உருவாக்கிய உள்ளடக்க மறுப்பு
 
-This content was **AI-generated** using natural language processing technology. While efforts have been made to ensure the accuracy and relevance of the information, it may not be perfect. Users are encouraged to verify the information independently where applicable.
+இந்த உள்ளடக்கம் இயற்கையான மொழி செயலாக்க தொழில்நுட்பத்தைப் பயன்படுத்தி ** AI- உருவாக்கப்பட்ட ** ஆகும்.தகவல்களின் துல்லியத்தையும் பொருத்தத்தையும் உறுதிப்படுத்த முயற்சிகள் மேற்கொள்ளப்பட்டாலும், அது சரியானதாக இருக்காது.பொருந்தக்கூடிய இடங்களில் தகவல்களை சுயாதீனமாக சரிபார்க்க பயனர்கள் ஊக்குவிக்கப்படுகிறார்கள்.
 
-**Note**: AI-generated content should be used as a supportive tool, not a substitute for professional advice.
+** குறிப்பு **: AI- உருவாக்கிய உள்ளடக்கம் ஒரு ஆதரவான கருவியாகப் பயன்படுத்தப்பட வேண்டும், தொழில்முறை ஆலோசனைக்கு மாற்றாக அல்ல.
 
-**Note**: Currently, the site is under development and will be validated and updated soon (27-Sep-2024).
+** குறிப்பு **: தற்போது, ​​தளம் வளர்ச்சியில் உள்ளது, இது விரைவில் சரிபார்க்கப்பட்டு புதுப்பிக்கப்படும் (27-செப் -2024).

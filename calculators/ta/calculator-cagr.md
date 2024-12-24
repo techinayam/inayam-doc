@@ -1,112 +1,112 @@
-## CAGR Calculator
+## CAGR கால்குலேட்டர்
 
-### Definition
+### வரையறை
 
-The **Compound Annual Growth Rate (CAGR)** is a useful measure of growth over multiple time periods. It represents one of the most accurate ways to calculate and determine returns for anything that can rise or fall in value over time. Unlike simple average growth rates, **CAGR** smooths out the volatility of year-to-year growth to give a constant rate of return over a period of time.
+** கூட்டு வருடாந்திர வளர்ச்சி விகிதம் (CAGR) ** என்பது பல காலங்களில் வளர்ச்சியின் பயனுள்ள நடவடிக்கையாகும்.காலப்போக்கில் மதிப்பில் உயர அல்லது வீழ்ச்சியடையக்கூடிய எதற்கும் வருவாயைக் கணக்கிட்டு தீர்மானிக்க இது மிகவும் துல்லியமான வழிகளில் ஒன்றாகும்.எளிய சராசரி வளர்ச்சி விகிதங்களைப் போலன்றி, ** CAGR ** ஒரு குறிப்பிட்ட காலப்பகுதியில் நிலையான வருவாய் விகிதத்தை அளிக்க ஆண்டு முதல் ஆண்டு வளர்ச்சியின் ஏற்ற இறக்கம் ஆகியவற்றை மென்மையாக்குகிறது.
 
-CAGR is especially useful for comparing the growth rates of different investments, businesses, or even sectors of the economy, as it accounts for the effects of compounding over time.
+வெவ்வேறு முதலீடுகள், வணிகங்கள் அல்லது பொருளாதாரத்தின் துறைகளின் வளர்ச்சி விகிதங்களை ஒப்பிடுவதற்கு CAGR குறிப்பாக பயனுள்ளதாக இருக்கும், ஏனெனில் இது காலப்போக்கில் கூட்டு விளைவுகளின் விளைவுகளை ஏற்படுத்துகிறது.
 
-### Formula to Calculate CAGR
+CAGR ஐக் கணக்கிட ### சூத்திரம்
 
-The formula to calculate **CAGR** is:
-
-$$
-CAGR = \left(\frac{EV}{BV}\right)^\frac{1}{n} - 1
-$$
-
-Where:
-- **CAGR** = Compound Annual Growth Rate
-- **EV** = Ending Value of the investment or business after **n** years
-- **BV** = Beginning Value of the investment or business
-- **n** = Number of years
-
-#### Explanation:
-- **Beginning Value (BV):** The initial value or starting amount of the investment or business.
-- **Ending Value (EV):** The value of the investment or business at the end of the period.
-- **n (years):** The total number of years over which growth is measured.
-
-#### Example:
-
-If you invested ₹50,000 in a stock five years ago and its value has grown to ₹90,000, you can calculate the CAGR as follows:
+** CAGR ** கணக்கிடுவதற்கான சூத்திரம்:
 
 $$
-CAGR = \left(\frac{90000}{50000}\right)^\frac{1}{5} - 1
+CAGR = \ இடது (\ frac {ev} {bv} \ வலது)^\ frac {1} {n} - 1
 $$
 
-By solving this, you’ll find that the CAGR is approximately **12.93%** per annum. This means your investment has grown at an average annual rate of 12.93% over the five-year period.
+எங்கே:
+- ** CAGR ** = கூட்டு ஆண்டு வளர்ச்சி விகிதம்
+- ** ev ** = ** n ** ஆண்டுகளுக்குப் பிறகு முதலீடு அல்லது வணிகத்தின் மதிப்பை முடித்தல்
+- ** பி.வி ** = முதலீடு அல்லது வணிகத்தின் தொடக்க மதிப்பு
+- ** n ** = ஆண்டுகளின் எண்ணிக்கை
 
-### Importance of CAGR
+#### விளக்கம்:
+- ** தொடக்க மதிப்பு (பி.வி): ** முதலீடு அல்லது வணிகத்தின் ஆரம்ப மதிப்பு அல்லது தொடக்க அளவு.
+- ** முடிவு மதிப்பு (ஈ.வி): ** காலத்தின் முடிவில் முதலீடு அல்லது வணிகத்தின் மதிப்பு.
+- ** n (ஆண்டுகள்): ** வளர்ச்சி அளவிடப்படும் மொத்த ஆண்டுகளின் எண்ணிக்கை.
 
-CAGR is often referred to as the **"smoothed" growth rate**, because it measures the growth of an investment or business as if it had grown at a steady rate annually. This makes CAGR particularly useful when evaluating the performance of investments, business revenues, or other financial metrics that fluctuate over time.
+#### எடுத்துக்காட்டு:
 
-#### Benefits of Using CAGR:
-1. **Simplicity**: Provides a single, easy-to-understand percentage rate of growth over a period, despite yearly fluctuations.
-2. **Comparison**: Helps compare the growth rates of different investments or businesses over the same or different periods.
-3. **Consistency**: Ideal for measuring the past performance of an investment or estimating future performance when a consistent growth rate is assumed.
-
-### Use of the Formula
-
-- **Investment Growth**: CAGR helps investors evaluate how much an investment has grown over time, giving a clearer picture than just looking at raw annual returns.
-- **Business Revenue Growth**: CAGR is often used by businesses to demonstrate revenue growth over time to potential investors or shareholders.
-- **Goal Setting**: Investors and businesses use CAGR to set realistic growth targets for the future.
-
-### Difference Between CAGR and Other Growth Metrics
-
-| **CAGR**                                   | **Other Growth Metrics**                      |
-|--------------------------------------------|-----------------------------------------------|
-| Accounts for compounding over time.        | Simple growth rates do not factor in compounding. |
-| Provides a "smoothed" growth rate.         | Can fluctuate year by year.                   |
-| Ideal for long-term growth analysis.       | Best for short-term or specific period analysis. |
-
-### Frequently Asked Questions (FAQ)
-
-#### 1. **What is CAGR?**
-CAGR stands for Compound Annual Growth Rate. It represents the annual growth rate of an investment or business over a specified period, assuming the growth was consistent every year.
-
-#### 2. **How do I calculate CAGR?**
-The formula for calculating CAGR is:
+ஐந்து ஆண்டுகளுக்கு முன்பு நீங்கள் ₹ 50,000 முதலீடு செய்திருந்தால், அதன் மதிப்பு, 000 90,000 ஆக வளர்ந்திருந்தால், CAGR ஐ பின்வருமாறு கணக்கிடலாம்:
 
 $$
-CAGR = \left(\frac{EV}{BV}\right)^\frac{1}{n} - 1
+CAGR = \ இடது (\ frac {90000} {50000} \ வலது)^\ frac {1} {5} - 1
 $$
 
-Where:
-- **EV** = Ending Value
-- **BV** = Beginning Value
-- **n** = Number of years
+இதைத் தீர்ப்பதன் மூலம், CAGR ஆண்டுக்கு சுமார் ** 12.93%** என்பதை நீங்கள் காணலாம்.இதன் பொருள் உங்கள் முதலீடு ஐந்தாண்டு காலத்தில் சராசரியாக ஆண்டு விகிதத்தில் 12.93% அதிகரித்துள்ளது.
 
-#### 3. **What is the difference between CAGR and average growth rate?**
-While average growth simply adds up all the growth rates and divides by the number of periods, CAGR considers the compounding effect and provides a smoothed, constant growth rate over the period.
+### CAGR இன் முக்கியத்துவம்
 
-#### 4. **Why is CAGR important?**
-CAGR is important because it shows how much an investment or business has grown annually over time, accounting for the effects of compounding. This makes it easier to compare different investments or track business growth.
+CAGR பெரும்பாலும் ** "மென்மையான" வளர்ச்சி விகிதம் ** என குறிப்பிடப்படுகிறது, ஏனெனில் இது ஒரு முதலீடு அல்லது வணிகத்தின் வளர்ச்சியை ஆண்டுதோறும் நிலையான விகிதத்தில் வளர்ந்ததைப் போல அளவிடுகிறது.காலப்போக்கில் ஏற்ற இறக்கமான முதலீடுகள், வணிக வருவாய் அல்லது பிற நிதி அளவீடுகளின் செயல்திறனை மதிப்பிடும்போது இது CAGR ஐ குறிப்பாக பயனுள்ளதாக இருக்கும்.
 
-#### 5. **Is CAGR always accurate?**
-CAGR is a great tool for providing an overall growth rate, but it may not fully capture fluctuations within individual years. It assumes steady growth, so it’s best used when you're looking at longer periods and want to smooth out volatility.
+CAGR ஐப் பயன்படுத்துவதன் நன்மைகள் ####:
+1. ** எளிமை **: வருடாந்திர ஏற்ற இறக்கங்கள் இருந்தபோதிலும், ஒரு காலகட்டத்தில் ஒற்றை, எளிதில் புரிந்துகொள்ளக்கூடிய சதவீத வளர்ச்சி விகிதத்தை வழங்குகிறது.
+2. ** ஒப்பீடு **: வெவ்வேறு முதலீடுகள் அல்லது வணிகங்களின் வளர்ச்சி விகிதங்களை ஒரே அல்லது வெவ்வேறு காலங்களில் ஒப்பிட உதவுகிறது.
+3.
 
-#### 6. **Where is CAGR commonly used?**
-CAGR is used in several contexts, such as:
-- **Investment growth analysis**: To evaluate how much an investment has grown over a specific time period.
-- **Business financial performance**: Companies use CAGR to measure the growth of revenues, profits, or other financial metrics.
-- **Comparing funds or sectors**: CAGR is often used to compare mutual funds, sectors, or asset classes over time.
+### சூத்திரத்தின் பயன்பாடு
 
-#### 7. **Can CAGR predict future growth?**
-While CAGR is excellent for evaluating past performance, it cannot predict future performance as it assumes steady growth. However, it can help set reasonable expectations based on historical data.
+.
+.
+- ** இலக்கு அமைத்தல் **: முதலீட்டாளர்கள் மற்றும் வணிகங்கள் எதிர்காலத்திற்கான யதார்த்தமான வளர்ச்சி இலக்குகளை அமைக்க CAGR ஐப் பயன்படுத்துகின்றன.
 
-#### 8. **What are the limitations of CAGR?**
-CAGR assumes a constant growth rate, which may not always reflect the actual yearly performance of an investment or business. It does not capture volatility, so it might not be the best metric for highly fluctuating investments.
+### CAGR மற்றும் பிற வளர்ச்சி அளவீடுகளுக்கு இடையிலான வேறுபாடு
 
-#### 9. **How do I compare different investments using CAGR?**
-To compare different investments, calculate the CAGR for each investment over the same period. The investment with the higher CAGR would have grown faster over that time.
+|** CAGR ** |** பிற வளர்ச்சி அளவீடுகள் ** |
+| ------------------------------------------------ | ---------------------------------------------------- |
+|காலப்போக்கில் கூட்டு செய்வதற்கான கணக்குகள்.|எளிய வளர்ச்சி விகிதங்கள் கூட்டுக்கு காரணியாக இல்லை.|
+|"மென்மையான" வளர்ச்சி விகிதத்தை வழங்குகிறது.|ஆண்டுதோறும் ஏற்ற இறக்க முடியும்.|
+|நீண்டகால வளர்ச்சி பகுப்பாய்விற்கு ஏற்றது.|குறுகிய கால அல்லது குறிப்பிட்ட கால பகுப்பாய்விற்கு சிறந்தது.|
 
-#### 10. **What does a high CAGR indicate?**
-A high CAGR indicates that an investment or business has grown quickly over the period analyzed. However, investors should also consider risk factors and market conditions.
+### அடிக்கடி கேட்கப்படும் கேள்விகள் (கேள்விகள்)
+
+#### 1. ** CAGR என்றால் என்ன? **
+CAGR என்பது கூட்டு ஆண்டு வளர்ச்சி விகிதத்தைக் குறிக்கிறது.இது ஒரு குறிப்பிட்ட காலப்பகுதியில் ஒரு முதலீடு அல்லது வணிகத்தின் வருடாந்திர வளர்ச்சி விகிதத்தைக் குறிக்கிறது, ஒவ்வொரு ஆண்டும் வளர்ச்சி சீரானது என்று கருதி.
+
+#### 2. ** CAGR ஐ எவ்வாறு கணக்கிடுவது? **
+CAGR ஐக் கணக்கிடுவதற்கான சூத்திரம்:
+
+$$
+CAGR = \ இடது (\ frac {ev} {bv} \ வலது)^\ frac {1} {n} - 1
+$$
+
+எங்கே:
+- ** ev ** = முடிவு மதிப்பு
+- ** பி.வி ** = தொடக்க மதிப்பு
+- ** n ** = ஆண்டுகளின் எண்ணிக்கை
+
+#### 3. ** CAGR க்கும் சராசரி வளர்ச்சி விகிதத்திற்கும் என்ன வித்தியாசம்? **
+சராசரி வளர்ச்சி வெறுமனே அனைத்து வளர்ச்சி விகிதங்களையும் சேர்க்கிறது மற்றும் காலங்களின் எண்ணிக்கையால் பிரிக்கிறது, CAGR கூட்டு விளைவைக் கருதுகிறது மற்றும் காலப்பகுதியில் மென்மையான, நிலையான வளர்ச்சி விகிதத்தை வழங்குகிறது.
+
+#### 4. ** CAGR ஏன் முக்கியமானது? **
+CAGR முக்கியமானது, ஏனென்றால் காலப்போக்கில் ஆண்டுதோறும் ஒரு முதலீடு அல்லது வணிகம் எவ்வளவு வளர்ந்துள்ளது என்பதை இது காட்டுகிறது, இது கலவையின் விளைவுகளை கணக்கிடுகிறது.இது வெவ்வேறு முதலீடுகளை ஒப்பிடுவது அல்லது வணிக வளர்ச்சியைக் கண்காணிப்பது எளிதாக்குகிறது.
+
+#### 5. ** CAGR எப்போதும் துல்லியமாக இருக்கிறதா? **
+CAGR என்பது ஒட்டுமொத்த வளர்ச்சி விகிதத்தை வழங்குவதற்கான சிறந்த கருவியாகும், ஆனால் இது தனிப்பட்ட ஆண்டுகளில் ஏற்ற இறக்கங்களை முழுமையாகப் பிடிக்காது.இது நிலையான வளர்ச்சியைக் கருதுகிறது, எனவே நீங்கள் நீண்ட காலத்தைப் பார்க்கும்போது மற்றும் ஏற்ற இறக்கம் மென்மையாக்க விரும்பும் போது இது சிறப்பாகப் பயன்படுத்தப்படுகிறது.
+
+#### 6. ** CAGR பொதுவாக எங்கே பயன்படுத்தப்படுகிறது? **
+CAGR பல சூழல்களில் பயன்படுத்தப்படுகிறது:
+- ** முதலீட்டு வளர்ச்சி பகுப்பாய்வு **: ஒரு குறிப்பிட்ட காலப்பகுதியில் ஒரு முதலீடு எவ்வளவு வளர்ந்துள்ளது என்பதை மதிப்பீடு செய்ய.
+- ** வணிக நிதி செயல்திறன் **: வருவாய், இலாபங்கள் அல்லது பிற நிதி அளவீடுகளின் வளர்ச்சியை அளவிட நிறுவனங்கள் CAGR ஐப் பயன்படுத்துகின்றன.
+- ** நிதிகள் அல்லது துறைகளை ஒப்பிடுதல் **: காலப்போக்கில் பரஸ்பர நிதிகள், துறைகள் அல்லது சொத்து வகுப்புகளை ஒப்பிட்டுப் பார்க்க CAGR பெரும்பாலும் பயன்படுத்தப்படுகிறது.
+
+#### 7. ** CAGR எதிர்கால வளர்ச்சியைக் கணிக்க முடியுமா? **
+கடந்தகால செயல்திறனை மதிப்பிடுவதற்கு CAGR சிறந்தது என்றாலும், எதிர்கால செயல்திறனை இது கணிக்க முடியாது, ஏனெனில் இது நிலையான வளர்ச்சியைக் கருதுகிறது.இருப்பினும், வரலாற்று தரவுகளின் அடிப்படையில் நியாயமான எதிர்பார்ப்புகளை அமைக்க இது உதவும்.
+
+#### 8. ** CAGR இன் வரம்புகள் என்ன? **
+CAGR ஒரு நிலையான வளர்ச்சி விகிதத்தை எடுத்துக்கொள்கிறது, இது ஒரு முதலீடு அல்லது வணிகத்தின் உண்மையான வருடாந்திர செயல்திறனை எப்போதும் பிரதிபலிக்காது.இது நிலையற்ற தன்மையைக் கைப்பற்றாது, எனவே இது மிகவும் ஏற்ற இறக்கமான முதலீடுகளுக்கு சிறந்த மெட்ரிக் அல்ல.
+
+#### 9. ** CAGR ஐப் பயன்படுத்தி வெவ்வேறு முதலீடுகளை எவ்வாறு ஒப்பிடுவது? **
+வெவ்வேறு முதலீடுகளை ஒப்பிட்டுப் பார்க்க, ஒரே காலகட்டத்தில் ஒவ்வொரு முதலீட்டிற்கும் CAGR ஐக் கணக்கிடுங்கள்.அதிக CAGR உடனான முதலீடு அந்த நேரத்தில் வேகமாக வளர்ந்திருக்கும்.
+
+#### 10. ** உயர் CAGR எதைக் குறிக்கிறது? **
+பகுப்பாய்வு செய்யப்பட்ட காலப்பகுதியில் ஒரு முதலீடு அல்லது வணிகம் விரைவாக வளர்ந்துள்ளது என்பதை உயர் CAGR குறிக்கிறது.இருப்பினும், முதலீட்டாளர்கள் ஆபத்து காரணிகள் மற்றும் சந்தை நிலைமைகளையும் பரிசீலிக்க வேண்டும்.
 
 ---
-### AI-Generated Content Disclaimer
+### AI- உருவாக்கிய உள்ளடக்க மறுப்பு
 
-This content was **AI-generated** using natural language processing technology. While efforts have been made to ensure the accuracy and relevance of the information, it may not be perfect. Users are encouraged to verify the information independently where applicable.
+இந்த உள்ளடக்கம் இயற்கையான மொழி செயலாக்க தொழில்நுட்பத்தைப் பயன்படுத்தி ** AI- உருவாக்கப்பட்ட ** ஆகும்.தகவல்களின் துல்லியத்தையும் பொருத்தத்தையும் உறுதிப்படுத்த முயற்சிகள் மேற்கொள்ளப்பட்டாலும், அது சரியானதாக இருக்காது.பொருந்தக்கூடிய இடங்களில் தகவல்களை சுயாதீனமாக சரிபார்க்க பயனர்கள் ஊக்குவிக்கப்படுகிறார்கள்.
 
-**Note**: AI-generated content should be used as a supportive tool, not a substitute for professional advice.
+** குறிப்பு **: AI- உருவாக்கிய உள்ளடக்கம் ஒரு ஆதரவான கருவியாகப் பயன்படுத்தப்பட வேண்டும், தொழில்முறை ஆலோசனைக்கு மாற்றாக அல்ல.
 
-**Note**:  04-Oct-2024 : Currently, the site is under development and will be validated and updated soon
+** குறிப்பு **: 04-அக் -2024: தற்போது, ​​தளம் வளர்ச்சியில் உள்ளது, விரைவில் சரிபார்க்கப்பட்டு புதுப்பிக்கப்படும்

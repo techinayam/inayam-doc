@@ -1,76 +1,76 @@
-## RD Calculator
+## rd கால்குலேட்டர்
 
-### Definition
-A Recurring Deposit (RD) is a financial product offered by banks and financial institutions that allows individuals to deposit a fixed amount regularly for a specified tenure. It combines the benefits of regular savings with the option of earning higher interest rates similar to Fixed Deposits. RDs are ideal for individuals who want to save a small amount periodically and earn interest on their deposits.
+### வரையறை
+தொடர்ச்சியான வைப்பு (ஆர்.டி) என்பது வங்கிகள் மற்றும் நிதி நிறுவனங்களால் வழங்கப்படும் நிதி தயாரிப்பு ஆகும், இது ஒரு குறிப்பிட்ட பதவிக்காலத்திற்கு ஒரு நிலையான தொகையை தவறாமல் டெபாசிட் செய்ய தனிநபர்களை அனுமதிக்கிறது.இது வழக்கமான சேமிப்பின் நன்மைகளை நிலையான வைப்புகளுக்கு ஒத்த அதிக வட்டி விகிதங்களை சம்பாதிக்கும் விருப்பத்துடன் ஒருங்கிணைக்கிறது.ஒரு சிறிய தொகையை அவ்வப்போது சேமிக்கவும், தங்கள் வைப்புகளில் வட்டி சம்பாதிக்கவும் விரும்பும் நபர்களுக்கு RD கள் சிறந்தவை.
 
-### Formula to Calculate RD Maturity Amount
+RD முதிர்வு தொகையை கணக்கிட ### சூத்திரம்
 
-The formula to calculate the maturity amount for a Recurring Deposit is:
-
-$$
-M = P \times \frac{(1 + r/n)^{nt} - 1}{(r/n)} \times (1 + r/n)
-$$
-
-Where:
-- **M** = Maturity Amount
-- **P** = Monthly Deposit Amount
-- **r** = Annual Interest Rate (in decimal)
-- **n** = Number of times interest is compounded per year (usually 12 for monthly)
-- **t** = Time in years
-
-#### Example:
-
-If you deposit ₹5,000 per month for 5 years at an annual interest rate of 7% compounded monthly, the maturity amount can be calculated as:
+தொடர்ச்சியான வைப்புத்தொகைக்கான முதிர்வு தொகையை கணக்கிடுவதற்கான சூத்திரம்:
 
 $$
-M = 5000 \times \frac{(1 + \frac{0.07}{12})^{12 \times 5} - 1}{\frac{0.07}{12}} \times (1 + \frac{0.07}{12})
+M = p \ முறை \ frac {(1 + r/n)^{nt} - 1} {(r/n)} times (1 + r/n)
 $$
 
-By solving, you'll get a maturity amount of approximately ₹3,70,918.64.
+எங்கே:
+- ** மீ ** = முதிர்வு அளவு
+- ** ப ** = மாதாந்திர வைப்புத் தொகை
+- ** ஆர் ** = வருடாந்திர வட்டி வீதம் (தசமத்தில்)
+- ** n ** = வருடத்திற்கு வட்டி எண்ணிக்கை அதிகமாகும் (வழக்கமாக மாதத்திற்கு 12)
+- ** t ** = ஆண்டுகளில் நேரம்
 
-### Use of the Formula
+#### எடுத்துக்காட்டு:
 
-- **Savings Growth**: The RD maturity amount formula helps individuals estimate how their regular savings will grow over time.
-- **Financial Discipline**: RDs encourage regular savings, helping individuals cultivate a habit of saving and planning for future financial goals.
-- **Goal Planning**: This formula aids in planning for specific financial goals, such as vacations, weddings, or education, by showing how much will be available at maturity.
+மாதந்தோறும் 7% கூட்டு வட்டி விகிதத்தில் 5 ஆண்டுகளுக்கு மாதத்திற்கு ₹ 5,000 டெபாசிட் செய்தால், முதிர்வு தொகையை இவ்வாறு கணக்கிட முடியும்:
 
-### Frequently Asked Questions (FAQ)
+$$
+M = 5000 \ முறை \ frac {(1 + \ frac {0.07} {12})^{12 \ முறை 5} - 1} {\ frac {0.07} {12}} \ முறை (1 + \ frac {0.07}{12})
+$$
 
-#### 1. **What is a Recurring Deposit?**
-A Recurring Deposit (RD) is a savings scheme that allows individuals to deposit a fixed amount every month for a specific tenure and earn interest on their deposits.
+தீர்ப்பதன் மூலம், முதிர்ச்சி அளவு சுமார் 70 3,70,918.64 கிடைக்கும்.
 
-#### 2. **How is interest calculated on an RD?**
-Interest on an RD is calculated using the formula provided above, based on the monthly deposit amount, interest rate, and tenure.
+### சூத்திரத்தின் பயன்பாடு
 
-#### 3. **Is the interest on RD taxable?**
-Yes, the interest earned on Recurring Deposits is subject to tax under the Income Tax Act in India, as per the individual's tax slab.
+- ** சேமிப்பு வளர்ச்சி **: ஆர்.டி முதிர்வு தொகை சூத்திரம் தனிநபர்கள் தங்கள் வழக்கமான சேமிப்பு காலப்போக்கில் எவ்வாறு வளரும் என்பதை மதிப்பிட உதவுகிறது.
+.
+- ** இலக்கு திட்டமிடல் **: முதிர்ச்சியில் எவ்வளவு கிடைக்கும் என்பதைக் காண்பிப்பதன் மூலம் விடுமுறைகள், திருமணங்கள் அல்லது கல்வி போன்ற குறிப்பிட்ட நிதி இலக்குகளைத் திட்டமிடுவதற்கு இந்த சூத்திரம் உதவுகிறது.
 
-#### 4. **Can I withdraw my RD amount before maturity?**
-Typically, premature withdrawal of RD amounts is not allowed, but some banks may permit it with a penalty.
+### அடிக்கடி கேட்கப்படும் கேள்விகள் (கேள்விகள்)
 
-#### 5. **What happens if I miss an RD installment?**
-Missing an installment may lead to penalties, and in some cases, the account may be converted to a fixed deposit at a lower interest rate.
+#### 1. ** தொடர்ச்சியான வைப்பு என்றால் என்ன? **
+தொடர்ச்சியான டெபாசிட் (ஆர்.டி) என்பது ஒரு சேமிப்புத் திட்டமாகும், இது தனிநபர்கள் ஒவ்வொரு மாதமும் ஒரு குறிப்பிட்ட தொகையை ஒரு குறிப்பிட்ட பதவிக்காலத்திற்கு டெபாசிட் செய்ய அனுமதிக்கிறது மற்றும் அவர்களின் வைப்புகளில் வட்டி சம்பாதிக்கிறது.
 
-#### 6. **What is the minimum amount required to open an RD?**
-The minimum investment amount varies by bank but usually ranges from ₹500 to ₹1,000 per month.
+#### 2. ** ஒரு RD இல் வட்டி எவ்வாறு கணக்கிடப்படுகிறது? **
+மாதாந்திர வைப்புத் தொகை, வட்டி வீதம் மற்றும் பதவிக்காலம் ஆகியவற்றின் அடிப்படையில் மேலே வழங்கப்பட்ட சூத்திரத்தைப் பயன்படுத்தி ஒரு RD மீதான வட்டி கணக்கிடப்படுகிறது.
 
-#### 7. **Are RDs safe investments?**
-Yes, Recurring Deposits are considered safe as they are insured by the Deposit Insurance and Credit Guarantee Corporation (DICGC) up to ₹5 lakh.
+#### 3. ** RD மீதான வட்டி வரி விதிக்கப்படுமா? **
+ஆம், தொடர்ச்சியான வைப்புகளில் சம்பாதித்த வட்டி இந்தியாவில் வருமான வரிச் சட்டத்தின் கீழ் வரிக்கு உட்பட்டது, தனிநபரின் வரி ஸ்லாபின் படி.
 
-#### 8. **Can I change the monthly deposit amount during the tenure?**
-No, the monthly deposit amount in an RD is fixed and cannot be changed during the tenure.
+####. ** முதிர்ச்சிக்கு முன் எனது RD தொகையை திரும்பப் பெற முடியுமா? **
+பொதுவாக, ஆர்.டி தொகைகளை முன்கூட்டியே திரும்பப் பெற அனுமதிக்கப்படவில்லை, ஆனால் சில வங்கிகள் அதை அபராதம் விதிக்க அனுமதிக்கலாம்.
 
-#### 9. **What are the benefits of RD compared to a regular savings account?**
-RDs offer higher interest rates compared to regular savings accounts and encourage disciplined savings through fixed monthly deposits.
+#### 5. ** நான் ஒரு RD தவணையைத் தவறவிட்டால் என்ன ஆகும்? **
+ஒரு தவணையைக் காணவில்லை அபராதங்களுக்கு வழிவகுக்கும், சில சந்தர்ப்பங்களில், கணக்கு குறைந்த வட்டி விகிதத்தில் நிலையான வைப்புத்தொகையாக மாற்றப்படலாம்.
 
-#### 10. **How do I calculate the maturity amount for an RD?**
-You can use the RD maturity amount formula provided above to calculate the maturity amount based on your monthly deposit, interest rate, and tenure.
+#### 6. ** ஒரு RD ஐ திறக்க குறைந்தபட்ச தொகை என்ன? **
+குறைந்தபட்ச முதலீட்டுத் தொகை வங்கியால் மாறுபடும், ஆனால் பொதுவாக மாதத்திற்கு ₹ 500 முதல் ₹ 1,000 வரை இருக்கும்.
+
+#### 7. ** RDS பாதுகாப்பான முதலீடுகள்? **
+ஆம், வைப்பு காப்பீடு மற்றும் கடன் உத்தரவாதக் கழகம் (டி.ஐ.சி.ஜி.சி) மூலம் 5 லட்சம் வரை காப்பீடு செய்யப்படுவதால் தொடர்ச்சியான வைப்புத்தொகை பாதுகாப்பாக கருதப்படுகிறது.
+
+#### 8. ** பதவிக்காலத்தில் மாதாந்திர வைப்புத் தொகையை மாற்ற முடியுமா? **
+இல்லை, ஒரு RD இல் மாதாந்திர வைப்புத் தொகை சரி செய்யப்பட்டது மற்றும் பதவிக்காலத்தில் மாற்ற முடியாது.
+
+#### 9. ** வழக்கமான சேமிப்புக் கணக்குடன் ஒப்பிடும்போது RD இன் நன்மைகள் என்ன? **
+வழக்கமான சேமிப்புக் கணக்குகளுடன் ஒப்பிடும்போது ஆர்.டி.எஸ் அதிக வட்டி விகிதங்களை வழங்குகிறது மற்றும் நிலையான மாதாந்திர வைப்புத்தொகை மூலம் ஒழுக்கமான சேமிப்புகளை ஊக்குவிக்கிறது.
+
+#### 10. ** ஒரு Rd க்கான முதிர்வு தொகையை எவ்வாறு கணக்கிடுவது? **
+உங்கள் மாதாந்திர வைப்பு, வட்டி வீதம் மற்றும் பதவிக்காலம் ஆகியவற்றின் அடிப்படையில் முதிர்ச்சி தொகையை கணக்கிட மேலே வழங்கப்பட்ட RD முதிர்வு தொகை சூத்திரத்தைப் பயன்படுத்தலாம்.
 
 ---
-### AI-Generated Content Disclaimer
+### AI- உருவாக்கிய உள்ளடக்க மறுப்பு
 
-This content was **AI-generated** using natural language processing technology. While efforts have been made to ensure the accuracy and relevance of the information, it may not be perfect. Users are encouraged to verify the information independently where applicable.
+இந்த உள்ளடக்கம் இயற்கையான மொழி செயலாக்க தொழில்நுட்பத்தைப் பயன்படுத்தி ** AI- உருவாக்கப்பட்ட ** ஆகும்.தகவல்களின் துல்லியத்தையும் பொருத்தத்தையும் உறுதிப்படுத்த முயற்சிகள் மேற்கொள்ளப்பட்டாலும், அது சரியானதாக இருக்காது.பொருந்தக்கூடிய இடங்களில் தகவல்களை சுயாதீனமாக சரிபார்க்க பயனர்கள் ஊக்குவிக்கப்படுகிறார்கள்.
 
-**Note**: AI-generated content should be used as a supportive tool, not a substitute for professional advice.
+** குறிப்பு **: AI- உருவாக்கிய உள்ளடக்கம் ஒரு ஆதரவான கருவியாகப் பயன்படுத்தப்பட வேண்டும், தொழில்முறை ஆலோசனைக்கு மாற்றாக அல்ல.
 
-**Note**: Currently, the site is under development and will be validated and updated soon (27-Sep-2024).
+** குறிப்பு **: கர்ரே ntly, தளம் வளர்ச்சியில் உள்ளது மற்றும் விரைவில் சரிபார்க்கப்பட்டு புதுப்பிக்கப்படும் (27-SEP-2024).
