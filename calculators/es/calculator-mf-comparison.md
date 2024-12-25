@@ -86,7 +86,7 @@ Consideremos un escenario en el que un inversor quiere comparar un plan de fondo
 
 #### Comparación:
 - ** Retorno neto del plan directo: ** ₹ 15,925.07
-- ** RETULACIÓN DEL PLAN REGULAR NETO: ** ₹ 15,765.02
+- ** RETULACIONES DE NETOS DEL PLAN REGUAL: ** ₹ 15,765.02
 
 ### Conclusión del ejemplo
 

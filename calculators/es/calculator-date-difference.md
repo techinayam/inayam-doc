@@ -1,7 +1,7 @@
 ## Calculadora de diferencia de fecha: su herramienta esencial para la gestión del tiempo
 
 ### Definición
-La calculadora de diferencia de fecha ** ** es una poderosa herramienta en línea diseñada para ayudarlo a calcular la diferencia en días, meses o años entre dos fechas específicas.Ya sea que esté planeando un evento, administrar una línea de tiempo del proyecto o simplemente curiosidad sobre el tiempo transcurrido entre fechas significativas, esta herramienta proporciona una solución precisa y eficiente.
+La calculadora de diferencia de fecha ** ** es una poderosa herramienta en línea diseñada para ayudarlo a calcular la diferencia en días, meses o años entre dos fechas específicas.Ya sea que esté planeando un evento, administrando una línea de tiempo del proyecto o simplemente curioso sobre el tiempo transcurrido entre fechas significativas, esta herramienta proporciona una solución precisa y eficiente.
 
 ### Fórmula para calcular la diferencia de fecha
 Para determinar la diferencia entre dos fechas, la fórmula utilizada es:

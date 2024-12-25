@@ -36,13 +36,13 @@ Al resolver, obtendrá un valor futuro de aproximadamente ₹ 9,20,000.
 ### Preguntas frecuentes (preguntas frecuentes)
 
 #### 1. ** ¿Qué es un sorbo? **
-Un plan de inversión sistemático (SIP) es una estrategia de inversión en la que se invierte regularmente una cantidad fija en fondos mutuos.
+Un plan de inversión sistemático (SIP) es una estrategia de inversión en la que una cantidad fija se invierte regularmente en fondos mutuos.
 
 #### 2. ** ¿Cómo funciona el sorbo? **
 SIP funciona permitiendo a los inversores invertir una suma fija de dinero regularmente.Esto puede ser mensual, trimestral o anual, dependiendo de la elección del inversor.
 
 #### 3. ** ¿Cuáles son los beneficios de SIP? **
-SIP permite un promedio de costos de rupia, inversiones disciplinadas y el poder de la composición, lo que facilita que los inversores aumentaran su riqueza con el tiempo.
+SIP permite un promedio de costos de rupia, inversiones disciplinadas y el poder de la composición, lo que facilita que los inversores aumenten su riqueza con el tiempo.
 
 #### 4. ** ¿Pueden los sorbos ayudar a lograr objetivos a largo plazo? **
 Sí, los SIP son particularmente efectivos para los objetivos financieros a largo plazo, como la planificación de la jubilación, la compra de una casa o la financiación de la educación infantil.
@@ -51,7 +51,7 @@ Sí, los SIP son particularmente efectivos para los objetivos financieros a larg
 La inversión mínima para SIP varía según los esquemas de fondos mutuos, pero muchos permiten a los inversores comenzar con tan solo ₹ 500 por mes.
 
 #### 6. ** ¿Puedo detener o modificar mi sorbo? **
-Sí, los inversores pueden hacer una pausa, detener o modificar sus inversiones SIP en función de su situación financiera.
+Sí, los inversores pueden detenerse, detener o modificar sus inversiones SIP en función de su situación financiera.
 
 #### 7. ** ¿Hay algún período de bloqueo para SIPS? **
 Las inversiones SIP en fondos mutuos de capital no tienen un período de bloqueo, pero algunos esquemas específicos como ELSS tienen un período de bloqueo obligatorio de tres años.

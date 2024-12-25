@@ -2,7 +2,7 @@
 
 ## Descripción general
 
-¡Bienvenido!Esta guía lo ayudará a comprender la relación ** Golden ** como una estrategia para la asignación de inversión y cómo usar nuestra calculadora de inversión de relación dorada ** ** para administrar su cartera de manera efectiva.
+¡Bienvenido!Esta guía lo ayudará a comprender la relación ** dorada ** como una estrategia para la asignación de inversión y cómo usar nuestra calculadora de inversión de relación dorada ** ** para administrar su cartera de manera efectiva.
 
 La relación dorada (1.618), también conocida como ** phi (φ) **, es un concepto de matemáticas y arte que puede ayudar a los inversores a equilibrar el riesgo y la recompensa.Siguiendo esta relación, los inversores apuntan a una estructura de cartera equilibrada, que se adapta mejor al mercado de las fluctuaciones.
 
