@@ -1,3 +1,6 @@
+**Tip:** Use punctuation marks for natural pauses in speech
+
+
 ## How to Use the Text-to-Speech Tool
 
 1. **Set system volume** to a comfortable level.
