@@ -1,0 +1,21 @@
+{
+    "id": "getting-started-with-nextjs",
+    "title": "Getting Started with Next.js",
+    "description": "A comprehensive guide to setting up your first Next.js project",
+    "url": "getting-started-with-nextjs",
+    "isActive": true,
+    "createdDate": "2025-01-15T10:30:00Z",
+    "modifiedDate": "2025-02-10T14:22:00Z",
+    "category": "technology",
+    "subCategory": "web-development",
+    "labels": [
+        "beginner",
+        "tutorial",
+        "nextjs"
+    ],
+    "likes": 45,
+    "dislikes": 2,
+    "author": "CodeWill",
+    "readTime": "8 min",
+    "thumbnail": "/api/placeholder/800/450"
+}
