@@ -1,31 +1,29 @@
-{
-    "categories": [
-        {
-            "key": "technology",
-            "name": "Technology",
-            "subCategories": [
-                {
-                    "key": "web-development",
-                    "name": "Web Development",
-                    "description": "Content related to web development technologies"
-                },
-                {
-                    "key": "mobile-development",
-                    "name": "Mobile Development",
-                    "description": "Content related to mobile app development"
-                }
-            ]
-        },
-        {
-            "key": "lifestyle",
-            "name": "Lifestyle",
-            "subCategories": [
-                {
-                    "key": "health",
-                    "name": "Health",
-                    "description": "Content related to health and wellness"
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "key": "technology",
+        "name": "Technology",
+        "subCategories": [
+            {
+                "key": "web-development",
+                "name": "Web Development",
+                "description": "Content related to web development technologies"
+            },
+            {
+                "key": "mobile-development",
+                "name": "Mobile Development",
+                "description": "Content related to mobile app development"
+            }
+        ]
+    },
+    {
+        "key": "lifestyle",
+        "name": "Lifestyle",
+        "subCategories": [
+            {
+                "key": "health",
+                "name": "Health",
+                "description": "Content related to health and wellness"
+            }
+        ]
+    }
+]
