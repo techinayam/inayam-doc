@@ -1,7 +1,8 @@
 {
-    "categories": {
-        "Technology": {
+    "categories": [
+        {
             "key": "technology",
+            "label": "Technology",
             "subCategories": [
                 {
                     "key": "web-development",
@@ -15,8 +16,9 @@
                 }
             ]
         },
-        "Lifestyle": {
+        {
             "key": "lifestyle",
+            "label": "Lifestyle",
             "subCategories": [
                 {
                     "key": "health",
@@ -25,5 +27,5 @@
                 }
             ]
         }
-    }
+    ]
 }
