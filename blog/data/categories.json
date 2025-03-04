@@ -2,7 +2,7 @@
     "categories": [
         {
             "key": "technology",
-            "label": "Technology",
+            "name": "Technology",
             "subCategories": [
                 {
                     "key": "web-development",
@@ -18,7 +18,7 @@
         },
         {
             "key": "lifestyle",
-            "label": "Lifestyle",
+            "name": "Lifestyle",
             "subCategories": [
                 {
                     "key": "health",
