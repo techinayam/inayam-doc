@@ -48,28 +48,28 @@ Para usar el convertidor de ángulo, siga estos simples pasos:
 ### Preguntas frecuentes (preguntas frecuentes)
 
 1. ** ¿Cuál es la diferencia entre grados y radianes? **
-- Los grados son una medida del ángulo basado en dividir un círculo en 360 partes, mientras que los radianes miden los ángulos basados ​​en el radio de un círculo.
+- Degrees are a measure of angle based on dividing a circle into 360 parts, while radians measure angles based on the radius of a circle.
 
-2. ** ¿Cómo convierto los grados en radianes? **
-- Use la fórmula: radianes = grados × (π/180).
+2. **How do I convert degrees to radians?**
+- Use the formula: Radians = Degrees × (π/180).
 
-3. ** ¿Para qué se usan los miliradios? **
-- Los miliradios a menudo se usan en aplicaciones militares e de ingeniería para mediciones de ángulo precisos.
+3. **What are milliradians used for?**
+- Milliradians are often used in military and engineering applications for precise angle measurements.
 
-4. ** ¿Puedo convertir múltiples ángulos a la vez? **
-- Actualmente, la herramienta permite una conversión a la vez.Ingrese cada ángulo por separado para la conversión.
+4. **Can I convert multiple angles at once?**
+- Currently, the tool allows for one conversion at a time.Enter each angle separately for conversion.
 
-5. ** ¿Hay un límite para los valores que puedo ingresar? **
-- La herramienta puede manejar una amplia gama de valores;Sin embargo, números extremadamente grandes o pequeños pueden conducir a inexactitudes.
+5. **Is there a limit to the values I can input?**
+- The tool can handle a wide range of values;however, extremely large or small numbers may lead to inaccuracies.
 
-6. ** ¿Qué es un kororadio? **
-- Un kororadio es una unidad de medición angular igual a 1,000 radianes.
+6. **What is a kiloradian?**
+- A kiloradian is a unit of angular measurement equal to 1,000 radians.
 
-7. ** ¿Cómo convierto los radianos en grados? **
-- Use la fórmula: grados = radianos × (180/π).
+7. **How do I convert radians back to degrees?**
+- Use the formula: Degrees = Radians × (180/π).
 
-8. ** ¿Cuál es el significado de un círculo completo en grados? **
-- Un círculo completo es igual a 360 grados, que es una medida estándar en geometría.
+8. **What is the significance of a full circle in degrees?**
+- A full circle is equal to 360 degrees, which es una medida estándar en geometría.
 
 9. ** ¿Puedo usar la herramienta para cálculos trigonométricos? **
 - Sí, comprender las conversiones de ángulo es esencial para los cálculos trigonométricos.

@@ -1,7 +1,7 @@
 ## Minute of ARC (Arcmin) Werkzeugbeschreibung
 
 ### Definition
-Die Minute des Bogens, allgemein als Arcmin bezeichnet, ist eine Einheit der Winkelmessung.Es wird als 1/60 Grad definiert, was es zu einer entscheidenden Einheit in Feldern wie Astronomie, Navigation und Geometrie macht.Das Verständnis dieser Messung ist für präzise Berechnungen, die Winkel beinhalten, wesentlich, insbesondere wenn es sich um himmlische Objekte oder komplizierte Designs handelt.
+Die Minute des Bogens, allgemein als Arcmin bezeichnet, ist eine Einheit der Winkelmessung.Es ist definiert als 1/60. eines Grades, was es zu einer entscheidenden Einheit in Feldern wie Astronomie, Navigation und Geometrie macht.Das Verständnis dieser Messung ist für präzise Berechnungen, die Winkel beinhalten, wesentlich, insbesondere wenn es sich um himmlische Objekte oder komplizierte Designs handelt.
 
 ### Standardisierung
 Die Minute des Bogens ist Teil des Sexagesimales, das einen Kreis in 360 Grad unterteilt.Jeder Grad ist weiter in 60 Minuten Bogen unterteilt, und jede Minute kann in 60 Sekunden ARC unterteilt werden.Dieser standardisierte Ansatz ermöglicht eine konsistente Kommunikation und Berechnung in verschiedenen wissenschaftlichen Disziplinen.
