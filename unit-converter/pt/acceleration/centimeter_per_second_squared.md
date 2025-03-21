@@ -38,17 +38,17 @@ Para interagir com o centímetro por segundo, ferramenta quadrada em nosso site,
 
 ### Perguntas frequentes (FAQ)
 
-** 1.Qual é a diferença entre cm/s² e m/s²? **
+**1.Qual é a diferença entre cm/s² e m/s²?**
 O centímetro por segundo quadrado (cm/s²) é uma unidade menor de aceleração em comparação com o metro por segundo quadrado (m/s²).Para converter cm/s² em m/s², divida por 100.
 
-** 2.Como converter a aceleração de cm/s² para outras unidades? **
+**2.Como converter a aceleração de cm/s² para outras unidades?**
 Você pode usar nosso [conversor de aceleração] (https://www.inayam.co/unit-converter/accelation) para converter facilmente cm/s² em outras unidades de aceleração como m/s², g (gravidade) ou ft/s².
 
-** 3.Em que campos é cm/s² comumente usado? **
+**3.Em que campos é cm/s² comumente usado?**
 O centímetro por segundo quadrado é freqüentemente usado em física, engenharia, biomecânica e ciência do esporte para medir e analisar a aceleração.
 
-** 4.Como posso calcular a aceleração usando cm/s²? **
+**4.Como posso calcular a aceleração usando cm/s²?**
 Para calcular a aceleração, use a fórmula: aceleração = (velocidade final - velocidade inicial) / tempo.Certifique -se de que todas as unidades sejam consistentes, de preferência em cm/s e segundos.
 
-** 5.CM/S² é adequado para todos os tipos de medições de aceleração? **
+**5.CM/S² é adequado para todos os tipos de medições de aceleração?**
 Embora o CM/S² seja adequado para muitas aplicações, para medições de maior escala, como na engenharia aeroespacial, M/s² pode ser mais apropriado devido à sua magnitude maior.

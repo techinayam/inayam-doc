@@ -38,17 +38,17 @@ Pour interagir avec le centimètre par seconde outil carré sur notre site Web, 
 
 ### Questions fréquemment posées (FAQ)
 
-** 1.Quelle est la différence entre CM / S² et M / S²? **
+**1.Quelle est la différence entre CM / S² et M / S²?**
 Centimètre par seconde au carré (cm / s²) est une unité d'accélération plus petite par rapport au mètre par seconde carré (m / s²).Pour convertir CM / S² en m / s², divisez par 100.
 
-** 2.Comment convertir l'accélération de CM / S² à d'autres unités? **
+**2.Comment convertir l'accélération de CM / S² à d'autres unités?**
 Vous pouvez utiliser notre [Convertisseur d'accélération] (https://www.inayam.co/unit-converter/acceleration) pour convertir facilement CM / S² en autres unités d'accélération comme m / s², g (gravité) ou ft / s².
 
-** 3.Dans quels champs cm / s² est-il couramment utilisé? **
+**3.Dans quels champs cm / s² est-il couramment utilisé?**
 Centimètre par seconde carré est fréquemment utilisé en physique, en ingénierie, en biomécanique et en sciences sportives pour mesurer et analyser l'accélération.
 
-** 4.Comment puis-je calculer l'accélération à l'aide de cm / s²? **
+**4.Comment puis-je calculer l'accélération à l'aide de cm / s²?**
 Pour calculer l'accélération, utilisez la formule: accélération = (vitesse finale - vitesse initiale) / temps.Assurez-vous que toutes les unités sont cohérentes, de préférence en CM / S et secondes.
 
-** 5.Cm / s² est-il adapté à tous les types de mesures d'accélération? **
+**5.Cm / s² est-il adapté à tous les types de mesures d'accélération?**
 Alors que CM / S² convient à de nombreuses applications, pour les mesures à plus grande échelle, comme dans l'ingénierie aérospatiale, M / S² peut être plus approprié en raison de sa plus grande ampleur.
