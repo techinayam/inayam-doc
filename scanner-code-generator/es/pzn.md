@@ -1,4 +1,4 @@
-## Introduction to the PZN Barcode Generator
+## Introducción al generador de códigos de barras PZN
 
 El generador de código de barras ** PZN ** es una herramienta esencial diseñada específicamente para la industria farmacéutica en Alemania.Esta herramienta permite a los usuarios generar códigos de barras únicos conocidos como Pharmazentralnummer (PZN), que son cruciales para identificar productos farmacéuticos.Al utilizar este generador, las empresas pueden optimizar su gestión de inventario y mejorar la trazabilidad del producto, asegurando el cumplimiento de las regulaciones de la industria.
 
@@ -12,9 +12,9 @@ El generador de código de barras ** PZN ** es una herramienta esencial diseñad
 
 ## ¿Qué y por qué se usa el generador de código de barras PZN?
 
-El generador de códigos de barras PZN se utiliza para crear códigos de barras que identifican de manera única los productos farmacéuticos en Alemania.Cada PZN es un identificador único asignado a un producto específico, lo que facilita las farmacias, los hospitales y los distribuidores para rastrear y administrar su inventario.Al usar esta herramienta, las empresas pueden mejorar su eficiencia operativa, reducir los errores en la identificación del producto y mantener el cumplimiento de los requisitos legales.
+El generador de códigos de barras PZN se utiliza para crear códigos de barras que identifican de manera única los productos farmacéuticos en Alemania.Cada PZN es un identificador único asignado a un producto específico, lo que facilita las farmacias, hospitales y distribuidores para rastrear y administrar su inventario.Al usar esta herramienta, las empresas pueden mejorar su eficiencia operativa, reducir los errores en la identificación del producto y mantener el cumplimiento de los requisitos legales.
 
-## Understanding the PZN Barcode Generator
+## Comprender el generador de códigos de barras PZN
 
 El generador de código de barras PZN funciona convirtiendo el número PZN en un formato de código de barras escaneable.Este código de barras se puede imprimir en el embalaje del producto, lo que permite escanear rápido y preciso en los puntos de venta o durante las verificaciones de inventario.Comprender cómo usar esta herramienta de manera efectiva puede mejorar significativamente los procesos de gestión de productos.
 
@@ -44,11 +44,11 @@ El generador de código de barras PZN funciona convirtiendo el número PZN en un
 1. ** ¿Qué es un PZN? **
 - Un Pharmazentralnummer (PZN) es un identificador único para productos farmacéuticos en Alemania, utilizado para el seguimiento y la gestión de inventario.
 
-2. **Can I generate multiple PZNs at once?**
+2. ** ¿Puedo generar múltiples PZN a la vez? **
 - Sí, puede ingresar múltiples PZN en la herramienta para generar códigos de barras para varios productos simultáneamente.
 
 3. ** ¿Qué formatos están disponibles para los códigos de barras generados? **
-- La herramienta proporciona imágenes de código de barras de alta resolución adecuadas para imprimir en etiquetas y envases.
+- La herramienta proporciona imágenes de código de barras de alta resolución adecuadas para P Desplijar las etiquetas y el embalaje.
 
 4. ** ¿Hay un límite para el número de códigos de barras que puedo generar? **
 - No hay límite específico;Sin embargo, asegúrese de que los números de PZN ingresados ​​sean precisos para evitar generar códigos de barras incorrectos.

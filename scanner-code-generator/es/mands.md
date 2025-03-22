@@ -49,7 +49,7 @@ Este generador de código de barras funciona permitiendo a los usuarios ingresar
 - Los códigos de barras generados están específicamente adaptados para Marks & Spencer y pueden no ser adecuados para otros minoristas.
 
 4. ** ¿Qué debo hacer si mi código de barras no escanea? **
-- Asegúrese de que el código de barras se imprima claramente y que la entrada de texto fuera precisa.Pruébelo con diferentes escáneres de código de barras si es necesario.
+- Asegúrese de que el código de barras se imprima claramente y que la entrada de texto fuera AC cura.Pruébelo con diferentes escáneres de código de barras si es necesario.
 
 5. ** ¿Hay un costo asociado con el uso de esta herramienta? **
 - El generador de códigos de barras Mands / Marks & Spencer es de uso gratuito.

@@ -47,7 +47,7 @@ Simplemente ingrese su texto deseado en el campo de entrada en nuestra página [
 3. ** ¿Cuáles son las limitaciones del código 128? **
 El código 128 puede codificar eficientemente un máximo de 48 caracteres.Asegúrese de que sus datos se ajusten dentro de este límite para obtener resultados óptimos.
 
-4. ** ¿Puedo imprimir los códigos de barras generados? **
+4. ** ¿Puedo imprimir el generación? ¿Códigos de barras? **
 Sí, puede descargar la imagen de código de barras generada e imprimirla directamente para su uso.
 
 5. ** ¿El Código 128 Generador de código de barras de forma gratuita? **

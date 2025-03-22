@@ -44,7 +44,7 @@ La herramienta de simbología de estado personalizado 4 utiliza un método de co
 - Simplemente ingrese el texto deseado en los campos de entrada y haga clic en "Generar" para crear su código de barras personalizado.
 
 3. ** ¿Puedo usar los códigos de barras generados para fines comerciales? **
-- Sí, los códigos de barras generados se pueden usar para aplicaciones comerciales, siempre que cumplan con los estándares postales.
+- Sí, el código de barras generado Se puede utilizar para aplicaciones comerciales, siempre que cumplan con los estándares postales.
 
 4. ** ¿Qué debo hacer si mi código de barras no está escaneando? **
 - Asegúrese de que el código de barras se imprima claramente y que el texto de entrada fuera preciso.Las pruebas con diferentes escáneres también pueden ayudar a identificar el problema.

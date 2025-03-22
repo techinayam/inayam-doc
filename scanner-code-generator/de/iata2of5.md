@@ -55,7 +55,7 @@ Mit dem IATA 2 von 5 Barcode -Generator können Benutzer bestimmte Textparameter
 - Die meisten modernen Barcode-Scanner sollten in der Lage sein, IATA 2 von 5 Barcodes zu lesen, aber es ist ratsam, den Barcode vor dem vollständigen Gebrauch zu testen.
 
 5. ** Gibt es Einschränkungen bei der Verwendung dieses Tools? **
-- Dieses Tool wurde speziell für IATA 2 von 5 Barcodes entwickelt und unterstützt möglicherweise keine anderen Barcode -Formate.
+- th Das IS -Tool wurde speziell für IATA 2 von 5 Barcodes entwickelt und unterstützt möglicherweise keine anderen Barcode -Formate.
 
 ### Abschluss
 

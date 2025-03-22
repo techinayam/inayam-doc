@@ -53,7 +53,7 @@ Das OneCode Barcode -System integriert nahtlos in USPS -Dienste und ermöglicht 
 - OneCode wurde hauptsächlich für die inländische USPS -Mail konzipiert.Für den internationalen Versand finden Sie bei USPS nach entsprechenden Barcode -Optionen.
 
 4. ** Was soll ich tun, wenn mein Barcode nicht scannt? **
-- Stellen Sie sicher, dass der Barcode klar gedruckt wird und dass die eingegebenen Informationen korrekt sind.Möglicherweise möchten Sie den Barcode auch mit einem Scanner testen.
+- Stellen Sie sicher, dass der Barcode klar gedruckt wird und dass die eingegebenen Informationen korrekt sind.Möglicherweise möchten Sie auch testen Der Barcode mit einem Scanner.
 
 5. ** Gibt es eine Grenze für die Anzahl der Barcodes, die ich erzeugen kann? **
 - Die Anzahl der Barcodes, die Sie mit unserem Tool generieren können, sind jedoch keine Begrenzung. Stellen Sie jedoch sicher, dass jeder Barcode eindeutig ist.

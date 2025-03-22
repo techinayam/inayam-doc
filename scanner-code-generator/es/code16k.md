@@ -52,7 +52,7 @@ Para usar el generador de código de barras del código 16K, siga estos simples 
 4. ** ¿Puedo usar el código 16K para el etiquetado del producto? **
 - Sí, el código 16K es ideal para el etiquetado de productos, especialmente donde el espacio es limitado.
 
-5. ** ¿Hay un límite para la cantidad de datos que puedo codificar? **
+5. ** es t aquí un límite para la cantidad de datos que puedo codificar? **
 - Si bien el código 16K puede codificar una cantidad significativa de datos, es aconsejable mantener la información concisa para un rendimiento de escaneo óptimo.
 
 ### Conclusión

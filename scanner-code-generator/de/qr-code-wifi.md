@@ -54,7 +54,7 @@ Das WiFi -QR -Code -Tool funktioniert, indem Sie Ihre WLAN -Netzwerkinformatione
 - Verwenden Sie die Kamera Ihres Smartphones oder eine QR -Code -Scan -App, um den Code zu scannen.Befolgen Sie die Eingabeaufforderungen, um eine Verbindung zum WLAN -Netzwerk herzustellen.
 
 2. ** Kann ich dieses Tool für mehrere WLAN -Netzwerke verwenden? **
-- Ja, Sie können separate QR -Codes für verschiedene WLAN -Netzwerke generieren, indem Sie jedes Mal das jeweilige SSID und Passwort eingeben.
+- Ja, yo u können separate QR -Codes für verschiedene WLAN -Netzwerke generieren, indem sie jedes Mal das jeweilige SSID und Kennwort eingeben.
 
 3. ** Ist das WiFi -QR -Code -Tool kostenlos zu verwenden? **
 - Ja, das WiFi -QR -Code -Tool ist kostenlos auf unserer Website verfügbar.

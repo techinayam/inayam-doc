@@ -62,6 +62,6 @@ El generador HIBC Code 39 está diseñado para simplificar el proceso de creaci�
 
 ### Comience a usar la herramienta ahora!
 
-Mejore sus procesos de etiquetado de atención médica utilizando el generador HIBC Code 39.** Calcule sus resultados al instante ** y garantice el cumplimiento de los estándares de la industria.Visite [Generador del código HIBC 39] (https://www.inayam.co/barcode/hibccode39) ¡Para comenzar hoy!
+Mejore sus procesos de etiquetado de atención médica utilizando el generador HIBC Code 39.** Calcule sus resultados al instante ** y garantizar el cumplimiento de los estándares de la industria.Visite [Generador del código HIBC 39] (https://www.inayam.co/barcode/hibccode39) ¡Para comenzar hoy!
 
 Al aprovechar esta herramienta, puede mejorar la eficiencia, la precisión y el cumplimiento de sus operaciones de atención médica, beneficiando en última instancia tanto a su organización como a sus pacientes.

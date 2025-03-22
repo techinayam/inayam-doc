@@ -50,7 +50,7 @@ Mailmark -Barcodes sind eindeutige Kennungen, mit denen Royal Mail die Sortierun
 - Mailmark -Barcodes sind hauptsächlich für die britischen Postdienste konzipiert.Für den internationalen Versand finden Sie in Ihrem Postdienst nach bestimmten Anforderungen.
 
 4. ** Was passiert, wenn mein Barcode nicht richtig gescannt ist? **
-- Stellen Sie sicher, dass der Barcode klar gedruckt wird und dass die Eingabedaten genau sind.Das Testen des Barcode vor dem Massendruck kann dazu beitragen, Probleme zu vermeiden.
+- Stellen Sie sicher, dass der Barcode klar gedruckt wird und dass die Eingabedaten genau sind.Testen der Barcode vor dem Massendruck kann dazu beitragen, Probleme zu vermeiden.
 
 5. ** Gibt es eine Grenze für die Anzahl der Barcodes, die ich erzeugen kann? **
 - Die Anzahl der Barcodes, die Sie mit unserem Tool generieren können, sind jedoch keine Begrenzung. Stellen Sie jedoch sicher, dass jeder Barcode eindeutig ist, um Verarbeitungsfehler zu vermeiden.

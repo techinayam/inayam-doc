@@ -51,7 +51,7 @@ Das verschachtelte 2 von 5 Barcode codiert zusammen Paare von Ziffern zusammen, 
 4. ** Wie kann ich sicherstellen, dass mein Barcode scannelbar ist? **
 - Stellen Sie sicher, dass der Barcode zu einer ausreichenden Größe gedruckt ist, und testen Sie ihn nach dem Drucken mit einem Barcode -Scanner.
 
-5. ** Gibt es eine Grenze für die Anzahl der Ziffern, die ich codieren kann? **
+5. ** Gibt es ein li MIT zur Anzahl der Ziffern, die ich codieren kann? **
 - Obwohl es keine strenge Grenze gibt, ist es ratsam, die Eingabedaten präzise zu halten, um die Lesbarkeit und Skannfähigkeit sicherzustellen.
 
 ### Verwenden Sie jetzt das Tool!

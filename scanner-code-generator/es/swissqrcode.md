@@ -56,4 +56,4 @@ Esta herramienta está diseñada para crear códigos QR que cumplan con los est�
 
 ### Comience a usar la herramienta ahora!
 
-Mejore sus procesos de pago y simplifique la facturación con el generador de código Swiss QR.** ¡Calcule sus resultados al instante ** y experimente la conveniencia de transacciones seguras hoy!
+Mejore sus procesos de pago y simplifique la facturación con el generador de código Swiss QR.** Calcule sus resultados al instante ** y experimente la conveniencia ¡E de transacciones seguras hoy!

@@ -47,7 +47,7 @@ Geben Sie einfach Ihren gewünschten Text in das Eingabefeld in unserem [Code 12
 3. ** Was sind die Einschränkungen von Code 128? **
 Code 128 kann maximal 48 Zeichen effizient codieren.Stellen Sie sicher, dass Ihre Daten für optimale Ergebnisse in diese Grenze passen.
 
-4. ** Kann ich die erzeugten Barcodes drucken? **
+4. ** Kann ich das General drucken? ATED Barcodes? **
 Ja, Sie können das generierte Barcode -Bild herunterladen und es direkt für Ihre Verwendung drucken.
 
 5. ** Ist der Code 128 Barcode Generator kostenlos zu verwenden? **

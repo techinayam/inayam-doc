@@ -50,7 +50,7 @@ Geben Sie einfach Ihre Daten in die Eingabefelder auf der Seite des Tools ein, k
 Ja, dieses Tool ist vielseitig und kann für eine Vielzahl von Produkten in verschiedenen Branchen verwendet werden.
 
 ** 4.Was sind die Einschränkungen des GS1 -Datenbankkomposits? **
-Die Hauptbeschränkungen umfassen Zeichengrenzen für Dateneingaben und potenzielle Kompatibilitätsprobleme mit bestimmten Datenformaten.
+Die Hauptbeschränkungen umfassen Charaktergrenzen für Dateneingaben und potenzielle Kompatibilitätsprobleme mit Cert AIN -Datenformate.
 
 ** 5.Gibt es Kosten, die mit der Verwendung dieses Tools verbunden sind? **
 Nein, der GS1 -Datenbank, der zusammengesetzt wurde, kann kostenlos verwendet werden.

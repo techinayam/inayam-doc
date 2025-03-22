@@ -46,15 +46,15 @@ UPC-Eコンポジットバーコードは、2つの主要なコンポーネン�
 2。** UPC-Eコンポジットバーコードを生成するにはどうすればよいですか？**
 -  [UPC-E Composite Barcode Generator]（https://www.inayam.co/barcode/upcecomposite）の指定されたフィールドに必要なテキストを入力し、[生成]をクリックします。
 
-3。**小売目的に生成されたバーコードを使用できますか？**
-- はい、生成されたUPC-Eコンポジットバーコードは、小売用に設計されており、チェックアウト時にスキャンできます。
+3。**生成されたバーコードを使用できますか for retail purposes?**
+- Yes, the generated UPC-E Composite Barcodes are designed for retail use and can be scanned at checkout.
 
-4。**このツールの制限は何ですか？**
-- ツールには、入力テキストの長さに制限がある場合があります。成功するために、UPC-Eコードが正しくフォーマットされていることを確認してください。
+4. **What are the limitations of this tool?**
+- The tool may have restrictions on the length of the input text.Ensure your UPC-E code is formatted correctly for successful generation.
 
-5。** UPC-Eコンポジットバーコードジェネレーターの使用に関連するコストはありますか？**
-- いいえ、ツールは自由に使用でき、料金なしでバーコードを生成できます。
+5. **Is there a cost associated with using the UPC-E Composite Barcode Generator?**
+- No, the tool is free to use, allowing you to generate barcodes without any fees.
 
-##行動を促す
+## Call to Action
 
 UPC-E Composite Barcode Generatorの使用を開始して、製品の追跡を合理化し、在庫管理を強化します。**結果を即座に計算し、小売業を次のレベルに引き上げてください！

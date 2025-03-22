@@ -50,7 +50,7 @@ No, el código 39 solo admite letras y números mayúsculas.Las letras minúscul
 El código 39 se usa comúnmente en minorista, logística, atención médica y fabricación para el etiquetado de productos y el seguimiento de inventario.
 
 ** 5.¿Hay un límite para la longitud del texto que puedo codificar? **
-Si bien no existe un límite estricto, tenga en cuenta que el texto más largo puede dar lugar a un código de barras más grande, lo que podría afectar la eficiencia de escaneo.
+Si bien no existe un límite estricto, tenga en cuenta que el texto más largo puede resultar en un código de barras más grande, lo que podría afectar el escaneo EFFI Ciencia.
 
 ### Conclusión
 El ** Código 39 Barcode Generator ** es una herramienta poderosa para cualquiera que necesite crear códigos de barras alfanuméricos de manera rápida y eficiente.Siguiendo la guía de uso y las mejores prácticas descritas anteriormente, puede garantizar resultados óptimos.

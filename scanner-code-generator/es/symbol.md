@@ -52,7 +52,7 @@ El generador de código de barras de símbolos varios le permite ingresar un tex
 4. ** ¿Qué formatos de archivo están disponibles para descargar? **
 - La herramienta le permite descargar el código de barras generado en varios formatos de imagen, como PNG y JPEG.
 
-5. ** ¿Cómo puedo asegurarme de que mi código de barras sea escaneable? **
+5. ** Cómo C y me aseguro de que mi código de barras sea escaneable? **
 - Pruebe su código de barras con un escáner y asegúrese de que los símbolos utilizados sean claros y fácilmente reconocibles.
 
 ### Comience a usar la herramienta ahora!

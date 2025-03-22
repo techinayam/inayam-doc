@@ -53,7 +53,7 @@ Der Coop 2 von 5 Barcode ist eine Variation des Standards 2 von 5 Barcode, das s
 - Sie verbessern die Bestandsgenauigkeit, rationalisieren die Vorgänge und verbessern die Produktverfolgung in Einzelhandels- und Lagerumgebungen.
 
 5. ** Ist der erzeugte Barcode mit allen Barcode -Scannern kompatibel? **
-- Ja, Coop 2 von 5 Barcodes sind mit den meisten standardmäßigen Barcode -Scannern kompatibel, die im Einzelhandel und in der Lagerung verwendet werden.
+- Ja, Coop 2 von 5 Barcodes sind mit den meisten in R verwendeten Standard -Barcode -Scannern kompatibel ETAIL und Lagerung.
 
 ### Verwenden Sie jetzt das Tool!
 

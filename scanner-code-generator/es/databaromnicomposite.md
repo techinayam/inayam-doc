@@ -49,7 +49,7 @@ Para usar la herramienta compuesta omnidireccional de datos GS1, siga estos simp
 - Simplemente ingrese sus datos en los campos proporcionados en nuestra página de herramientas y haga clic en "Generar".
 
 3. ** ¿Cuáles son los beneficios de usar este tipo de código de barras? **
-- Permite más almacenamiento de datos, mejor eficiencia de escaneo y cumplimiento de los estándares de la industria.
+- Permite más almacenamiento de datos, mejor eficiencia de escaneo y cumplimiento de los estándares de la industria .
 
 4. ** ¿Puedo usar este código de barras con cualquier escáner? **
 - Sí, siempre y cuando el escáner sea compatible con los formatos de datos GS1.

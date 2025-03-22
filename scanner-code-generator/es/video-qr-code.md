@@ -34,7 +34,7 @@ Para usar la herramienta de código de video QR de manera efectiva, debe compren
 - ** Pruebe el código QR **: siempre escanee el código QR generado para asegurarse de que se vincule al video correcto antes de distribuirlo.
 -** Use llamadas claras a las actividades **: Aliente a los usuarios a escanear el código QR proporcionando instrucciones claras o incentivos.
 - ** Optimizar contenido de video **: Asegúrese de que su video sea atractivo y relevante para la audiencia para maximizar la interacción.
-- ** Rendimiento del monitor **: Use Analytics para rastrear cuántos escaneos recibe su código QR y ajusta su estrategia en consecuencia.
+- ** Rendimiento del monitor **: Use análisis para rastrear cuántos escaneos recibe su código QR y ajusta su estrategia en consecuencia.
 
 ### Limitaciones
 

@@ -54,7 +54,7 @@ Das Instagram QR -Code -Tool funktioniert, indem es eine URL in ein QR -Codeform
 - Sie können es auf Visitenkarten, Flyern, Social -Media -Posts oder physischen Marketingmaterialien verwenden.
 
 5. ** Was ist, wenn sich mein Instagram -Link ändert? **
-- Wenn sich Ihr Instagram -Link ändert, müssen Sie einen neuen QR -Code mit der aktualisierten URL generieren.
+- Wenn sich Ihr Instagram -Link ändert, müssen Sie generieren TE ein neuer QR -Code mit der aktualisierten URL.
 
 ## Abschluss
 

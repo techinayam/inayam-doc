@@ -47,7 +47,7 @@ Der GS1 -Datenbank erweiterte gestapelte Barcode ist ein leistungsstarkes Tool z
 1. ** Was ist der GS1 -Datenbank erweitert gestapelt? **
 - Die GS1 -Datenbank erweitert gestapelt ist ein Barcode -Format, das kompakte Datencodierung ermöglicht, ideal für Produkte mit begrenzter Kennzeichnung.
 
-2. ** Wie erzeugte ich einen GS1 -Datenbank erweitert gestapeltes Barcode? **
+2. ** Wie erzeugte ich einen GS1? Datenbank erweiterte gestapelte Barcode? **
 - Geben Sie einfach den erforderlichen Text in die Eingabefelder des Tools ein und klicken Sie auf "Generieren", um Ihren Barcode zu erstellen.
 
 3. ** Welche Datenarten können codiert werden? **

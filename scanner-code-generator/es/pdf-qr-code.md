@@ -59,4 +59,4 @@ La herramienta de código PDF QR permite a los usuarios ingresar una URL que se 
 
 ### Comience a usar la herramienta ahora!
 
-Desbloquee el potencial de sus documentos PDF generando un código PDF QR hoy.** ¡Calcule sus resultados al instante ** y mejore su experiencia de intercambio de documentos!Visite [herramienta de código PDF QR] (https://www.inayam.co/barcode/pdf-qr-code) para comenzar.
+Desbloquear la potencia Tial de sus documentos PDF generando un código PDF QR hoy.** ¡Calcule sus resultados al instante ** y mejore su experiencia de intercambio de documentos!Visite [herramienta de código PDF QR] (https://www.inayam.co/barcode/pdf-qr-code) para comenzar.

@@ -49,7 +49,7 @@ El código de barras EAN-13 consta de 13 dígitos, que incluyen un código de pa
 3. ** ¿Puedo personalizar mi código de barras Ean-13? **
 - Sí, puede ingresar información específica del producto en los campos de texto para personalizar su código de barras.
 
-4. ** ¿Hay un límite para el número de códigos de barras que puedo generar? **
+4. ** ¿Hay un límite al número de códigos de barras que puedo generar? **
 - No hay límite para la cantidad de códigos de barras que puede generar utilizando nuestra herramienta, siempre que cada código de barras se adhiera al formato de 13 dígitos.
 
 5. ** ¿Qué debo hacer si mi código de barras no escanea? **

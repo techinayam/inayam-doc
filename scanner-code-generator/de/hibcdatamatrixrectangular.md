@@ -53,7 +53,7 @@ Dieses Tool arbeitet, indem Benutzer bestimmte Textparameter eingeben können, d
 - Durch die Verwendung dieses Tools können Sie Barcodes generieren, die HIBC -Standards entsprechen, aber immer mit regulatorischen Richtlinien überprüfen.
 
 5. ** Gibt es Kosten für die Verwendung des rechteckigen Generators der HIBC -Datenmatrix? **
-- Das Tool kann kostenlos verwendet werden, sodass Sie Barcodes ohne Gebühren generieren können.
+- Das Tool ist für uns kostenlos E, sodass Sie Barcodes ohne Gebühren erzeugen können.
 
 ### Abschluss
 

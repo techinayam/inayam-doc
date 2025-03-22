@@ -49,4 +49,4 @@ El generador de datos de datos de datos de Datalogic 2 de 5 funciona convirtiend
 - Pruebe su código de barras generado con un escáner y asegúrese de que el texto esté claro y dentro de las limitaciones del formato.
 
 ### Comience a usar la herramienta ahora!
-Aumente su eficiencia de seguimiento de la cadena de suministro generando su DataLogic 2 de 5 códigos de barras hoy.** Calcule sus resultados al instante ** y vea lo fácil que es administrar su inventario con nuestro Generador de código de barras DataSalogic 2 de 5.
+Aumente su eficiencia de seguimiento de la cadena de suministro generando su DataLogic 2 de 5 códigos de barras hoy.** CÁLCULO ¡Tus resultados al instante ** y vea lo fácil que es administrar su inventario con nuestro Generador Datalogic 2 de 5 Barcode!

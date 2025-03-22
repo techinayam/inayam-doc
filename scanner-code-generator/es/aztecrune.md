@@ -56,4 +56,4 @@ El generador de Runas AZTEC funciona convirtiendo su texto de entrada en un cód
 
 ### Comience a usar la herramienta ahora!
 
-Desbloquee su potencial creativo con el generador de runas aztecas.Cree impresionantes códigos de barras que sean funcionales y visualmente atractivos.** ¡Calcule sus resultados al instante ** y haga que sus proyectos se destaquen!Visite [Generador de Runas Aztec] (https://www.inayam.co/barcode/aztecrune) ¡Para comenzar hoy!
+Desbloquee su potencial creativo con el generador de runas aztecas.Cree impresionantes códigos de barras que sean funcionales y visualmente atractivos.** Calcule sus resultados al instante ** y haga su PR ¡Los ojects se destacan!Visite [Generador de Runas Aztec] (https://www.inayam.co/barcode/aztecrune) ¡Para comenzar hoy!

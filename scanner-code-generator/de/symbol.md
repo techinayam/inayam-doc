@@ -52,7 +52,7 @@ Mit dem Barcode -Generator für verschiedene Symbole können Sie einen bestimmte
 4. ** Welche Dateiformate können heruntergeladen werden? **
 - Mit dem Tool können Sie den generierten Barcode in verschiedenen Bildformaten wie PNG und JPEG herunterladen.
 
-5. ** Wie kann ich sicherstellen, dass mein Barcode scannelbar ist? **
+5. ** Wie c Ich stelle sicher, dass mein Barcode scannelbar ist? **
 - Testen Sie Ihren Barcode mit einem Scanner und stellen Sie sicher, dass die verwendeten Symbole klar und leicht erkennbar sind.
 
 ### Verwenden Sie jetzt das Tool!

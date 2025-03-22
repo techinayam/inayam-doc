@@ -65,7 +65,7 @@ Si bien la herramienta del código QR Event es altamente efectiva, tiene algunas
 - Actualmente, la herramienta permite la personalización básica con el nombre y la fecha del evento.
 
 4. ** ¿Hay un límite para la cantidad de eventos que puedo crear? **
-- No, puede crear tantos códigos QR de eventos como sea necesario.
+- No, puedes CR Come tantos códigos QR de eventos como necesite.
 
 5. ** ¿Qué pasa si el código QR no funciona? **
 - Asegúrese de que los detalles del evento sean correctos y que tenga una conexión a Internet estable al escanear.

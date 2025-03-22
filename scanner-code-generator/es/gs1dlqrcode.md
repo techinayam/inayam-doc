@@ -50,7 +50,7 @@ El enlace digital GS1 es una forma estandarizada de codificar la información de
 - Sí, puede personalizar su código QR con elementos de marca para que sea reconocible.
 
 4. ** ¿Cuáles son los beneficios de usar códigos QR de enlace digital GS1? **
-- Mejoran la participación del cliente, proporcionan acceso instantáneo a la información del producto y pueden llevar el tráfico a sus plataformas en línea.
+- Mejoran la participación del cliente, proporcionan acceso instantáneo a la información del producto y pueden llevar el tráfico a su platf en línea Orms.
 
 5. ** ¿Hay alguna limitación para usar esta herramienta? **
 - Sí, asegúrese de que sus datos de entrada cumplan con los estándares GS1 y conozcan los límites de caracteres para un rendimiento óptimo.

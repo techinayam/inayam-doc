@@ -49,7 +49,7 @@ El Pharmacode italiano opera en el estándar del Código 32, que está específi
 4. ** ¿Qué debo hacer si mi código de barras no escanea? **
 - Asegúrese de que el código de barras se imprima claramente y verifique la información de entrada para obtener precisión.Las pruebas con un escáner pueden ayudar a identificar problemas.
 
-5. ** ¿Hay un límite para el número de códigos de barras que puedo generar? **
+5 .** ¿Hay un límite para la cantidad de códigos de barras que puedo generar? **
 - No hay límite específico;Puede generar tantos códigos de barras según sea necesario siempre que proporcione la información requerida para cada uno.
 
 ### Comience a usar la herramienta ahora!

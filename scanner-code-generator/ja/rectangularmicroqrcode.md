@@ -4,7 +4,7 @@
 
 ###長方形のマイクロQRコードツールの重要な機能
 
--  ** Compact Design **：長方形の形式は、小さなラベルに合わせて特別に調整されており、QRコードが限られたスペースにシームレスに収まるようにします。
+-  ** Compact Design **：長方形の形式は、小さなラベルに合わせて特別に調整されており、QRコードが限られたスペースにシームレスに適合するようにします。
 -  **高いスキャン可能性**：サイズが小さいにもかかわらず、これらのマイクロQRコードは、さまざまなデバイスで簡単にスキャンされ、ユーザーエクスペリエンスを向上させるように設計されています。
 -  **カスタマイズ可能なテキスト**：ユーザーは、カスタムテキストを入力して、特定のニーズに合った一意のQRコードを作成できます。
 -  **ユーザーフレンドリーインターフェイス**：ツールは簡単に移動でき、ユーザーはQRコードを迅速かつ効率的に生成できます。
@@ -29,26 +29,26 @@
 -  **スキャン可能性をテスト**：印刷する前に、常に複数のデバイスを使用してQRコードをテストして、正しくスキャンしてください。
 -  **コントラストを維持**：QRコードと背景にコントラストの高い色を使用して、可視性を向上させます。
 -  **シンプルに保ちます**：QRコードがコンパクトで簡単にスキャン可能なままであることを確認するために、テキストの量を制限します。
--  **定期的な更新**：QRコードにリンクされている情報が変更された場合、古いリンクを避けるために新しいコードを生成することを検討してください。
+- **Regular Updates**: If the information linked to the QR code changes, consider generating a new code to avoid outdated links.
 
-###技術的な詳細
+### Technical Details
 
--  **ツールタイプ**：2Dバーコードジェネレーター
--  **入力フィールド**：カスタム入力用の2つのテキストフィールド
--  **制限**：長方形のマイクロQRコードは、コンパクトサイズのため、広範なデータをサポートしない場合があります。スキャン可能性を維持するために、入力テキストが簡潔であることを確認してください。
+- **Tool Type**: 2D Barcode Generator
+- **Input Fields**: Two text fields for custom input
+- **Limitations**: The rectangular Micro QR Code may not support extensive data due to its compact size.Ensure the input text is concise to maintain scannability.
 
-### FAQ
+### FAQs
 
-1。**長方形のマイクロQRコードとは？**
-- 長方形のマイクロQRコードは、小さなラベルとタイトなスペース向けに設計された従来のQRコードのコンパクトバージョンです。
+1. **What is a Rectangular Micro QR Code?**
+- A Rectangular Micro QR Code is a compact version of a traditional QR code designed for small labels and tight spaces.
 
-2。**長方形のマイクロQRコードを生成するにはどうすればよいですか？**
-- 入力フィールドに目的のテキストを入力し、[生成]ボタンをクリックしてQRコードを作成するだけです。
+2. **How do I generate a Rectangular Micro QR Code?**
+- Simply enter your desired text in the input fields and click the "Generate" button to create your QR code.
 
-3。** QRコードでテキストをカスタマイズできますか？**
-- はい、URLや連絡先情報など、必要なテキストを入力できます。
+3. **Can I customize the text in the QR code?**
+- Yes, you can input any text you want, such as URLs or contact information.
 
-4。**長方形のマイクロQRコードの制限は何ですか？**
+4. **What are the limitations of the Rectangular Micro QR Code?**
 - コンパクトなサイズのため、広範なデータをサポートしない場合があります。入力テキストを簡潔に保つことをお勧めします。
 
 5。** QRコードがスキャン可能であることを確認するにはどうすればよいですか？**
@@ -56,4 +56,4 @@
 
 ###今すぐツールの使用を開始してください！
 
-**長方形のマイクロQRコードジェネレーター**によるコンパクトラベルの可能性のロックを解除します。QRコードを即座に作成し、今日のラベリングソリューションを強化してください！[長方形のマイクロQRコードジェネレーター]（https://www.inayam.co/barcode/rectangularmicroqrcode）にアクセスしてください。
+**長方形のマイクロQRコードジェネレーター**によるコンパクトラベルの可能性のロックを解除します。QRコードを即座に作成し、今日のラベリングソリューションを強化してください！[長方形のマイクロQRコードジェネレーター]（https://www.inayam.co/barcode/rectangularmiにアクセスしてください Croqrcode）開始します。

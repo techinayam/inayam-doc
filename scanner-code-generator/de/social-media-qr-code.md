@@ -58,4 +58,4 @@ Dieses Tool generiert einen QR -Code, der, wenn sie gescannt werden, Benutzer in
 
 ### Verwenden Sie jetzt das Tool!
 
-Verbessern Sie mühelos Ihr Engagement in Social Media mit unserem QR -Tool für Social Media QR.** Berechnen Sie Ihre Ergebnisse sofort ** und beobachten Sie, wie Ihre Online -Präsenz wächst!
+Verbessern Sie mühelos Ihr Engagement in Social Media mit unserem QR -Tool für Social Media QR.** Berechnen Sie Ihre Ergebnisse Sofort ** und beobachten Sie, wie Ihre Online -Präsenz wächst!

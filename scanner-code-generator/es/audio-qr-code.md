@@ -53,7 +53,7 @@ Si bien la herramienta de código Audio QR es altamente efectiva, hay algunas li
 3. ** ¿Puedo rastrear cuántas veces se ha escaneado mi código QR? **
 - Si bien la herramienta en sí no rastrea los escaneos, puede usar acortadores de URL que proporcionan análisis para monitorear la participación.
 
-4. ** ¿Hay un límite para el tamaño del archivo de audio que puedo compartir? **
+4. ** ¿Hay un límite para el SI? Ze del archivo de audio que puedo compartir? **
 - El límite de tamaño depende del servicio de alojamiento donde se almacene su archivo de audio.Asegúrese de que sea accesible en línea.
 
 5. ** ¿Cómo creo un código QR para mi archivo de audio? **

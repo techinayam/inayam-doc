@@ -58,4 +58,4 @@ Esta herramienta genera un código QR que, cuando se escanea, redirige a los usu
 
 ### Comience a usar la herramienta ahora!
 
-Mejore su compromiso de las redes sociales sin esfuerzo con nuestra ** herramienta de código QR de redes sociales **.** ¡Calcule sus resultados al instante ** y vea crecer su presencia en línea!
+Mejore su compromiso de las redes sociales sin esfuerzo con nuestra ** herramienta de código QR de redes sociales **.** Calcule sus resultados ¡Al instante ** y vea crecer su presencia en línea!

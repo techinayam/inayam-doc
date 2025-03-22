@@ -58,4 +58,4 @@ El generador de código AZTEC HIBC está diseñado específicamente para profesi
 
 ### Comience a usar la herramienta ahora!
 
-No se pierda la oportunidad de optimizar su proceso de etiquetado de productos de salud.** Calcule sus resultados al instante ** con nuestro generador de códigos AZTEC HIBC y asegúrese de que sus productos cumplan con los estándares de la industria.Visite [Generador de código AZTEC HIBC] (https://www.inayam.co/barcode/hibcazteccode) para comenzar hoy.
+No se pierda la oportunidad de optimizar su proceso de etiquetado de productos de salud.** Calcule sus resultados al instante ** con nuestro código AZTEC HIBC Generato R y asegúrese de que sus productos cumplan con los estándares de la industria.Visite [Generador de código AZTEC HIBC] (https://www.inayam.co/barcode/hibcazteccode) para comenzar hoy.

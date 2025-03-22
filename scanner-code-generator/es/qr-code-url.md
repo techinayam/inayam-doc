@@ -46,7 +46,7 @@ Los códigos QR (códigos de respuesta rápida) son códigos de barras bidimensi
 3. ** ¿Puedo personalizar mi código QR? **
 - Sí, la herramienta de enlace de código QR le permite personalizar el diseño y los colores de su código QR.
 
-4. ** ¿Hay un límite para el número de códigos QR que puedo crear? **
+4. ** ¿Hay un límite para el número de Q R los códigos que puedo crear? **
 - No, puede crear tantos códigos QR como necesite utilizando la herramienta de enlace de código QR.
 
 5. ** ¿Qué debo hacer si mi código QR no funciona? **

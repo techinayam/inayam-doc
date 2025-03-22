@@ -49,7 +49,7 @@ Der EAN-13-Barcode besteht aus 13 Ziffern, die einen Ländercode, einen Herstell
 3. ** Kann ich meinen EAN-13-Barcode anpassen? **
 - Ja, Sie können bestimmte Produktinformationen in die Textfelder eingeben, um Ihren Barcode anzupassen.
 
-4. ** Gibt es eine Grenze für die Anzahl der Barcodes, die ich erzeugen kann? **
+4. ** Gibt es eine Grenze zu der Anzahl der Barcodes, die ich generieren kann? **
 - Die Anzahl der Barcodes, die Sie mit unserem Tool generieren können, ist keine Grenze für jeden Barcode, sofern jeder Barcode am 13-stelligen Format haftet.
 
 5. ** Was soll ich tun, wenn mein Barcode nicht scannt? **

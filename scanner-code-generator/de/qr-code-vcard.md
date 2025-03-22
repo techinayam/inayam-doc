@@ -50,7 +50,7 @@ Das VCARD QR -Code -Tool ist zwar sehr effektiv, hat zwar Einschränkungen.Der Q
 - Ja, mit vielen QR -Codegeneratoren können Sie die Farbe und das Design Ihres QR -Codes an Ihr Branding anpassen.
 
 3. ** Gibt es eine Grenze für die Informationen, die ich in der VCard aufnehmen kann? **
-- Ja, das VCARD -Format hat eine Charakterlimit, daher ist es am besten, nur wesentliche Details einzuschließen.
+- Ja, das VCard -Format hat a Charakterbegrenzung, daher ist es am besten, nur wesentliche Details einzubeziehen.
 
 4. ** Kann ich den vCard QR -Code für persönliche und geschäftliche Zwecke verwenden? **
 - Absolut!Der VCARD -QR -Code ist vielseitig und kann sowohl für persönliche als auch für berufliche Netzwerke verwendet werden.

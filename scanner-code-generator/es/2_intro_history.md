@@ -9,7 +9,7 @@ El concepto de códigos legibles por máquina se remonta a los ** 1940 **, cuand
 
 En ** 1974 **, el código de barras se usó comercialmente cuando se escaneó un paquete de chicle de Wrigley en un supermercado ** Marsh ** usando el sistema de producto ** universal (UPC) **.Esto marcó el inicio oficial de los códigos de barras en el comercio minorista y allanó el camino para los avances en las tecnologías de generación y escaneo.
 
-Más tarde, en el ** 1990 **, la introducción del código de respuesta rápida ** (QR) ** por la compañía japonesa Denso Wave revolucionó el código de código al ofrecer un sistema de código de barras bidimensional (2D) que puede almacenar más información ySe lea rápidamente desde cualquier ángulo.Los códigos QR rápidamente se hicieron populares en múltiples industrias.
+Más tarde, en el ** 1990 **, la introducción del código de respuesta rápida ** (QR) ** por la compañía japonesa Denso Wave Revolutionized Scanning ofreciendo un sistema de código de barras bidimensional (2D) que puede almacenar más información y leer rápidamente desde cualquier ángulo.Los códigos QR rápidamente se hicieron populares en múltiples industrias.
 
 Con el advenimiento de ** Identificación de radiofrecuencia (RFID) ** y ** Tecnología de comunicación de campo (NFC) ** En el siglo XXI, la tecnología de escaneo fue más allá de los sistemas ópticos.Las etiquetas RFID y los códigos NFC podrían escanearse de forma remota, haciéndolas populares en la logística, la gestión de inventario y los sistemas de pago móvil.
 

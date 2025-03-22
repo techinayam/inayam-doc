@@ -40,7 +40,7 @@ El SSCC-18 (código de contenedor de envío en serie) es un número de 18 dígit
 - El código de barras SSCC-18 es un identificador único para las unidades logísticas, que consta de 18 dígitos, utilizados principalmente en la gestión de envío y inventario.
 
 2. ** ¿Cómo genero un código de barras SSCC-18? **
-- Simplemente ingrese el texto requerido en la herramienta del generador de códigos de barras SSCC-18 y haga clic en "Generar" para crear su código de barras.
+- Simplemente ingrese el texto requerido en la herramienta del generador de códigos de barras SSCC-18 y haga clic en "Generar" para crear su B arcodo.
 
 3. ** ¿Puedo personalizar el código de barras SSCC-18? **
 - Sí, puede ingresar parámetros de texto específicos para personalizar su código de barras SSCC-18 de acuerdo con sus necesidades logísticas.

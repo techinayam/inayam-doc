@@ -52,7 +52,7 @@ UPC-E-Barcodes sind 6-stellige Codes, die die eindeutige Identifikationsnummer e
 4. ** Was soll ich tun, wenn mein Barcode nicht scannt? **
 - Überprüfen Sie die Klarheit des gedruckten Barcode und stellen Sie sicher, dass der Eingangstext korrekt ist.Das Testen mit einem Scanner vor dem Massendruck wird empfohlen.
 
-5. ** Gibt es eine Grenze für die Anzahl der Barcodes, die ich erzeugen kann? **
+5. ** Gibt es eine Grenze für die Anzahl der Barcodes, die ich generieren kann? **
 - Es gibt keine spezifische Grenze;Stellen Sie jedoch sicher, dass jeder Barcode einzigartig ist und den UPC -Standards entspricht.
 
 ### Verwenden Sie jetzt das Tool!

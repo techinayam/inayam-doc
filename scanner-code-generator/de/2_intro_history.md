@@ -9,7 +9,7 @@ Das Konzept der maschinenlesbaren Codes stammt aus den 1940er Jahren **, wenn di
 
 In ** 1974 ** wurde der Barcode zuerst kommerziell verwendet, als ein Paket Wrigleys Kaugummi in einem ** Marsh -Supermarkt ** mit dem ** Universal Product Code (UPC) ** System gescannt wurde.Dies markierte den offiziellen Start von Barcodes im Einzelhandel und ebnete den Weg für Fortschritte bei der Erzeugung von Code und der Scantechnologien.
 
-Später, in den ** 1990er **, die Einführung des Code ** Quick Response (QR) ** durch das japanische Unternehmen Denso Wave revolutionierte Code Scannen durch Anbieten eines zweidimensionalen (2D) Barcode-Systems, mit dem weitere Informationen und weitere Informationen speichern und gespeichert werden könnenschnell aus jedem Blickwinkel gelesen werden.QR -Codes wurden in mehreren Branchen schnell populär.
+Später, in den ** 1990er Jahren **, revolutionierte ** Quick Response (QR) -Code ** durch das japanische Unternehmen Denso Wave-Code-Scannen durch Anbieten eines zweidimensionalen (2D) Barcode-Systems, das weitere Informationen speichern und schnell aus jedem Blickwinkel gelesen werden kann.QR -Codes wurden in mehreren Branchen schnell populär.
 
 Mit dem Aufkommen der Identifizierung von ** Funkfrequenz (RFID) ** und ** Nahe Feldkommunikation (NFC) ** Technologie im 21. Jahrhundert wechselte die Scanning-Technologie über nur optische Systeme hinaus.RFID -Tags und NFC -Codes könnten aus der Ferne gescannt werden, wodurch sie in Logistik, Inventarverwaltung und mobilen Zahlungssystemen beliebt sind.
 

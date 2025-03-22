@@ -1,6 +1,6 @@
 ## Introducción a la herramienta ISSN
 
-El generador de código de barras ** ISSN ** es una herramienta en línea esencial diseñada para crear números de serie estándar internacionales (ISSN) para publicaciones periódicas y revistas.Este identificador único es crucial para editores, bibliotecas e investigadores, ya que agiliza la gestión y distribución de publicaciones en serie.Al generar códigos de barras ISSN, los usuarios pueden mejorar la visibilidad y la accesibilidad de sus revistas, lo que facilita a los lectores localizarlos y hacer referencia a ellos.
+El ** Generador de código de barras ISSN ** es una herramienta en línea esencial diseñada para crear números de serie estándar internacionales (ISSN) para publicaciones periódicas y revistas.Este identificador único es crucial para editores, bibliotecas e investigadores, ya que agiliza la gestión y distribución de publicaciones en serie.Al generar códigos de barras ISSN, los usuarios pueden mejorar la visibilidad y la accesibilidad de sus revistas, lo que facilita a los lectores localizarlos y hacer referencia a ellos.
 
 ## Características clave de la herramienta ISSN
 
@@ -51,7 +51,7 @@ El ISSN (número de serie estándar internacional) es un número de ocho dígito
 - Sí, el código de barras ISSN se puede utilizar para formatos impresos y digitales, mejorando la capacidad de descubrimiento de su publicación.
 
 4. ** ¿Qué debo hacer si mi código de barras no escanea? **
-- Asegúrese de que el código de barras se imprima claramente y que el escáner funcione correctamente.También es posible que desee verificar el número de ISSN para su precisión.
+- Asegúrese de que el código de barras se imprima claramente y que el El escáner funciona correctamente.También es posible que desee verificar el número de ISSN para su precisión.
 
 5. ** ¿Hay un costo para usar el generador de códigos de barras ISSN? **
 - No, el generador de código de barras ISSN es de uso gratuito, lo que le permite crear códigos de barras sin ninguna tarifa.

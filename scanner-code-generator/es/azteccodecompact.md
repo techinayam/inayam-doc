@@ -54,6 +54,6 @@ El generador de código AZTEC compacto funciona tomando su texto de entrada y co
 5. ** ¿Qué debo hacer si el código de barras no está escaneando? **
 - Asegúrese de que el código de barras se imprima claramente, con un alto contraste con su fondo, y pruebe con un escáner de código de barras confiable.
 
-### Comience a usar la herramienta ahora!
+### Comience a usar la herramienta ahora !
 
 Desbloquee el potencial de la codificación de datos eficientes con el generador de código AZTEC compacto ** **.¡Genere sus códigos de barras compactos al instante y mejore sus soluciones de etiquetado y envasado hoy!Visite [aquí] (https://www.inayam.co/barcode/azteccodecompact) para comenzar.

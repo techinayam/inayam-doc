@@ -48,6 +48,6 @@ La herramienta truncada de datos GS1 permite a los usuarios crear códigos de ba
 - No, puede generar tantos códigos de barras como necesite usando nuestra herramienta.
 
 ### Comience a usar la herramienta ahora!
-Desbloquee el potencial de la identificación eficiente del producto con nuestro generador truncado ** GS1 Truncado **.[Genere su código de barras al instante] (https://www.inayam.co/barcode/databartrunated) y simplifique su administración de inventario hoy!
+Desbloquee el potencial de identificación eficiente del producto con nuestra data ** GS1 AR Generador truncado **.[Genere su código de barras al instante] (https://www.inayam.co/barcode/databartrunated) y simplifique su administración de inventario hoy!
 
 Al incorporar palabras clave relevantes como "GS1 Databar Truncated", "Barcode Generation" y "Compact Product Identify", este contenido está diseñado para mejorar la visibilidad de su motor de búsqueda e impulsar el tráfico orgánico a su sitio.

@@ -56,4 +56,4 @@ Esta herramienta funciona permitiendo a los usuarios ingresar texto específico,
 
 ### Comience a usar la herramienta ahora!
 
-Desbloquee el potencial del etiquetado compacto con nuestro ** Generador de código Micro Qr rectangular **.¡Cree sus códigos QR al instante y mejore sus soluciones de etiquetado hoy!Visite [Generador de código Rectangular Micro Qr] (https://www.inayam.co/barcode/rectangularmicroqrcode) para comenzar.
+Desbloquee el potencial del etiquetado compacto con nuestro ** Generador de código Micro Qr rectangular **.¡Cree sus códigos QR al instante y mejore sus soluciones de etiquetado hoy!Visite [Generador de código Rectangular Micro QR] (https://www.inayam.co/barcode/rectangularmi CroqrCode) para comenzar.

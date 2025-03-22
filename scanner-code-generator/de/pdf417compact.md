@@ -51,7 +51,7 @@ PDF417 ist ein zweidimensionales Barcode-Format, das eine erhebliche Datenmenge,
 - Die Hauptbeschränkung besteht darin, dass zwar viele Daten codieren kann, aber für sehr große Datensätze möglicherweise noch ein größerer Barcode für ein optimales Scannen erfordern.
 
 4. ** Kann ich den generierten Barcode ausdrucken? **
-- Ja, nach der Erstellung können Sie den Barcode direkt aus dem Tool herunterladen oder drucken.
+- Ja, nach der Erstellung können Sie den Barcode direkt von der herunterladen oder drucken Werkzeug.
 
 5. ** Ist der PDF417 Compact Barcode Scanner-freundlich? **
 - Ja, solange der Barcode klar gedruckt ist und innerhalb der empfohlenen Größe leicht scannelbar sein sollte.

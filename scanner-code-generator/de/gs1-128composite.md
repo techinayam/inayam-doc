@@ -52,7 +52,7 @@ Der GS1-128-Barcode ist ein globaler Standard für die Codierung von Produktinfo
 - Ja, die Länge der Eingabedaten kann Einschränkungen geben.Weitere Richtlinien finden Sie im Tool.
 
 5. ** Wie kann ich sicherstellen, dass mein Barcode scannelbar ist? **
-- Testen Sie den generierten Barcode immer mit einem Scanner vor der Verwendung und stellen Sie sicher, dass die Dateneingabe genau ist.
+- Testen Sie den generierten Barcode immer mit einem Scanner vor der Verwendung und stellen Sie sicher, dass die Dateneingabe ACC ist urat.
 
 ### Verwenden Sie jetzt das Tool!
 

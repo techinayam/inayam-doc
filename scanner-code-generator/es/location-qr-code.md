@@ -56,7 +56,7 @@ Esta herramienta funciona tomando coordenadas geográficas específicas (latitud
 3. ** ¿Qué sucede si entro en las coordenadas equivocadas? **
 - Si se ingresan coordenadas incorrectas, el código QR conducirá a la ubicación incorrecta.Siempre verifique sus entradas.
 
-4. ** ¿El código QR es compatible con todos los teléfonos inteligentes? **
+4. ** es el QR Co DE compatible con todos los teléfonos inteligentes? **
 - La mayoría de los teléfonos inteligentes modernos pueden escanear códigos QR, pero garantizar que los usuarios tengan una aplicación de escaneo de código QR si es necesario.
 
 5. ** ¿Puedo usar el código QR para ubicaciones fuera de Google Maps? **

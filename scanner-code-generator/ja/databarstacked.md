@@ -57,4 +57,4 @@
 
 ###今すぐツールの使用を開始してください！
 
-** GS1 Databar Stackedジェネレーター**を使用して効率的なデータエンコードの可能性のロックを解除します。**結果を即座に計算してください**、今日の在庫管理を合理化してください！[GS1 Databar Stackedジェネレーター]（https://www.inayam.co/barcode/databarstacked）にアクセスしてください。
+効率的なデータエンクの可能性のロックを解除します ** GS1 Databar Stacked Generator **でODING。**結果を即座に計算してください**、今日の在庫管理を合理化してください！[GS1 Databar Stackedジェネレーター]（https://www.inayam.co/barcode/databarstacked）にアクセスしてください。

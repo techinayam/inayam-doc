@@ -53,7 +53,7 @@ Sí, mientras la información cumpla con los estándares GS1, puede usarla para 
 4. ** ¿Qué pasa si cambia la información de mi producto? **
 Deberá regenerar el código QR con la información actualizada para garantizar la precisión.
 
-5. ** ¿Hay un límite para la cantidad de datos que puedo codificar? **
+5. ** ¿Existe un límite para la cantidad de datos i ¿Puede codificar? **
 Sí, si bien los códigos GS1 QR pueden contener una cantidad significativa de datos, es mejor mantener la información concisa para un escaneo óptimo.
 
 ### Comience a usar la herramienta ahora!

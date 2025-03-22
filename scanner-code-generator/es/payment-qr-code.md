@@ -6,7 +6,7 @@ La herramienta ** Payment QR Code ** está diseñada para optimizar el proceso d
 
 - ** Acceso de pago instantáneo **: Genere un código QR que se vincule directamente a su plataforma de pago preferida.
 -** Interfaz fácil de usar **: Diseño simple e intuitivo para la generación de código QR sin problemas.
-- ** Opciones de pago versátiles **: Admite múltiples plataformas de pago, acomodando varias preferencias de usuario.
+- ** Opciones de pago versátiles **: Admite múltiples plataformas de pago, acomodando varias preferencias del usuario.
 - ** Códigos QR personalizables **: Adapte su código QR para que coincida con su marca o estilo personal.
 - ** Transacciones seguras **: Asegura que todos los pagos se procesen a través de pasarelas de pago de confianza.
 
@@ -52,7 +52,7 @@ Esta herramienta funciona generando un código QR único que codifica una URL de
 - Sí, puede personalizar el código QR para alinearse con su marca o estilo personal.
 
 4. ** ¿Qué debo hacer si cambia mi URL de pago? **
-- Simplemente genere un nuevo código QR con la URL de pago actualizada para garantizar que los usuarios estén dirigidos correctamente.
+- Simplemente genere un nuevo código QR con la URL de pago actualizada para garantizar Los usuarios están dirigidos correctamente.
 
 5. ** ¿Cómo puedo garantizar la seguridad de mis transacciones de pago? **
 - Siempre use los portales de pago seguros y verifique regularmente sus enlaces de pago para cualquier problema potencial.

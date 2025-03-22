@@ -56,4 +56,4 @@ El compuesto GS1 Databar Limited es un formato de código de barras que combina 
 
 ### Comience a usar la herramienta ahora!
 
-Desbloquee el potencial del etiquetado de su producto con el GS1 Databar Limited Composite Generator.Cree sus códigos de barras al instante y asegúrese de que sus artículos sean fácilmente identificables en el mercado.[¡Calcule sus resultados al instante!] (Https://www.inayam.co/barcode/databarlimitedCompositE)
+Desbloquear el potencial del etiquetado de su producto con el GS1 DATABAR Generador compuesto limitado.Cree sus códigos de barras al instante y asegúrese de que sus artículos sean fácilmente identificables en el mercado.[¡Calcule sus resultados al instante!] (Https://www.inayam.co/barcode/databarlimitedCompositE)

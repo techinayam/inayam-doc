@@ -48,7 +48,7 @@ Der PZN -Barcode -Generator arbeitet, indem die PZN -Nummer in ein scannbares Ba
 - Ja, Sie können mehrere PZNs in das Tool eingeben, um Barcodes für mehrere Produkte gleichzeitig zu generieren.
 
 3. ** Welche Formate stehen für die erzeugten Barcodes zur Verfügung? **
-- Das Tool bietet hochauflösende Barcode-Bilder, die zum Drucken auf Etiketten und Verpackungen geeignet sind.
+- Das Tool bietet hochauflösende Barcode-Bilder, die für P geeignet sind Auf Etiketten und Verpackungen dunkeln.
 
 4. ** Gibt es eine Grenze für die Anzahl der Barcodes, die ich erzeugen kann? **
 - Es gibt keine spezifische Grenze;Stellen Sie jedoch sicher, dass die eingegebenen PZN -Nummern genau sind, um zu vermeiden, dass falsche Barcodes generiert werden.

@@ -53,7 +53,7 @@ Code 93 hat eine maximale Zeichengrenze und unterstützt nur einen bestimmten Ze
 Ja, Code 93 wird aufgrund seiner Kompaktgröße und der Codierungsfunktionen mit hoher Dichte häufig im Bestandsverwaltung verwendet.
 
 5. ** Gibt es eine Möglichkeit, den generierten Barcode zu testen? **
-Ja, es wird empfohlen, den generierten Barcode mit einem Scanner zu scannen, um sicherzustellen, dass er die beabsichtigten Daten genau darstellt.
+Ja, es wird empfohlen, das Gen zu scannen Bewertet Barcode mit einem Scanner, um sicherzustellen, dass er die beabsichtigten Daten genau darstellt.
 
 ### Verwenden Sie jetzt das Tool!
 

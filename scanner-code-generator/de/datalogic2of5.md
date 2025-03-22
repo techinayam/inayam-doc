@@ -49,4 +49,4 @@ Der Datalogic 2 von 5 Barcode -Generator funktioniert, indem Sie Ihren Eingabetx
 - Testen Sie Ihren generierten Barcode mit einem Scanner und stellen Sie sicher, dass der Text klar ist und innerhalb der Einschränkungen des Formats.
 
 ### Verwenden Sie jetzt das Tool!
-Steigern Sie Ihre Lieferkettenverfolgungseffizienz, indem Sie noch heute Ihre Datalogic 2 von 5 Barcodes generieren.** Berechnen Sie Ihre Ergebnisse sofort ** und sehen Sie, wie einfach es ist, Ihr Inventar mit unserem Datalogic 2 von 5 Barcode -Generator zu verwalten!
+Steigern Sie Ihre Lieferkettenverfolgungseffizienz, indem Sie noch heute Ihre Datalogic 2 von 5 Barcodes generieren.** Calcula Sie haben Ihre Ergebnisse sofort ** und sehen Sie, wie einfach es ist, Ihr Inventar mit unserem Datalogic 2 von 5 Barcode -Generator zu verwalten!

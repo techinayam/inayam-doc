@@ -51,7 +51,7 @@ El código de barras EAN-2 consta de dos dígitos que se agregan al código de b
 -Sí, los códigos de barras EAN-2 se pueden usar para cualquier producto que requiera información adicional más allá del código de barras EAN-13.
 
 4. ** ¿Cuáles son las limitaciones de los códigos de barras Ean-2? **
-- Los códigos de barras Ean-2 se limitan a dos dígitos, lo que puede restringir la cantidad de información que se puede codificar.
+- Ean-2 Barc Las ODES se limitan a dos dígitos, lo que puede restringir la cantidad de información que se puede codificar.
 
 5. ** ¿El código de barras generado es adecuado para la impresión? **
 - Sí, los códigos de barras EAN-2 generados son de alta calidad y adecuados para imprimir y escanear.

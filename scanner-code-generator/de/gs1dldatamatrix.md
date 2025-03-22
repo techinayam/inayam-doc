@@ -48,7 +48,7 @@ Das Digital Link-Datenmatrix-Tool von GS1 nutzt die Funktionen von Datenmatrix-B
 - Ja, Sie können verschiedene Produktdetails in das Tool eingeben, um die im Barcode codierten Informationen anzupassen.
 
 3. ** Gibt es eine Grenze für die Menge an Informationen, die ich codieren kann? **
-- Während Datenmatrix -Barcodes eine erhebliche Datenmenge enthalten können, ist es wichtig, GS1 -Standards für optimale Ergebnisse zu halten.
+- Während Datenmatrix -Barcodes einen erheblichen Betrag halten können Von Daten ist es wichtig, GS1 -Standards für optimale Ergebnisse zu halten.
 
 4. ** Welche Branchen können von der Verwendung dieses Tools profitieren? **
 - Einzelhandels-, Gesundheits-, Logistik- und Fertigungsindustrie können von verbesserten Produktdaten profitieren, die über die digitalen Link -Datenmatrix -Barcodes von GS1verbinden.

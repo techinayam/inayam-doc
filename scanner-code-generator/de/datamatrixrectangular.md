@@ -48,7 +48,7 @@ Dieses Tool ermöglicht es Benutzern, Text einzugeben, der in einen rechteckigen
 2. ** Wie verwende ich den rechteckigen Barcode -Generator der Datenmatrix? **
 - Geben Sie einfach Ihren gewünschten Text in die Eingabefelder ein, klicken Sie auf "Generieren" und laden Sie Ihren Barcode für die Verwendung herunter.
 
-3. ** Kann ich die Größe des Barcode anpassen? **
+3. ** Kann ich die Größe o anpassen? f der Barcode? **
 - Der Generator erzeugt eine rechteckige Standardgröße, aber Sie können die Druckgröße anhand Ihrer Anforderungen anpassen.
 
 4. ** Gibt es eine Grenze für die Datenmenge, die ich codieren kann? **
@@ -59,4 +59,4 @@ Dieses Tool ermöglicht es Benutzern, Text einzugeben, der in einen rechteckigen
 
 ### Verwenden Sie jetzt das Tool!
 
-Entsperren Sie das Potenzial der kompakten Datenspeicherung mit dem rechteckigen Barcode -Generator ** datenmatrix **.Generieren Sie Ihre Barcodes sofort und verbessern Sie Ihre operative Effizienz noch heute!Besuchen Sie [hier] (https://www.inayam.co/barcode/datamatrixrectangular), um loszulegen!
+Entsperren Sie das Potenzial der kompakten Datenspeicherung mit dem rechteckigen Barcode -Generator ** Data Matrix **.Generieren Sie Ihre Barcodes sofort und verbessern Sie Ihre operative Effizienz noch heute!Besuchen Sie [hier] (https://www.inayam.co/barcode/datamatrixrectangular), um loszulegen!

@@ -49,7 +49,7 @@ Dieser Barcode -Generator arbeitet, indem Benutzer einen bestimmten Text eingebe
 - Die erzeugten Barcodes sind speziell auf Marks & Spencer zugeschnitten und sind möglicherweise nicht für andere Einzelhändler geeignet.
 
 4. ** Was soll ich tun, wenn mein Barcode nicht scannt? **
-- Stellen Sie sicher, dass der Barcode klar gedruckt wird und dass die Texteingabe genau war.Testen Sie es bei Bedarf mit verschiedenen Barcode -Scannern.
+- Stellen Sie sicher, dass der Barcode klar gedruckt wird und dass die Texteingabe AC ​​war Kurat.Testen Sie es bei Bedarf mit verschiedenen Barcode -Scannern.
 
 5. ** Gibt es Kosten, die mit der Verwendung dieses Tools verbunden sind? **
 - Der Barcode -Generator von Mands / Marks & Spencer kann kostenlos verwendet werden.

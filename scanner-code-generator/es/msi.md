@@ -50,8 +50,7 @@ El formato de código de barras MSI Modified Plessey es una variación del códi
 3. ** ¿Puedo imprimir el código de barras generado? **
 - Sí, puede descargar la imagen de código de barras generada e imprimirla en etiquetas o directamente en productos.
 
-4. ** ¿Cuáles son los beneficios de usar códigos de barras MSI? **
-- Los códigos de barras MSI ayudan a mejorar la precisión en la gestión de inventario, reducir el error humano y racionalizar las operaciones minoristas.
+4. ** ¿Cuáles son los beneficios de usar códigos de barras MSI? ** - Los códigos de barras MSI ayudan a mejorar la precisión en la gestión de inventario, reducir el error humano y racionalizar las operaciones minoristas.
 
 5. ** ¿Hay un límite para el texto que puedo ingresar? **
 - Si bien puede haber algunas limitaciones basadas en la configuración de la herramienta, generalmente está diseñado para acomodar el inventario estándar y los datos minoristas.

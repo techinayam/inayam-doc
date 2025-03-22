@@ -53,7 +53,7 @@ Usar el generador de código de barras DotCode es sencillo:
 - Sí, puede personalizar el texto en los campos de entrada para satisfacer sus necesidades específicas.
 
 4. ** ¿Es compatible con el código de puntos con todos los escáneres de código de barras? **
-- DotCode es compatible con la mayoría de los escáneres de código de barras modernos que admiten formatos de código de barras 2D.
+- DotCode es Compatible con la mayoría de los escáneres de código de barras modernos que admiten formatos de código de barras 2D.
 
 5. ** ¿Cuáles son las limitaciones de usar DotCode? **
 - DotCode puede no funcionar bien en entornos de impresión de baja resolución y requiere escáneres compatibles para una lectura óptima.

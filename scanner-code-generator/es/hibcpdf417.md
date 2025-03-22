@@ -1,4 +1,4 @@
-## Generador HIBC PDF417: su solución para código de barras de atención médica
+## Generador HIBC PDF417: su solución para el código de barras de atención médica
 
 La herramienta ** HIBC PDF417 ** es un recurso esencial para los profesionales y organizaciones de la salud que buscan crear códigos de barras compatibles y eficientes para sus productos.Esta herramienta se especializa en generar códigos de barras PDF417 que se adhieren a los estándares del código de barras de la industria de la salud (HIBC), asegurando una alta capacidad de datos y precisión para el etiquetado de la salud.
 

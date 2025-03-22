@@ -47,7 +47,7 @@ Simplemente ingrese su texto deseado en el campo de entrada y haga clic en el bo
 Sí, el formato extendido del Código 39 permite la inclusión de todos los caracteres ASCII, incluidos símbolos especiales y puntuación.
 
 4. ** ¿Qué industrias se benefician al usar el código 39 extendido? **
-Las industrias como el comercio minorista, la logística y la gestión de inventario se benefician al usar el Código 39 extendido para el seguimiento e identificación de productos.
+Industrias como el comercio minorista, la logística, un La gestión de inventario ND se beneficia al usar el Código 39 extendido para el seguimiento e identificación de productos.
 
 5. ** ¿Hay un límite para la cantidad de caracteres que puedo usar? **
 Si bien puede usar ASCII completo, es aconsejable mantener el texto conciso para un escaneo y usabilidad óptimos.

@@ -51,7 +51,7 @@ Los 2 de 5 código de barras entrelazados codifican pares de dígitos juntos, lo
 4. ** ¿Cómo me aseguro de que mi código de barras sea escaneable? **
 - Asegúrese de que el código de barras esté impreso a un tamaño suficiente y pruebe con un escáner de código de barras después de la impresión.
 
-5. ** ¿Hay un límite para el número de dígitos que puedo codificar? **
+5. ** ¿Hay un li MIT a la cantidad de dígitos que puedo codificar? **
 - Si bien no existe un límite estricto, es aconsejable mantener concisos los datos de entrada para garantizar la legibilidad y la escaneabilidad.
 
 ### Comience a usar la herramienta ahora!

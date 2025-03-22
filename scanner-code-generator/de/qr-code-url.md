@@ -46,7 +46,7 @@ QR-Codes (Schnellantwortcodes) sind zweidimensionale Barcodes, die eine Vielzahl
 3. ** Kann ich meinen QR -Code anpassen? **
 - Ja, mit dem QR -Code -Link -Tool können Sie das Design und die Farben Ihres QR -Codes anpassen.
 
-4. ** Gibt es eine Grenze für die Anzahl der QR -Codes, die ich erstellen kann? **
+4. ** Gibt es eine Grenze für die Anzahl von q R Codes, die ich erstellen kann? **
 - Nein, Sie können so viele QR -Codes erstellen, wie Sie das QR -Code -Link -Tool benötigen.
 
 5. ** Was soll ich tun, wenn mein QR -Code nicht funktioniert? **

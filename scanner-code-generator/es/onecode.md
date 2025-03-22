@@ -53,7 +53,7 @@ El sistema de código de barras Onecode se integra perfectamente con los servici
 - Onecode está diseñado principalmente para el correo nacional de USPS.Para el envío internacional, consulte con USPS las opciones de código de barras apropiadas.
 
 4. ** ¿Qué debo hacer si mi código de barras no está escaneando? **
-- Asegúrese de que el código de barras se imprima claramente y que la información ingresada sea correcta.También es posible que desee probar el código de barras con un escáner.
+- Asegúrese de que el código de barras se imprima claramente y que la información ingresada sea correcta.Es posible que también desee probar El código de barras con un escáner.
 
 5. ** ¿Hay un límite para el número de códigos de barras que puedo generar? **
 - No hay límite para la cantidad de códigos de barras que puede generar utilizando nuestra herramienta, pero asegúrese de que cada código de barras sea único.

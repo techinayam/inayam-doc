@@ -65,7 +65,7 @@ Das Ereignis -QR -Code -Tool ist zwar hochwirksam, hat zwar einige Einschränkun
 - Derzeit ermöglicht das Tool eine grundlegende Anpassung mit Ereignisnamen und Datum.
 
 4. ** Gibt es eine Grenze für die Anzahl der Ereignisse, die ich erstellen kann? **
-- Nein, Sie können so viele Ereignis -QR -Codes erstellen, wie Sie benötigen.
+- Nein, du kannst cr Essen Sie so viele Event -QR -Codes, wie Sie brauchen.
 
 5. ** Was ist, wenn der QR -Code nicht funktioniert? **
 - Stellen Sie sicher, dass die Ereignisdetails korrekt sind und dass Sie beim Scannen eine stabile Internetverbindung haben.

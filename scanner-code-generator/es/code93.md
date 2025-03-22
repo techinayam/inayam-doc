@@ -53,7 +53,7 @@ El código 93 tiene un límite máximo de caracteres y admite solo un conjunto e
 Sí, el código 93 se usa ampliamente en la gestión de inventario debido a su tamaño compacto y capacidades de codificación de alta densidad.
 
 5. ** ¿Hay alguna forma de probar el código de barras generado? **
-Sí, se recomienda escanear el código de barras generado con un escáner para garantizar que represente con precisión los datos previstos.
+Sí, se recomienda escanear el gen Código de barras clasificado con un escáner para garantizar que represente con precisión los datos previstos.
 
 ### Comience a usar la herramienta ahora!
 

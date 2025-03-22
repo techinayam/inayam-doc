@@ -53,7 +53,7 @@ Ja, solange die Informationen den GS1 -Standards entsprechen, können Sie sie f�
 4. ** Was ist, wenn sich meine Produktinformationen ändert? **
 Sie müssen den QR -Code mit den aktualisierten Informationen regenerieren, um die Genauigkeit sicherzustellen.
 
-5. ** Gibt es eine Grenze für die Datenmenge, die ich codieren kann? **
+5. ** Gibt es eine Grenze für die Datenmenge i i kann codieren? **
 Ja, während GS1 -QR -Codes eine erhebliche Datenmenge enthalten können, ist es am besten, die Informationen für ein optimales Scannen zuversichtlich zu halten.
 
 ### Verwenden Sie jetzt das Tool!

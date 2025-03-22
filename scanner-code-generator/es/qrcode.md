@@ -52,7 +52,7 @@ Los códigos QR, o los códigos de respuesta rápida, son códigos de barras bid
 - Sí, puede personalizar los colores y agregar logotipos para que coincida con su marca.
 
 4. ** ¿Hay un límite para la cantidad de datos que puedo almacenar? **
-- Sí, los códigos QR tienen un límite de datos;Las URL complejas o grandes cantidades de texto pueden no ser adecuadas.
+- Sí, los códigos QR tienen un límite de datos;Las URL complejas o grandes cantidades de texto pueden no ser Suitab Le.
 
 5. ** ¿Cómo me aseguro de que funcione mi código QR? **
 - Siempre pruebe su código QR escaneándolo con un teléfono inteligente antes de distribuirlo.

@@ -52,7 +52,7 @@ QR-Codes oder schnelle Antwortcodes sind zweidimensionale Barcodes, die eine erh
 - Ja, Sie können die Farben anpassen und Logos hinzufügen, die Ihrem Branding entsprechen.
 
 4. ** Gibt es eine Grenze für die Datenmenge, die ich speichern kann? **
-- Ja, QR -Codes haben eine Datengrenze.Komplexe URLs oder große Textmengen sind möglicherweise nicht geeignet.
+- Ja, QR -Codes haben eine Datengrenze.Komplexe URLs oder große Textmengen sind möglicherweise nicht geeignet Le.
 
 5. ** Wie stelle ich sicher, dass mein QR -Code funktioniert? **
 - Testen Sie Ihren QR -Code immer, indem Sie ihn mit einem Smartphone scannen, bevor Sie ihn verteilen.

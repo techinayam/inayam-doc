@@ -23,7 +23,7 @@ Mit diesem Tool können Benutzer GS1 -Barcodes generieren, die Gutscheininformat
 1. ** Zugriff auf das Tool **: Besuchen Sie den [GS1 North American Coupon Barcode Generator] (https://www.inayam.co/barcode/gs1northamericcoupon).
 2. ** Text eingeben **: Geben Sie die erforderlichen Textinformationen in die bereitgestellten Felder ein.Dies enthält in der Regel den Gutscheincode und alle zusätzlichen Details, die Sie codieren möchten.
 3. ** Barcode generieren **: Klicken Sie auf die Schaltfläche "Generieren", um Ihren GS1 -Barcode zu erstellen.
-4. ** Download oder Drucken **: Nach dem Erstellen können Sie das Barcode -Bild herunterladen oder es direkt ausdrucken, um sie auf Ihren Gutscheinen zu verwenden.
+4. ** Download oder Drucken **: Nachdem Sie das Barcode -Bild herunterladen oder direkt für Ihre Gutscheine drucken können.
 
 ### Best Practices für einen optimalen Gebrauch
 
@@ -37,7 +37,7 @@ Mit diesem Tool können Benutzer GS1 -Barcodes generieren, die Gutscheininformat
 
 - ** Werkzeugtyp **: GS1
 - ** Konfigurationsfelder **: Zwei Textfelder zum Eingeben von Gutscheininformationen.
-- **Limitations**: The tool generates barcodes based on the input provided;Stellen Sie sicher, dass die Informationen den GS1 -Standards entsprechen, um das Scannen von Problemen zu vermeiden.
+- ** Einschränkungen **: Das Tool generiert Barcodes basierend auf der bereitgestellten Eingabe.Stellen Sie sicher, dass die Informationen den GS1 -Standards entsprechen, um das Scannen von Problemen zu vermeiden.
 
 ### häufig gestellte Fragen (FAQs)
 
@@ -53,7 +53,7 @@ Mit diesem Tool können Benutzer GS1 -Barcodes generieren, die Gutscheininformat
 4. ** Was soll ich tun, wenn mein Barcode nicht scannt? **
 - Stellen Sie sicher, dass der Barcode klar gedruckt wird und dass der Eingabetxt genau ist.Testen Sie den Barcode mit einem Scanner, um Probleme zu beheben.
 
-5. ** Gibt es Kosten, die mit der Verwendung dieses Tools verbunden sind? **
+5. ** Gibt es eine y Kosten, die mit der Verwendung dieses Tools verbunden sind? **
 - Der Norton -Barcode -Generator von GS1 North American kann kostenlos verwendet werden, sodass Unternehmen Barcodes ohne finanzielle Verpflichtung erstellen können.
 
 ### Verwenden Sie jetzt das Tool!

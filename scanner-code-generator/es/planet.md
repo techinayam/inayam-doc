@@ -53,7 +53,7 @@ El sistema de código de barras Planet opera codificando información específic
 4. ** ¿Qué debo hacer si mi código de barras no está escaneando? **
 - Asegúrese de que el código de barras se imprima claramente y que la información de entrada sea correcta.Pruebe con un escáner diferente si es necesario.
 
-5. ** ¿Hay un costo asociado con el uso del generador de código de barras del planeta? **
+5. ** ¿Hay un co ST asociado con el uso del generador de código de barras del planeta? **
 - La herramienta es de uso gratuito, lo que le permite generar códigos de barras sin tarifas.
 
 ## Conclusión

@@ -51,7 +51,7 @@ Der EAN-2-Barcode besteht aus zwei Ziffern, die dem vorhandenen EAN-13-Barcode h
 -Ja, EAN-2-Barcodes können für jedes Produkt verwendet werden, das zusätzliche Informationen über den EAN-13-Barcode hinaus benötigt.
 
 4. ** Was sind die Grenzen von EAN-2-Barcodes? **
-- EAN-2-Barcodes sind auf zwei Ziffern begrenzt, was die Anzahl der Informationen, die codiert werden können, einschränken können.
+- EAN-2 Barc ODEs sind auf zwei Ziffern begrenzt, was die Anzahl der Informationen einschränken kann, die codiert werden können.
 
 5. ** Ist der erzeugte Barcode zum Drucken geeignet? **
 - Ja, die erzeugten EAN-2-Barcodes sind von hoher Qualität und zum Drucken und Scannen geeignet.

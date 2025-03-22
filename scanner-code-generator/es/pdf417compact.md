@@ -51,11 +51,11 @@ PDF417 es un formato de código de barras bidimensional que puede codificar una 
 - La principal limitación es que, si bien puede codificar muchos datos, los conjuntos de datos muy grandes aún pueden requerir un código de barras más grande para un escaneo óptimo.
 
 4. ** ¿Puedo imprimir el código de barras generado? **
-- Sí, una vez generado, puede descargar o imprimir el código de barras directamente desde la herramienta.
+- Sí, una vez generado, puede descargar o imprimir el código de barras directamente desde el herramienta.
 
-5. ** ¿Es el escáner de código de barras PDF417 amigable para el escáner? **
-- Sí, siempre que el código de barras se imprima claramente y dentro del tamaño recomendado, debe ser fácilmente escaneable.
+5. **Is the PDF417 Compact barcode scanner-friendly?**
+- Yes, as long as the barcode is printed clearly and within the recommended size, it should be easily scannable.
 
 ### Comience a usar la herramienta ahora!
 
-No se pierda la oportunidad de mejorar sus capacidades de codificación de datos.** Comience a usar el generador de códigos de barras compactos PDF417 ahora ** y experimente los beneficios de los códigos de barras compactos de alta capacidad.** ¡Calcule sus resultados al instante ** y simplifique sus procesos de gestión de datos hoy!
+Don’t miss out on the opportunity to enhance your data encoding capabilities.**Start using the PDF417 Compact Barcode Generator now** and experience the benefits of compact, high-capacity barcodes.** ¡Calcule sus resultados al instante ** y simplifique sus procesos de gestión de datos hoy!

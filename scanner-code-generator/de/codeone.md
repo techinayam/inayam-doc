@@ -55,7 +55,7 @@ Geben Sie einfach Ihren Text in die bereitgestellten Felder auf der Seite Code O
 3. ** Welche Arten von Daten kann ich mit Code eins codieren? **
 Sie können numerische, alphanumerische und binäre Daten unter Verwendung von Code One codieren.
 
-4. ** Ist Code One mit allen Barcode -Scannern kompatibel? **
+4. ** ist Code One Compatibl e mit allen Barcode -Scannern? **
 Während die meisten modernen Scanner Code One Barcodes lesen können, ist es ratsam, die Kompatibilität mit Ihrem spezifischen Scanner zu überprüfen.
 
 5. ** Kann ich das Erscheinungsbild meines Codes ein Barcode anpassen? **

@@ -53,7 +53,7 @@ El ISMN es un identificador reconocido internacionalmente para la música impres
 - No hay límites estrictos, pero asegúrese de administrar sus ISMN generados de manera efectiva para evitar la duplicación.
 
 5. ** ¿Qué debo hacer si mi código de barras no escanea? **
-- Verifique la claridad del código de barras impreso y asegúrese de que la información ingresada fuera precisa.Pruebe con un escáner diferente si es necesario.
+- Verifique la claridad del código de barras impreso y asegúrese de que la información ingresada fuera precisa.Prueba con una diferencia escáner NT si es necesario.
 
 ## Conclusión
 

@@ -52,7 +52,7 @@ La herramienta de código HIBC QR simplifica el proceso de generar códigos QR q
 - Sí, puede ingresar un texto específico relacionado con su producto de atención médica en los campos proporcionados.
 
 4. ** ¿Hay un límite para la información que puedo incluir en el código QR? **
-- La herramienta tiene limitaciones basadas en el estándar HIBC, por lo tanto, asegúrese de que la información cumpla con las pautas.
+- La herramienta tiene limitaciones basadas en el estándar HIBC, por lo que asegúrese de T La información cumple con las pautas.
 
 5. ** ¿Cómo puedo asegurarme de que mi código QR sea escaneable? **
 - Asegúrese de imprimir el código QR con claridad y probarlo con un escáner de código QR antes de usarlo en las etiquetas del producto.

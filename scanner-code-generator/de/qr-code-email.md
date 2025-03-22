@@ -55,7 +55,7 @@ Das E -Mail -QR -Code -Tool wird ausgeführt, indem bestimmte Informationen in e
 - Derzeit ermöglicht das Tool nur die Anpassung der E -Mail -Adresse und der Betreffzeile.Der Körpertext kann nicht vorgefüllt werden.
 
 3. ** Gibt es eine Grenze für die Anzahl der E -Mails, die ich senden kann? **
-- Das Werkzeug selbst wird keine Grenze erhoben;Ihr E -Mail -Dienstanbieter hat jedoch möglicherweise Beschränkungen.
+- Es wird keine Grenze auferlegt von das Werkzeug selbst;Ihr E -Mail -Dienstanbieter hat jedoch möglicherweise Beschränkungen.
 
 4. ** Mit welchen Geräten kann ich den QR -Code scannen? **
 - Jedes Gerät mit einer Kamera- und QR -Code -Scan -Funktion wie Smartphones und Tablets kann verwendet werden.

@@ -52,8 +52,8 @@ El código de barras GS1 DataMatrix es un código de barras de matriz bidimensio
 4. ** ¿Puedo usar el código de barras generado para fines comerciales? **
 - Sí, siempre que cumpla con los estándares y regulaciones GS1 para el uso de códigos de barras.
 
-5. ** ¿Existe un costo asociado con el uso de la herramienta GS1 DataMatrix? **
-- La herramienta es de uso gratuito, lo que le permite generar códigos de barras sin ningún cargo.
+5. ** ¿Hay un costo asociado con el uso de la herramienta DataMatrix GS1? **
+- La herramienta es de uso gratuito, lo que le permite generar códigos de barras sin ningún char Ges.
 
 ### Comience a usar la herramienta ahora!
 

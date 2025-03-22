@@ -63,4 +63,4 @@ La herramienta de código SMS QR opera codificando un formato específico que lo
 
 ### Comience a usar la herramienta de código SMS QR ahora!
 
-Mejore su estrategia de comunicación hoy utilizando la herramienta de código SMS QR.Genere su código QR y sea más fácil para su audiencia conectarse con usted al instante.** ¡Calcule sus resultados al instante y vea la diferencia! **
+Mejore su estrategia de comunicación hoy utilizando la herramienta de código SMS QR.Genere su código QR y facilite su audiencia nectas contigo al instante.** ¡Calcule sus resultados al instante y vea la diferencia! **

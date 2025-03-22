@@ -53,7 +53,7 @@ Esta herramienta funciona permitiendo a los usuarios ingresar parámetros de tex
 - Al usar esta herramienta, puede generar códigos de barras que cumplan con los estándares de HIBC, pero siempre verificar con las pautas regulatorias.
 
 5. ** ¿Existe un costo para usar el generador rectangular de la matriz de datos HIBC? **
-- La herramienta es de uso gratuito, lo que le permite generar códigos de barras sin ningún cargo.
+- La herramienta es gratuita para nosotros E, lo que le permite generar códigos de barras sin cargos.
 
 ### Conclusión
 

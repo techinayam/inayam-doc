@@ -48,7 +48,7 @@ Sie können alphanumerische Daten, einschließlich Zahlen, Buchstaben und Sonder
 Ja, es gibt eine maximale Zeichengrenze, die je nach Datentyp und Struktur variiert.
 
 ** 3.Kann ich das Erscheinungsbild des erzeugten Barcode anpassen? **
-Derzeit konzentriert sich das Tool auf die Erzeugung des Barcode selbst, aber Sie können die Größe und das Format während des Drucks anpassen.
+Derzeit konzentriert sich das Tool auf die Erzeugung des Barcode -Itsels F, aber Sie können die Größe und das Format während des Drucks anpassen.
 
 ** 4.Wie stelle ich sicher, dass mein Barcode scannelbar ist? **
 Testen Sie den Barcode mit einem Scanner nach der Generation, um sicherzustellen, dass er die Informationen korrekt codiert und von entsprechender Größe ist.

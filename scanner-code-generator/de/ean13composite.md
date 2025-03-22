@@ -49,7 +49,7 @@ Die Verwendung des EAN-13-Verbund-Barcode-Generators ist unkompliziert:
 2. ** Wie erzeugte ich einen EAN-13-Verbund-Barcode? **
 - Geben Sie einfach die erforderliche EAN-13-Nummer und zusätzliche Informationen in das Tool ein und klicken Sie dann auf "Generieren", um Ihren Barcode zu erstellen.
 
-3. ** Welche Arten von zusätzlichen Informationen kann ich codieren? **
+3. ** Welche Arten zusätzlicher Informationen kann ich en en Code?**
 - Sie können verschiedene Arten von Informationen codieren, einschließlich Ablaufdaten, Stapelnummern und Werbedetails.
 
 4. ** Ist der erzeugte Barcode zum Drucken geeignet? **

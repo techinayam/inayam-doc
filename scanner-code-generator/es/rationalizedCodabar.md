@@ -53,7 +53,7 @@ El generador de código de barras de Codabar (racionalizado) permite a los usuar
 - Asegúrese de que el código de barras se imprima claramente y pruebe con un escáner.Si persisten los problemas, verifique el texto de entrada para ver los errores.
 
 5. ** ¿El generador de código de barras de Codabar es gratuito? **
-- Sí, el generador de código de barras Codabar está disponible de forma gratuita en nuestro sitio web.
+- Sí, el generador de código de barras de Codabar está disponible de forma gratuita en nuestro sitio web.
 
 ## Conclusión
 

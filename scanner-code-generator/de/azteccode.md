@@ -46,13 +46,13 @@ Der Aztec-Code ist ein zweidimensionaler Barcode, der Daten in einem Matrixforma
 1. ** Was ist ein aztekischer Code? **
 - Ein Aztec -Code ist ein Typ von 2D -Barcode, der große Datenmengen in einem kompakten Format codieren kann, was ihn für verschiedene Anwendungen ideal macht.
 
-2. **How much data can an Aztec Code hold?**
+2. ** Wie viele Daten kann ein Aztec -Code halten? **
 - Ein Aztec -Code kann je nach Art der codierten Daten bis zu 3.000 Zeichen enthalten.
 
-3. **Can I customize the appearance of the Aztec Code?**
+3. ** Kann ich das Erscheinungsbild des Aztec -Code anpassen? **
 - Das Tool konzentriert sich hauptsächlich auf die Generierung des Code selbst.Sie können das Erscheinungsbild jedoch nach dem Herunterladen mithilfe der Grafikdesign -Software anpassen.
 
-4. ** Gibt es eine Grenze für die Menge an Text, die ich eingeben kann? **
+4. ** Gibt es eine Grenze für die Menge an Text, die ich kann setzen?**
 - Obwohl es keine strenge Begrenzung gibt, ist es ratsam, den Text für eine optimale Scan -Leistung zu verwirklichen.
 
 5. ** Wie kann ich sicherstellen, dass mein Aztec -Code scannelbar ist? **

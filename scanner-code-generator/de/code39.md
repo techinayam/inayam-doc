@@ -50,7 +50,7 @@ Nein, Code 39 unterstützt nur Großbuchstaben und Zahlen.Kleinbuchstaben könne
 Code 39 wird üblicherweise in Einzelhandel, Logistik, Gesundheitswesen und Fertigung für Produktkennzeichnung und Inventarverfolgung verwendet.
 
 ** 5.Gibt es eine Grenze für die Textlänge, die ich codieren kann? **
-Beachten Sie zwar keine strenge Grenze, aber denken Sie daran, dass längerer Text zu einem größeren Barcode führen kann, was sich auf die Scan -Effizienz auswirken kann.
+Denken Sie zwar keine strenge Begrenzung, aber denken Sie daran, dass längerer Text zu einem größeren Barcode führen kann, was sich auf das Scan -EFFI auswirken kann Cience.
 
 ### Abschluss
 Der Barcode -Generator ** Code 39 ist ein leistungsstarkes Tool für alle, die schnell und effizient alphanumerische Barcodes erstellen müssen.Wenn Sie den oben beschriebenen Verwendungshandbuch und Best Practices folgen, können Sie optimale Ergebnisse sicherstellen.

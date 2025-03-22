@@ -54,7 +54,7 @@ El Deutsche Post Leitcode es un formato de código de barras específico que cod
 4. ** ¿Hay un límite para el número de códigos de barras que puedo generar? **
 - No hay límites específicos, pero asegúrese de que sus entradas sean precisas para cada código de barras generado.
 
-5. ** ¿Qué debo hacer si mi código de barras no escanea? **
+5. ** ¿Qué debo ¿Si mi código de barras no escanea? **
 - Verifique dos veces la calidad impresa y asegúrese de que el código de barras se generara correctamente.También es posible que desee probarlo con diferentes escáneres.
 
 ### Comience a usar la herramienta ahora!

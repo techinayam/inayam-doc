@@ -58,7 +58,7 @@ Ja, Sie können den generierten Barcode sofort in verschiedenen Formaten herunte
 Überprüfen Sie die Genauigkeit der eingegebenen Informationen und stellen Sie sicher, dass der Barcode auf hochwertige Etikettsbestände klar gedruckt wird.
 
 ** 5.Gibt es eine Grenze für die Datenmenge, die ich codieren kann? **
-Ja, das PDF417 -Format hat eine maximale Kapazität von 1.850 alphanumerischen Zeichen.
+Ja, das PDF417 -Format hat eine maximale Kapazität von 1.850 alphanumerische Zeichen.
 
 ### Verwenden Sie jetzt das Tool!
 

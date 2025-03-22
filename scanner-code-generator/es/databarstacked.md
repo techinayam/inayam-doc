@@ -33,7 +33,7 @@ El ** GS1 DataBar apilado ** se utiliza principalmente para codificar la informa
 
 ### Detalles técnicos de GS1 Databar apilados
 
-- ** Formato de codificación **: El GS1 DataBar Stacked usa un formato de código de barras lineal apilado.
+- ** Formato de codificación **: El GS1 DataBar Stacked utiliza un formato de código de barras lineal apilado.
 - ** Capacidad de datos **: puede codificar hasta 74 dígitos numéricos o 41 caracteres alfanuméricos.
 - ** Dimensiones **: El tamaño puede variar según los datos codificados, pero está diseñado para ser compacto para etiquetas pequeñas.
 - ** Compatibilidad de escaneo **: Compatible con la mayoría de los escáneres de código de barras modernos que admiten los estándares GS1.
@@ -57,4 +57,4 @@ El ** GS1 DataBar apilado ** se utiliza principalmente para codificar la informa
 
 ### Comience a usar la herramienta ahora!
 
-Desbloquee el potencial de la codificación de datos eficientes con el generador apilado de datos ** GS1 **.** ¡Calcule sus resultados al instante ** y agilice la gestión de su inventario hoy!Visite [Generador apilado GS1 Databar] (https://www.inayam.co/barcode/databarstacked) para comenzar.
+Desbloquear el potencial de los datos eficientes ENC Oding con el generador de datos ** GS1 apilado **.** ¡Calcule sus resultados al instante ** y agilice la gestión de su inventario hoy!Visite [Generador apilado GS1 Databar] (https://www.inayam.co/barcode/databarstacked) para comenzar.

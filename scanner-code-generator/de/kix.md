@@ -52,7 +52,7 @@ Das KIX -Code -Tool vereinfacht den Prozess der Generierung von Barcodes, die de
 - KIX -Codes wurden speziell für einheimische Post in den Niederlanden entwickelt.Informationen zu internationalen Sendungen finden Sie in den entsprechenden Postrichtlinien.
 
 4. ** Was soll ich tun, wenn mein Kix -Code nicht scannt? **
-- Stellen Sie sicher, dass der Barcode klar gedruckt wird und dass die Texteingabe korrekt ist.Wenn Ausgaben bestehen, versuchen Sie, einen neuen Code zu generieren.
+- Stellen Sie sicher, dass der Barcode klar gedruckt wird und dass die Texteingabe korrekt ist.Wenn Probleme bestehen, Versuchen Sie, einen neuen Code zu generieren.
 
 5. ** Gibt es eine Grenze für die Anzahl der KIX -Codes, die ich generieren kann? **
 - Es gibt keine spezifische Grenze für die Anzahl der KIX -Codes, die Sie mit unserem Tool generieren können. Stellen Sie jedoch sicher, dass jeder Code eindeutig ist, um Verwirrung zu vermeiden.

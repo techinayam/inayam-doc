@@ -56,4 +56,4 @@ Dieses Tool ermöglicht es Benutzern, einen bestimmten Text einzugeben, der dann
 
 ### Verwenden Sie jetzt das Tool!
 
-Schalte das Potenzial der Kompaktmarkierung mit unserem rechteckigen Mikro -QR -Codegenerator ** frei.Erstellen Sie Ihre QR -Codes sofort und verbessern Sie noch heute Ihre Etikettierungslösungen!Besuchen Sie [rechteckige Mikro -QR -Codegenerator] (https://www.inayam.co/barcode/rectangularmicroqrcode), um loszulegen.
+Schalte das Potenzial der Kompaktmarkierung mit unserem rechteckigen Mikro -QR -Codegenerator ** frei.Erstellen Sie Ihre QR -Codes sofort und verbessern Sie noch heute Ihre Etikettierungslösungen!Besuchen croqrcode) beginnen zu starten.

@@ -54,6 +54,6 @@ Der kompakte Aztec -Codegenerator arbeitet, indem er Ihren Eingabetxt übernimmt
 5. ** Was soll ich tun, wenn der Barcode nicht scannt? **
 - Stellen Sie sicher, dass der Barcode klar gedruckt wird, mit hohem Kontrast vor dem Hintergrund, und testen Sie ihn mit einem zuverlässigen Barcode -Scanner.
 
-### Verwenden Sie jetzt das Tool!
+### Beginnen Sie jetzt mit dem Tool !
 
 Entsperren Sie das Potenzial effizienter Datencodierung mit dem ** Compact Aztec -Codegenerator **.Generieren Sie Ihre kompakten Barcodes sofort und verbessern Sie noch heute Ihre Etikettierungs- und Verpackungslösungen!Besuchen Sie [hier] (https://www.inayam.co/barcode/azteccodecompact), um loszulegen.

@@ -47,7 +47,7 @@ El código de barras apilado expandido GS1 Databar es una herramienta poderosa p
 1. ** ¿Cuál es el DataBar GS1 expandido apilado? **
 - El GS1 DataBar expandido apilado es un formato de código de barras que permite la codificación de datos compactos, ideal para productos con espacio de etiquetado limitado.
 
-2. ** ¿Cómo genero un código de barras apilado de datos expandido GS1? **
+2. ** ¿Cómo genero un GS1? ¿Código de barras apilado de datos expandido? **
 - Simplemente ingrese el texto requerido en los campos de entrada de la herramienta y haga clic en "Generar" para crear su código de barras.
 
 3. ** ¿Qué tipos de datos se pueden codificar? **

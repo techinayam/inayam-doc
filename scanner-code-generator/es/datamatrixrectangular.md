@@ -48,7 +48,7 @@ Esta herramienta funciona permitiendo a los usuarios ingresar texto que se codif
 2. ** ¿Cómo uso el generador de código de barras rectangular de la matriz de datos? **
 - Simplemente ingrese su texto deseado en los campos de entrada, haga clic en "Generar" y descargue su código de barras para su uso.
 
-3. ** ¿Puedo personalizar el tamaño del código de barras? **
+3. ** ¿Puedo personalizar el tamaño o f el código de barras? **
 - El generador produce un tamaño rectangular estándar, pero puede ajustar el tamaño de impresión en función de sus requisitos.
 
 4. ** ¿Hay un límite para la cantidad de datos que puedo codificar? **

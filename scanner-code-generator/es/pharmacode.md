@@ -50,7 +50,7 @@ El código de barras Pharmacode es un código binario que representa la informac
 - Sí, puede adaptar el código de barras para que se ajuste a los requisitos específicos del producto.
 
 4. ** ¿El código de barras generado es escaneable? **
-- Sí, los códigos de barras generados por esta herramienta están diseñados para ser de alta calidad y escaneables.
+- Sí, los códigos de barras generados por esta herramienta están diseñados para ser de alto rendimiento ity y escaneable.
 
 5. ** ¿Qué debo hacer si el código de barras no escanea? **
 - Asegúrese de que el código de barras se imprima claramente y pruebe con un escáner.Si los problemas persisten, vuelva a verificar los datos de entrada para su precisión.

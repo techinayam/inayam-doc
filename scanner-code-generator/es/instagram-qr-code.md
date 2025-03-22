@@ -54,7 +54,7 @@ La herramienta Código QR de Instagram funciona convirtiendo una URL en un forma
 - Puede usarlo en tarjetas de presentación, volantes, publicaciones en redes sociales o cualquier material de marketing físico.
 
 5. ** ¿Qué pasa si cambia mi enlace de Instagram? **
-- Si su enlace de Instagram cambia, deberá generar un nuevo código QR con la URL actualizada.
+- Si su enlace de Instagram cambia, necesitará géneros te un nuevo código QR con la URL actualizada.
 
 ## Conclusión
 

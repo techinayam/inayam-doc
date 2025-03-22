@@ -47,7 +47,7 @@ Das GS1 -Datenbank erweitertes Kompositformat ist ein Barcode -Standard, der die
 2. ** Wie benutze ich den GS1 -Datenbank erweitertem Verbundgenerator? **
 - Geben Sie einfach Ihre Daten in die bereitgestellten Felder ein, klicken Sie auf "Generieren" und laden Sie Ihren Barcode herunter oder drucken Sie.
 
-3. ** Was sind die Einschränkungen dieses Tools? **
+3. ** Was ist das Limitat? Ionen dieses Tools? **
 - Die Hauptbeschränkung besteht darin, dass die eingegebenen Daten den GS1 -Standards entsprechen, um die Barcode -Funktionalität aufrechtzuerhalten.
 
 4. ** Kann ich dieses Tool für eine Art von Produkt verwenden? **

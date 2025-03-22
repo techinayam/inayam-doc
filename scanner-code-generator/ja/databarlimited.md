@@ -58,4 +58,4 @@ GS1 Databar Limitedジェネレーターを使用するには、次の簡単な�
 
 ###今すぐツールの使用を開始してください！
 
-GS1 Databar Limitedによる効率的な製品ラベルの可能性を解き放ちます。**結果を即座に計算してください**、今日の在庫管理を合理化してください！[GS1 Databar Limitedジェネレーター]（https://www.inayam.co/barcode/databarlimited）にアクセスしてください。
+効率的な製品の可能性のロックを解除します GS1 Databar Limitedのラベル付け。**結果を即座に計算してください**、今日の在庫管理を合理化してください！[GS1 Databar Limitedジェネレーター]（https://www.inayam.co/barcode/databarlimited）にアクセスしてください。

@@ -54,7 +54,7 @@ La herramienta de código WiFi QR funciona codificando su información de red Wi
 - Use la cámara de su teléfono inteligente o una aplicación de escaneo de código QR para escanear el código.Siga las indicaciones para conectarse a la red WiFi.
 
 2. ** ¿Puedo usar esta herramienta para múltiples redes wifi? **
-- Sí, puede generar códigos QR separados para diferentes redes WiFi ingresando el SSID y la contraseña respectivos cada vez.
+- Sí, yo Puede generar códigos QR separados para diferentes redes WiFi ingresando el SSID y la contraseña respectivos cada vez.
 
 3. ** ¿La herramienta de código WiFi QR es gratuita? **
 - Sí, la herramienta de código WiFi QR está disponible de forma gratuita en nuestro sitio web.

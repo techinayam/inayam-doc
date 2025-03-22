@@ -55,8 +55,7 @@ MicroPDF417 ist eine Variante des PDF417 -Barcode -Formats, das für kleinere Da
 3. ** Ist microPDF417 mit allen Barcode -Scannern kompatibel? **
 - Nicht alle Scanner unterstützen microPDF417, daher ist es wichtig, die Kompatibilität vor der Verwendung zu überprüfen.
 
-4. ** Kann ich das Erscheinungsbild meines MicroPDF417 -Barcode anpassen? **
-- Ja, Sie können die Größe und die Farben des Barcode an Ihre Markenbedürfnisse anpassen.
+4. ** Kann ich das Erscheinungsbild meines MicroPDF417 -Barcode anpassen? ** - Ja, Sie können die Größe und die Farben des Barcode an Ihre Markenbedürfnisse anpassen.
 
 5. ** Wie kann ich sicherstellen
 - Testen Sie den Barcode mit einem Scanner, verwenden Sie hochwertiger Druck und stellen Sie sicher, dass ein ausreichender Farbkontrast vorliegt.

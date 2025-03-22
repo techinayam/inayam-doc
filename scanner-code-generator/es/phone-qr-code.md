@@ -52,4 +52,4 @@ La herramienta de código Phone QR funciona convirtiendo un número de teléfono
 - Asegúrese de que el número de teléfono se ingrese correctamente y que su dispositivo tenga una cámara en funcionamiento y una conexión a Internet.
 
 ### Comience a usar la herramienta ahora!
-Mejore su estrategia de comunicación con la herramienta de código Phone QR.Genere su código QR hoy y facilite la llamada para sus clientes.** Calcule sus resultados al instante ** visitando [herramienta de código QR de teléfono] (https://www.inayam.co/barcode/phone-qr-code).
+Mejora tu comunicación STR Ategy con la herramienta de código QR del teléfono.Genere su código QR hoy y facilite la llamada para sus clientes.** Calcule sus resultados al instante ** visitando [herramienta de código QR de teléfono] (https://www.inayam.co/barcode/phone-qr-code).

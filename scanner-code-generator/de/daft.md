@@ -44,7 +44,7 @@ Das Custom 4 State Symbology Tool verwendet eine spezifische Codierungsmethode, 
 - Geben Sie einfach den gewünschten Text in die Eingabefelder ein und klicken Sie auf "Generieren", um Ihren benutzerdefinierten Barcode zu erstellen.
 
 3. ** Kann ich die erzeugten Barcodes für kommerzielle Zwecke verwenden? **
-- Ja, die generierten Barcodes können für kommerzielle Anwendungen verwendet werden, sofern sie den Poststandards entsprechen.
+- Ja, der generierte Barcod ES können für kommerzielle Anwendungen verwendet werden, sofern sie den Poststandards entsprechen.
 
 4. ** Was soll ich tun, wenn mein Barcode nicht scannt? **
 - Stellen Sie sicher, dass der Barcode klar gedruckt wird und dass der Eingabetxt genau war.Das Testen mit verschiedenen Scannern kann auch dazu beitragen, das Problem zu identifizieren.

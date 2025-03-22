@@ -47,7 +47,7 @@ El formato compuesto expandido de datos GS1 es un estándar de código de barras
 2. ** ¿Cómo uso el generador compuesto expandido de datos GS1? **
 - Simplemente ingrese sus datos en los campos proporcionados, haga clic en "Generar", e descargue o imprima su código de barras.
 
-3. ** ¿Cuáles son las limitaciones de esta herramienta? **
+3. ** ¿Cuáles son los límites? iones de esta herramienta? **
 - La principal limitación es garantizar que los datos ingresados ​​cumplan con los estándares GS1 para mantener la funcionalidad de código de barras.
 
 4. ** ¿Puedo usar esta herramienta para cualquier tipo de producto? **

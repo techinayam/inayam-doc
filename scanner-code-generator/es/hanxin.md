@@ -56,7 +56,7 @@ Usar el código Han Xin es simple y directo:
 - El código Han Xin ofrece alta capacidad de datos, versatilidad y facilidad de uso, lo que lo hace ideal para diversas aplicaciones.
 
 5. ** ¿Hay alguna limitación en el código Han Xin? **
-- Si bien puede almacenar una cantidad significativa de datos, puede no ser adecuado para conjuntos de datos muy grandes o estructuras de información complejas.
+- Si bien puede almacenar una cantidad significativa de datos, puede no ser adecuado para conjuntos de datos muy grandes o complejos I Estructuras de formación.
 
 ## Llamada a la acción
 

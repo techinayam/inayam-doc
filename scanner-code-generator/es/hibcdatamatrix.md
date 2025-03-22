@@ -48,7 +48,7 @@ La herramienta HIBC DataMatrix está creada para atender específicamente a las 
 - Sí, puede ingresar texto específico en los campos de configuración para personalizar su código de barras.
 
 5. ** ¿Cómo me aseguro de que mi código de barras cumpla con los estándares de HIBC? **
-- Al usar nuestra herramienta HIBC DataMatrix, puede generar códigos de barras que cumplan automáticamente con los estándares HIBC.
+- Al usar nuestra herramienta HIBC DATAMATRIX, puede Genere códigos de barras que cumplan automáticamente con los estándares HIBC.
 
 ### ¡Comience a usar la herramienta HIBC DataMatrix ahora!
 No comprometa el cumplimiento.Genere sus códigos de barras de matriz de datos compatibles con HIBC hoy y racionalice sus operaciones de atención médica.** ¡Calcule sus resultados al instante ** y mejore el seguimiento de su producto con nuestra herramienta fácil de usar!

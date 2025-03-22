@@ -49,7 +49,7 @@ Usar el generador de código de barras compuesto EAN-13 es sencillo:
 2. ** ¿Cómo genero un código de barras compuesto EAN-13? **
 - Simplemente ingrese el número EAN-13 requerido y cualquier información adicional en la herramienta, luego haga clic en "Generar" para crear su código de barras.
 
-3. ** ¿Qué tipos de información adicional puedo codificar? **
+3. ** ¿Qué tipos de información adicional puedo ser? ¿código?**
 - Puede codificar varios tipos de información, incluidas las fechas de vencimiento, los números de lotes y los detalles promocionales.
 
 4. ** ¿El código de barras generado es adecuado para la impresión? **

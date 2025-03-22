@@ -52,7 +52,7 @@ El código AZTEC es un código de barras bidimensional que codifica datos en for
 3. ** ¿Puedo personalizar la apariencia del código azteca? **
 - La herramienta se centra principalmente en generar el código en sí;Sin embargo, puede personalizar su apariencia utilizando el software de diseño gráfico después de la descarga.
 
-4. ** ¿Hay un límite para la cantidad de texto que puedo ingresar? **
+4. ** ¿Hay un límite para la cantidad de texto que puedo en ¿poner?**
 - Si bien no hay un límite estricto, es aconsejable mantener el texto conciso para un rendimiento de escaneo óptimo.
 
 5. ** ¿Cómo me aseguro de que mi código azteca sea escaneable? **

@@ -53,7 +53,7 @@ Die Verwendung des Dotcode -Barcode -Generators ist unkompliziert:
 - Ja, Sie können den Text in den Eingabefeldern an Ihre spezifischen Anforderungen anpassen.
 
 4. ** Ist Dotcode mit allen Barcode -Scannern kompatibel? **
-- Dotcode ist mit den meisten modernen Barcode -Scannern kompatibel, die 2D -Barcode -Formate unterstützen.
+- Dotcode ist kompatibel mit den meisten modernen Barcode -Scannern, die 2D -Barcode -Formate unterstützen.
 
 5. ** Was sind die Einschränkungen bei der Verwendung von Dotcode? **
 - Dotcode kann in Druckumgebungen mit niedriger Auflösung möglicherweise nicht gut abschneiden und benötigt kompatible Scanner für ein optimales Lesen.

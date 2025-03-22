@@ -56,7 +56,7 @@ Dieses Tool arbeitet mit bestimmten geografischen Koordinaten (Breitengrad und L
 3. ** Was passiert, wenn ich die falschen Koordinaten eingehe? **
 - Wenn falsche Koordinaten eingegeben werden, führt der QR -Code zum falschen Ort.Überprüfen Sie Ihre Eingaben immer.
 
-4. ** Ist der QR -Code mit allen Smartphones kompatibel? **
+4. ** ist der QR Co. de kompatibel mit allen Smartphones? **
 - Die meisten modernen Smartphones können QR -Codes scannen, jedoch sicherstellen, dass Benutzer bei Bedarf über eine QR -Code -Scan -App verfügen.
 
 5. ** Kann ich den QR -Code für Standorte außerhalb von Google Maps verwenden? **

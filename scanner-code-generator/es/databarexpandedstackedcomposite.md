@@ -53,7 +53,7 @@ El código de barras compuesto apilado de datos GS1 es una solución de codifica
 - Si bien la herramienta permite una amplia codificación de datos, asegúrese de que los datos se ajusten dentro de las especificaciones del formato de datos GS1.
 
 5. ** ¿Qué industrias se benefician al usar esta herramienta? **
-- Las industrias como el comercio minorista, la atención médica y la logística pueden beneficiarse enormemente de las capacidades eficientes de gestión de datos de los códigos de barras compuestos apilados de DataBar expandidos.
+- IND Los ustries como el comercio minorista, la atención médica y la logística pueden beneficiarse enormemente de las capacidades eficientes de gestión de datos de los códigos de barras compuestos apilados de datos GS1.
 
 ### Comience a usar la herramienta ahora!
 

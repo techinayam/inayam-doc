@@ -48,7 +48,7 @@ Postnet (técnica de codificación numérica postal) es un sistema de código de
 - Simplemente ingrese la información requerida en los campos de entrada en el generador de código de barras Postnet USPS y haga clic en "Generar".
 
 3. ** ¿Puedo usar esta herramienta para correo internacional? **
-- No, el generador de código de barras Postnet USPS está diseñado específicamente para el correo doméstico dentro de los Estados Unidos.
+- No, el generador de código de barras Postnet USPS está diseñado específicamente para MA doméstica IL dentro de los Estados Unidos.
 
 4. ** ¿Qué debo hacer si mi código de barras no está escaneando correctamente? **
 - Asegúrese de que el código de barras se imprima claramente y que la información de entrada sea precisa.Las pruebas con un escáner pueden ayudar a identificar problemas.

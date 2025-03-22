@@ -39,7 +39,7 @@ Si bien el código uno es una herramienta poderosa para generar códigos de barr
 
 ## Detalles técnicos del código uno
 
-- ** Tipo **: Código de barras de matriz 2D
+- ** Tipo **: Código de barras de matriz 2d
 - ** Capacidad de datos **: puede codificar hasta 2,953 bytes de datos
 - ** Compatibilidad de escaneo **: La mayoría de los lectores de código de barras modernos y teléfonos inteligentes
 - ** Formato de salida **: PNG, JPEG o SVG
@@ -55,7 +55,7 @@ Simplemente ingrese su texto en los campos proporcionados en la página del gene
 3. ** ¿Qué tipos de datos puedo codificar con el código uno? **
 Puede codificar datos numéricos, alfanuméricos y binarios utilizando el código uno.
 
-4. ** ¿El código es compatible con todos los escáneres de código de barras? **
+4. ** es el código uno compatible ¿E con todos los escáneres de código de barras? **
 Si bien la mayoría de los escáneres modernos pueden leer los códigos de barras One, es aconsejable verificar la compatibilidad con su escáner específico.
 
 5. ** ¿Puedo personalizar la apariencia de mi código un código de barras? **

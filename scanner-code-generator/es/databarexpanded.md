@@ -46,7 +46,7 @@ El DataBar GS1 expandido es parte de la familia de estándares GS1, que son ampl
 - Simplemente visite nuestra herramienta, ingrese los datos requeridos y haga clic en 'Generar' para crear su código de barras.
 
 3. ** ¿Qué industrias pueden beneficiarse al usar GS1 Databar expandido? **
-- El comercio minorista, la salud y la logística son solo algunas industrias que pueden beneficiarse de la capacidad de datos mejorada de este código de barras.
+- El comercio minorista, la atención médica y la logística son solo algunas industrias S que puede beneficiarse de la capacidad de datos mejorada de este código de barras.
 
 4. ** ¿Puedo imprimir el código de barras generado? **
 - Sí, puede descargar o imprimir el código de barras directamente después de generarlo.

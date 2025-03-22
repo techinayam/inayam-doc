@@ -52,7 +52,7 @@ Während der QR -Codegenerator der einfachen Text ein vielseitiges Tool ist, hat
 - Verwenden Sie Ihre Smartphone -Kamera oder eine QR -Code -Scan -App, um den Code zu scannen.Es wird Sie automatisch in den codierten Text umgeleitet.
 
 4. ** Gibt es eine Grenze für die Menge an Text, die ich in den QR -Code aufnehmen kann? **
-- Ja, QR -Codes können nur eine begrenzte Menge an Text enthalten.Für größere Texte sollten Sie eine URL verwenden.
+- Ja, QR -Codes können an Halten Sie eine begrenzte Menge an Text.Für größere Texte sollten Sie eine URL verwenden.
 
 5. ** Kann ich den QR -Code für kommerzielle Zwecke verwenden? **
 - Absolut!Der text -QR -Codegenerator kann sowohl für persönliche als auch für kommerzielle Anwendungen kostenlos verwendet werden.

@@ -46,7 +46,7 @@ Die erweiterte GS1 -Datenbank ist Teil der GS1 -Familie der Standards, die weltw
 - Besuchen Sie einfach unser Tool, geben Sie die erforderlichen Daten ein und klicken Sie auf "Generieren", um Ihren Barcode zu erstellen.
 
 3. ** Welche Branchen können von der Verwendung von GS1 -Datenbank erweitert werden? **
-- Einzelhandel, Gesundheitswesen und Logistik sind nur einige Branchen, die von der erweiterten Datenkapazität dieses Barcode profitieren können.
+- Einzelhandel, Gesundheitswesen und Logistik sind nur wenige Industrie S, die von der erweiterten Datenkapazität dieses Barcode profitieren können.
 
 4. ** Kann ich den generierten Barcode ausdrucken? **
 - Ja, Sie können den Barcode direkt nach dem Generieren herunterladen oder drucken.

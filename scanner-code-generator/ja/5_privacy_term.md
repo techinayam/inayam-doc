@@ -21,15 +21,15 @@
 - ブラウザの設定を調整して、Cookieトラッキングとデータ収集のオプトアウトをいつでも制御します。
 - 私たちに連絡して、詳細情報またはサポートをリクエストしてください。
 
-----
+---
 
 ＃＃ 利用規約
 
 ####知的財産権
-All intellectual property rights for the code generator and its related services belong to us. We grant you a limited, non-exclusive, and non-transferable license to use the service for personal or internal business purposes.
+コードジェネレーターとその関連サービスのすべての知的財産権は当社に属します。個人または内部のビジネス目的でサービスを使用するために、限られた、独占的で、非譲渡不可能なライセンスを付与します。
 
-#### Use of the Service
-You may use the Scanner Code Generator for legitimate purposes, such as business, personal projects, or research. You agree not to misuse the tool by creating codes that contain harmful, illegal, or inappropriate content.
+####サービスの使用
+ビジネス、個人のプロジェクト、研究などの合法的な目的のために、スキャナーコードジェネレーターを使用できます。お客様は、有害、違法、または不適切なコンテンツを含むコードを作成することにより、ツールを誤用しないことに同意します。
 
 ####禁止活動
 当社のサービスを使用する場合、あなたは次のことに同意しません。
@@ -38,4 +38,4 @@ You may use the Scanner Code Generator for legitimate purposes, such as business
 - 自動化されたシステムを使用して、サービスの機能を過負荷、破壊、または劣化させます。
 
 ####責任の制限
-明示的または黙示的な保証なしで、「現状のまま」と「利用可能な」ベースでサービスを提供します。当社は、コードジェネレーターの使用または使用中の中断または障害に起因する直接的、間接的、偶発的、または結果的な損害について責任を負いません。
+明示的または黙示的な保証なしに、「現状のまま」と「利用可能な」ベースでサービスを提供します。当社は、コードジェネレーターの使用または使用中の中断または障害に起因する直接的、間接的、偶発的、または結果的な損害について責任を負いません。

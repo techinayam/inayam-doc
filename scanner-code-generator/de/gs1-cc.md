@@ -47,7 +47,7 @@ Die 2D -Komponente von GS1 Composite vereinfacht den Prozess der Erstellung komp
 - Das Tool kann Einschränkungen hinsichtlich der Datenmenge haben, die codiert werden können. Daher ist es wichtig, die Informationen präzise zu halten.
 
 5. ** Gibt es Kosten, die mit der Verwendung dieses Tools verbunden sind? **
-- Die GS1 Composite 2D -Komponente ist kostenlos verfügbar, sodass Benutzer Barcodes ohne finanzielle Verpflichtung generieren können.
+- Der GS1 Composite 2D Komponente ist kostenlos verfügbar, sodass Benutzer Barcodes ohne finanzielle Verpflichtung generieren können.
 
 ### Verwenden Sie jetzt das Tool!
 Entsperren Sie das Potenzial Ihrer Produktdaten mit der ** GS1 Composite 2D -Komponente **.Generieren Sie Ihre Barcodes sofort und verbessern Sie noch heute Ihren Geschäftsbetrieb!

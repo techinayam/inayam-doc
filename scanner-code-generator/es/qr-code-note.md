@@ -52,7 +52,7 @@ Si bien el generador de código QR de texto sin formato es una herramienta vers�
 - Use la cámara de su teléfono inteligente o una aplicación de escaneo de código QR para escanear el código.Te redirigirá automáticamente al texto codificado.
 
 4. ** ¿Hay un límite para la cantidad de texto que puedo incluir en el código QR? **
-- Sí, los códigos QR solo pueden contener una cantidad limitada de texto.Para textos más grandes, considere usar una URL.
+- Sí, los códigos QR pueden encender Ly sostiene una cantidad limitada de texto.Para textos más grandes, considere usar una URL.
 
 5. ** ¿Puedo usar el código QR para fines comerciales? **
 - ¡Absolutamente!El generador de código QR de texto sin formato es de uso gratuito para aplicaciones personales y comerciales.

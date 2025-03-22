@@ -52,7 +52,7 @@ La herramienta de código KIX simplifica el proceso de generación de códigos d
 - Los códigos KIX están diseñados específicamente para el correo doméstico dentro de los Países Bajos.Para envíos internacionales, consulte las pautas postales apropiadas.
 
 4. ** ¿Qué debo hacer si mi código KIX no escanea? **
-- Asegúrese de que el código de barras se imprima claramente y que la entrada de texto sea correcta.Si persisten los problemas, intente generar un nuevo código.
+- Asegúrese de que el código de barras se imprima claramente y que la entrada de texto sea correcta.Si los problemas persisten, Intente generar un nuevo código.
 
 5. ** ¿Hay un límite para el número de códigos KIX que puedo generar? **
 - No existe un límite específico para la cantidad de códigos KIX que puede generar utilizando nuestra herramienta, pero asegúrese de que cada código sea exclusivo para evitar confusiones.

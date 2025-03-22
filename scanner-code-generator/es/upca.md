@@ -46,7 +46,7 @@ El generador de código de barras UPC-A funciona convirtiendo la información de
 2. ** ¿Cómo genero un código de barras UPC-A? **
 - Simplemente ingrese la información de su producto en el generador de código de barras UPC-A y haga clic en "Generar" para crear su código de barras.
 
-3. ** ¿Puedo usar el código de barras generado para cualquier producto? **
+3. ** ¿Puedo usar el G ¿Código de barras enérico para cualquier producto? **
 - Sí, siempre y cuando el código de barras sea exclusivo de su producto y cumpla con los estándares de UPC-A.
 
 4. ** ¿Hay un costo para usar el generador de código de barras UPC-A? **

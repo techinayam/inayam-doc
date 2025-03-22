@@ -47,7 +47,7 @@ El componente 2D compuesto GS1 simplifica el proceso de crear códigos de barras
 - La herramienta puede tener limitaciones con respecto a la cantidad de datos que se pueden codificar, por lo que es esencial mantener la información concisa.
 
 5. ** ¿Hay un costo asociado con el uso de esta herramienta? **
-- El componente 2D compuesto GS1 está disponible de forma gratuita, lo que permite a los usuarios generar códigos de barras sin ningún compromiso financiero.
+- El compuesto GS1 2D El componente está disponible de forma gratuita, lo que permite a los usuarios generar códigos de barras sin ningún compromiso financiero.
 
 ### Comience a usar la herramienta ahora!
 Desbloquee el potencial de los datos de su producto con el componente 2D compuesto ** GS1 **.¡Genere sus códigos de barras al instante y mejore sus operaciones comerciales hoy!

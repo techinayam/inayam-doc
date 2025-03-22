@@ -53,9 +53,9 @@ Esta herramienta permite a los usuarios generar códigos de barras GS1 que codif
 4. ** ¿Qué debo hacer si mi código de barras no escanea? **
 - Asegúrese de que el código de barras se imprima claramente y que el texto de entrada sea preciso.Pruebe el código de barras con un escáner para solucionar problemas de cualquier problema.
 
-5. ** ¿Hay algún costo asociado con el uso de esta herramienta? **
+5. ** ¿Hay un Y costos asociados con el uso de esta herramienta? **
 - El generador de códigos de barras de cupón de América del Norte GS1 es de uso gratuito, lo que permite a las empresas crear códigos de barras sin ningún compromiso financiero.
 
 ### Comience a usar la herramienta ahora!
 
-Mejore los procesos de seguimiento y redención de su cupón con el generador de código de barras de cupón de América del Norte ** GS1 **.¡Genere sus códigos de barras al instante y mejore sus estrategias promocionales hoy!
+Mejore los procesos de seguimiento y redención de su cupón con el generador de código de barras de cupón de América Norte ** GS1 **.¡Genere sus códigos de barras al instante y mejore sus estrategias promocionales hoy!

@@ -40,15 +40,15 @@ Der SSCC-18 (serieller Versandcontainercode) ist eine 18-stellige Nummer, die ei
 - Der SSCC-18-Barcode ist eine eindeutige Kennung für Logistikeinheiten, die aus 18 Ziffern besteht, die hauptsächlich in Versand- und Bestandsverwaltung verwendet werden.
 
 2. ** Wie erzeugte ich einen SSCC-18-Barcode? **
-- Geben Sie einfach den erforderlichen Text im SSCC-18-Barcode-Generator-Tool ein und klicken Sie auf "Generieren", um Ihren Barcode zu erstellen.
+- Geben Sie einfach den erforderlichen Text im SSCC-18-Barcode-Generator-Tool ein und klicken Sie auf "Generieren", um Ihr B zu erstellen arcode.
 
-3. ** Kann ich den SSCC-18-Barcode anpassen? **
-- Ja, Sie können bestimmte Textparameter eingeben, um Ihren SSCC-18-Barcode entsprechend Ihren Logistikanforderungen anzupassen.
+3. **Can I customize the SSCC-18 barcode?**
+- Yes, you can input specific text parameters to customize your SSCC-18 barcode according to your logistics needs.
 
-4. ** In welchen Formaten kann ich den generierten Barcode herunterladen? **
-- Mit dem Tool können Sie die generierten Barcodes in verschiedenen Formaten herunterladen, die zum Drucken und Integration in Versanddokumente geeignet sind.
+4. **What formats can I download the generated barcode in?**
+- The tool allows you to download the generated barcodes in various formats suitable for printing and integration into shipping documents.
 
-5. ** Gibt es eine Grenze für die Anzahl der Barcodes, die ich erzeugen kann? **
+5. **Is there a limit to the number of barcodes I can generate?**
 - Es gibt keine spezifische Grenze für die Anzahl der Barcodes, die Sie generieren können. Stellen Sie jedoch sicher, dass jeder Barcode für eine effektive Verfolgung eindeutig ist.
 
 ### Verwenden Sie jetzt das Tool!

@@ -54,7 +54,7 @@ Das Deutsche Post Leitcode ist ein spezifisches Barcode -Format, das Information
 4. ** Gibt es eine Grenze für die Anzahl der Barcodes, die ich erzeugen kann? **
 - Es gibt keine spezifischen Grenzen, aber stellen Sie sicher, dass Ihre Eingänge für jeden generierten Barcode genau sind.
 
-5. ** Was soll ich tun, wenn mein Barcode nicht scannt? **
+5. ** Was soll ich? tun, wenn mein Barcode nicht scannt? **
 - Überprüfen Sie die gedruckte Qualität und stellen Sie sicher, dass der Barcode korrekt erzeugt wurde.Möglicherweise möchten Sie es auch mit verschiedenen Scannern testen.
 
 ### Verwenden Sie jetzt das Tool!

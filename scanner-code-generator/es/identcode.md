@@ -52,7 +52,7 @@ IdentCode es un estándar de código de barras único utilizado por Deutsche Pos
 - El IdentCode es principalmente para envíos domésticos dentro de Alemania.Para el envío internacional, consulte con su transportista el estándar de código de barras apropiado.
 
 4. ** ¿Qué debo hacer si mi código de barras no está escaneando? **
-- Asegúrese de que el código de barras se imprima claramente y verifique los errores de entrada.Las pruebas con un escáner pueden ayudar a identificar problemas.
+- Asegúrese de que el código de barras esté impreso CLE arly y verifique los errores de entrada.Las pruebas con un escáner pueden ayudar a identificar problemas.
 
 5. ** ¿Hay un límite para el número de códigos de barras que puedo generar? **
 - No hay límite establecido;Puede generar tantos códigos de barras como sea necesario para sus envíos.

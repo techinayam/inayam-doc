@@ -50,4 +50,4 @@ El código de barras compuesto apilado de datos GS1 consta de dos partes: el có
 - Si bien el compuesto apilado de datos GS1 permite un amplio almacenamiento de datos, es esencial cumplir con los estándares y pautas GS1 para obtener resultados óptimos.
 
 ### Comience a usar la herramienta ahora!
-Desbloquee el potencial de los datos de su producto con el generador compuesto apilado de datos ** GS1 **.Cree y administre sus códigos de barras de manera eficiente para mejorar sus operaciones comerciales.** ¡Calcule sus resultados al instante! **
+Desbloquear la potencia l de los datos de su producto con el generador compuesto apilado ** GS1 **.Cree y administre sus códigos de barras de manera eficiente para mejorar sus operaciones comerciales.** ¡Calcule sus resultados al instante! **

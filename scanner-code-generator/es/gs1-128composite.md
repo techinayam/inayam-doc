@@ -52,7 +52,7 @@ El código de barras GS1-128 es un estándar utilizado a nivel mundial para codi
 - Sí, puede haber limitaciones en la longitud de los datos de entrada.Consulte la herramienta para obtener pautas específicas.
 
 5. ** ¿Cómo puedo asegurarme de que mi código de barras sea escaneable? **
-- Siempre pruebe el código de barras generado con un escáner antes de usar y asegúrese de que la entrada de datos sea precisa.
+- Siempre pruebe el código de barras generado con un escáner antes de usar y asegúrese de que la entrada de datos sea ACC urato.
 
 ### Comience a usar la herramienta ahora!
 

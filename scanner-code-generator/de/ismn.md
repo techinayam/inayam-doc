@@ -53,7 +53,7 @@ Der ISMN ist eine international anerkannte Kennung für gedruckte Musik.Jedes IS
 - Es gibt keine strengen Grenzen, aber stellen Sie sicher, dass Sie Ihre generierten ISMNs effektiv verwalten, um eine Duplikation zu vermeiden.
 
 5. ** Was soll ich tun, wenn mein Barcode nicht scannt? **
-- Überprüfen Sie die Klarheit des gedruckten Barcode und stellen Sie sicher, dass die eingegebenen Informationen korrekt waren.Testen Sie bei Bedarf mit einem anderen Scanner.
+- Überprüfen Sie die Klarheit des gedruckten Barcode und stellen Sie sicher, dass die eingegebenen Informationen korrekt waren.Mit einem Unterschied testen NT -Scanner bei Bedarf.
 
 ## Abschluss
 

@@ -53,7 +53,7 @@ Während das Audio -QR -Code -Tool sehr effektiv ist, sind einige Einschränkung
 3. ** Kann ich verfolgen, wie oft mein QR -Code gescannt wurde? **
 - Während das Tool selbst keine Scans verfolgt, können Sie URL -Shorneer verwenden, die Analysen zur Überwachung des Engagements bieten.
 
-4. ** Gibt es eine Grenze für die Größe der Audiodatei, die ich teilen kann? **
+4. ** Gibt es eine Grenze für den Si ZE der Audiodatei, die ich teilen kann? **
 - Die Größenlimit hängt vom Hosting -Dienst ab, in dem Ihre Audio -Datei gespeichert ist.Stellen Sie sicher, dass es online zugänglich ist.
 
 5. ** Wie erstelle ich einen QR -Code für meine Audio -Datei? **

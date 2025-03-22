@@ -46,7 +46,7 @@ Un código de barras compuesto UPC-E consta de dos componentes principales: el c
 2. ** ¿Cómo genero un código de barras compuesto UPC-E? **
 - Simplemente ingrese el texto requerido en los campos designados en nuestro [Generador de código de barras compuesto UPC-E] (https://www.inayam.co/barcode/upcecomposis) y haga clic en "Generar".
 
-3. ** ¿Puedo usar el código de barras generado para fines minoristas? **
+3. ** ¿Puedo usar el código de barras generado? para fines minoristas? **
 - Sí, los códigos de barras compuestos UPC-E generados están diseñados para uso minorista y se pueden escanear al momento de pagar.
 
 4. ** ¿Cuáles son las limitaciones de esta herramienta? **

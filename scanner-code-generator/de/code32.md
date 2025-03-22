@@ -33,7 +33,7 @@ Der italienische Pharmakode arbeitet auf dem Code 32 -Standard, der speziell fü
 
 ### Einschränkungen
 - Das Tool wurde speziell für den italienischen Markt entwickelt und ist möglicherweise nicht für andere Barcode -Standards geeignet.
-- Benutzer müssen sicherstellen, dass die Informationen die neuesten pharmazeutischen Vorschriften entsprechen.
+- Benutzer müssen sicherstellen, dass die Informationen an die neuesten pharmazeutischen Vorschriften enthalten sind.
 
 ### häufig gestellte Fragen (FAQs)
 
@@ -49,7 +49,7 @@ Der italienische Pharmakode arbeitet auf dem Code 32 -Standard, der speziell fü
 4. ** Was soll ich tun, wenn mein Barcode nicht scannt? **
 - Stellen Sie sicher, dass der Barcode klar gedruckt wird, und überprüfen Sie die Eingabeinformationen auf Genauigkeit.Das Testen mit einem Scanner kann dazu beitragen, Probleme zu identifizieren.
 
-5. ** Gibt es eine Grenze für die Anzahl der Barcodes, die ich erzeugen kann? **
+5 .** Gibt es eine Grenze für die Anzahl der Barcodes, die ich generieren kann? **
 - Es gibt keine spezifische Grenze;Sie können so viele Barcodes nach Bedarf generieren, solange Sie die erforderlichen Informationen für jeweils angeben.
 
 ### Verwenden Sie jetzt das Tool!

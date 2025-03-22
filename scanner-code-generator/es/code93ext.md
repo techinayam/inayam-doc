@@ -41,7 +41,7 @@ El código 93 extendido es una simbología de código de barras que admite la co
 Simplemente ingrese su texto deseado en el campo de entrada y haga clic en el botón "Generar" para crear su código de barras.
 
 3. ** ¿Hay alguna limitación en los personajes que pueda usar? **
-Sí, si bien el Código 93 extendido admite una variedad de caracteres, existen limitaciones específicas en los tipos y el número de caracteres que se pueden codificar.
+Sí, mientras que el código 93 extendido admite una variedad de caracteres, existen limitaciones específicas en los tipos y el número de caracteres que pueden ser codificados ed.
 
 4. ** ¿Puedo imprimir el código de barras generado? **
 ¡Absolutamente!Puede descargar la imagen de código de barras e imprimirla para su uso.

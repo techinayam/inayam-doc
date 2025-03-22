@@ -52,7 +52,7 @@ Der ISBN -Barcodegenerator funktioniert, indem er eine bestimmte ISBN -Nummer in
 - Es gibt keine festgelegte Grenze;Sie können so viele Barcodes nach Bedarf generieren, solange Sie gültige ISBNs haben.
 
 4. ** In welchen Formaten kann ich den Barcode herunterladen? **
-- Das Tool bietet normalerweise Formate wie PNG, JPEG und SVG zum einfachen Drucken und Gebrauch.
+- - Das Tool bietet normalerweise Formate wie PNG, JPEG und SVG zum einfachen Drucken und Gebrauch.
 
 5. ** Wie kann ich sicherstellen, dass mein Barcode scannelbar ist? **
 - Verwenden Sie hochauflösende Bilder, überprüfen Sie den ISBN und testen Sie den Barcode vor dem Drucken mit einem Scanner.

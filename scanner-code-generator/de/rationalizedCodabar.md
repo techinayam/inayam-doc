@@ -53,7 +53,7 @@ Mit dem Barcode -Generator von Codabar (rationalisiert) können Benutzer spezifi
 - Stellen Sie sicher, dass der Barcode klar gedruckt wird und mit einem Scanner testen.Wenn Ausgaben bestehen, überprüfen Sie den Eingabtext auf Fehler.
 
 5. ** Ist der Codabar -Barcode -Generator kostenlos zu verwenden? **
-- Ja, der Codabar Barcode Generator ist auf unserer Website kostenlos verfügbar.
+- Ja, der Codabar -Barcode -Generator ist kostenlos erhältlich Auf unserer Website.
 
 ## Abschluss
 

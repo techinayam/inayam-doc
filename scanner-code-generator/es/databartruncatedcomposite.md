@@ -50,7 +50,7 @@ Simplemente ingrese sus datos en los campos de entrada en la página de la herra
 Sí, esta herramienta es versátil y puede usarse para una amplia gama de productos en varias industrias.
 
 ** 4.¿Cuáles son las limitaciones del compuesto truncado de datos GS1? **
-Las limitaciones principales incluyen límites de caracteres para la entrada de datos y posibles problemas de compatibilidad con ciertos formatos de datos.
+Las limitaciones principales incluyen límites de caracteres para la entrada de datos y posibles problemas de compatibilidad con CERT Formatos de datos AIN.
 
 ** 5.¿Hay un costo asociado con el uso de esta herramienta? **
 No, el generador compuesto de datos de datos GS1 es de uso gratuito.
