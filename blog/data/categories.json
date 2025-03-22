@@ -1,5 +1,26 @@
 [
     {
+        "key": "news",
+        "name": "News",
+        "subCategories": [
+            {
+                "key": "world-news",
+                "name": "World News",
+                "description": "Content related to global news events"
+            },
+            {
+                "key": "technology-news",
+                "name": "Technology News",
+                "description": "Latest news on technology advancements"
+            },
+            {
+                "key": "political-news",
+                "name": "Political News",
+                "description": "Content related to politics and political events"
+            }
+        ]
+    },
+    {
         "key": "technology",
         "name": "Technology",
         "subCategories": [
