@@ -46,5 +46,16 @@
                 "description": "Content related to health and wellness"
             }
         ]
+    },
+    {
+        "key": "automotive",
+        "name": "Automotive",
+        "subCategories": [
+            {
+                "key": "electric-vehicles",
+                "name": "Electric Vehicles",
+                "description": "Content related to electric vehicle technologies and industry developments"
+            }
+        ]
     }
 ]
