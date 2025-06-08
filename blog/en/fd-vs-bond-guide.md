@@ -5,6 +5,8 @@ Investing your hard-earned money wisely is both an art and a science. You want s
 Today, let’s take a stroll through what **FDs and Bonds** really mean, dissect their pros and cons, and maybe, just maybe, help you pick the one that fits your style and goals.
 
 ---
+![Fixed Deposits (FDs) and Bonds](https://i.ibb.co/m5hW746c/Chat-GPT-Image-Jun-8-2025-07-35-16-PM.png)
+
 
 ## What Exactly Is a Fixed Deposit (FD)?
 
