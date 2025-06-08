@@ -1,5 +1,20 @@
 [
     {
+        "key": "finance",
+        "name": "Finance",
+        "subCategories": [
+            {
+                "key": "investing",
+                "name": "Investing",
+                "description": "Content related to investments, stocks, FDs, bonds, and other financial instruments"
+            },
+            {
+                "key": "personal-finance",
+                "name": "Personal Finance",
+                "description": "Guides and tips on managing money, budgeting, and saving"
+            }
+        ]
+    },{
         "key": "news",
         "name": "News",
         "subCategories": [

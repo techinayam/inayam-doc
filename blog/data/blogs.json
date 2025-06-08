@@ -1,5 +1,28 @@
 [
     {
+    "id": "fd-vs-bond-guide",
+    "title": "FD vs Bond: Choosing the Right Investment for You",
+    "description": "Explore the key differences between Fixed Deposits and Bonds, and learn how to choose the right one based on your financial goals.",
+    "url": "fd-vs-bond-guide",
+    "isActive": true,
+    "createdDate": "2025-06-08T10:00:00Z",
+    "modifiedDate": "2025-06-08T10:00:00Z",
+    "category": "finance",
+    "subCategory": "investing",
+    "labels": [
+        "FD",
+        "bonds",
+        "investment-guide",
+        "low-risk-investments",
+        "personal-finance"
+    ],
+    "likes": 0,
+    "dislikes": 0,
+    "author": "AadhiMahi",
+    "readTime": "10 min",
+    "thumbnail": "/api/placeholder/800/450"
+}
+,{
         "id": "getting-started-with-nextjs",
         "title": "Getting Started with Next.js",
         "description": "A comprehensive guide to setting up your first Next.js project",
