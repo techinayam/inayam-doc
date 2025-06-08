@@ -12,6 +12,11 @@
                 "key": "personal-finance",
                 "name": "Personal Finance",
                 "description": "Guides and tips on managing money, budgeting, and saving"
+            },
+            {
+                "key": "taxation",
+                "name": "Taxation",
+                "description": "Content related to tax laws, filing procedures, due dates, and tax-saving tips"
             }
         ]
     },{
