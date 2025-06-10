@@ -3,6 +3,7 @@
 Tax season is always a bit daunting, isn’t it? Especially when you’re juggling life, work, and the endless paperwork that comes with filing your Income Tax Return (ITR). To make things a little easier, here’s a straightforward rundown of the **ITR filing due dates for FY 2024-2025** (which corresponds to **AY 2025-2026**). Keeping these dates in mind can help you avoid last-minute rush and penalties.
 
 ---
+ ![ITR Filing Due Dates for Financial Year 2024-2025 (Assessment Year 2025-2026)](https://i.ibb.co/jP0P8Hkc/itr-date.png)
 
 ## Understanding the Basics: What Are ITR Filing Due Dates?
 
