@@ -1,5 +1,31 @@
 [
-    {
+  {
+    "id": "sebi-order-jane-street-ban",
+    "title": "SEBI vs. Jane Street: Unpacking the ₹4,843 Crore Market Manipulation Allegations",
+    "description": "A deep dive into SEBI's interim order against Jane Street. We break down the alleged manipulation strategies and the facts that led to the ban, based solely on the official document.",
+    "url": "sebi-order-jane-street-ban",
+    "isActive": true,
+    "createdDate": "2024-07-04T10:00:00Z",
+    "modifiedDate": "2024-07-04T10:00:00Z",
+    "category": "finance",
+    "subCategory": "investing",
+    "labels": [
+        "SEBI",
+        "Jane Street",
+        "market manipulation",
+        "stock market",
+        "PFUTP",
+        "interim order",
+        "investing"
+    ],
+    "likes": 0,
+    "dislikes": 0,
+    "author": "AadhiMahi",
+    "readTime": "10 min",
+    "thumbnail": "https://i.ibb.co/k2DMMsJ/sebi-vs-jane-street-thumb.png",
+    "src": "https://ibb.co/k2DMMsJ",
+    "full": "https://i.ibb.co/3s68M02/sebi-vs-jane-street-full.png"
+}  , {
     "id": "fd-vs-bond-guide",
     "title": "FD vs Bond: Choosing the Right Investment for You",
     "description": "Explore the key differences between Fixed Deposits and Bonds, and learn how to choose the right one based on your financial goals.",
