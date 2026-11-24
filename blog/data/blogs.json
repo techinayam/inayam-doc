@@ -213,7 +213,57 @@
         "author": "Inayam",
         "readTime": "5 min",
         "thumbnail":"https://i.ibb.co/ZzpkvKP2/Generated-Image-June-29-2026-8-44-PM.jpg"
+    },
+    {
+        "id": "us-inflation-gdp-data-november-2026",
+        "title": "US Inflation and GDP Data Explained: October CPI, Q3 GDP and the December Fed Rate Hike",
+        "description": "US CPI rose 0.4% in October and Q3 GDP grew 3.4%. We break down the official BLS, BEA and Fed data, why a December Fed rate hike is now expected, and the key dates to watch.",
+        "url": "us-inflation-gdp-data-november-2026",
+        "isActive": true,
+        "createdDate": "2026-11-24T10:00:00Z",
+        "modifiedDate": "2026-11-24T10:00:00Z",
+        "category": "finance",
+        "subCategory": "markets-economy",
+        "labels": [
+            "US inflation",
+            "US CPI",
+            "US GDP",
+            "Federal Reserve",
+            "Fed rate hike",
+            "PCE inflation",
+            "US economy",
+            "markets-economy"
+        ],
+        "likes": 0,
+        "dislikes": 0,
+        "author": "AadhiMahi",
+        "readTime": "9 min",
+        "thumbnail": "/api/placeholder/800/450"
+    },
+    {
+        "id": "us-inflation-gdp-impact-indian-stock-market",
+        "title": "How US Inflation and GDP Data Move Sensex and Nifty: What November 2026 Means for Indian Investors",
+        "description": "US inflation and GDP data point to a December Fed rate hike, yet Sensex and Nifty rallied on record FII inflows. We explain how US data reaches Indian stocks through FII flows, the rupee and sectors like IT, banks and metals.",
+        "url": "us-inflation-gdp-impact-indian-stock-market",
+        "isActive": true,
+        "createdDate": "2026-11-24T10:00:00Z",
+        "modifiedDate": "2026-11-24T10:00:00Z",
+        "category": "finance",
+        "subCategory": "markets-economy",
+        "labels": [
+            "US inflation impact on Indian stock market",
+            "Sensex",
+            "Nifty",
+            "FII inflows",
+            "rupee",
+            "Fed rate hike",
+            "Indian stock market",
+            "markets-economy"
+        ],
+        "likes": 0,
+        "dislikes": 0,
+        "author": "AadhiMahi",
+        "readTime": "10 min",
+        "thumbnail": "/api/placeholder/800/450"
     }
-    
-
 ]

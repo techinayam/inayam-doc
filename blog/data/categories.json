@@ -17,6 +17,11 @@
                 "key": "taxation",
                 "name": "Taxation",
                 "description": "Content related to tax laws, filing procedures, due dates, and tax-saving tips"
+            },
+            {
+                "key": "markets-economy",
+                "name": "Markets & Economy",
+                "description": "Macroeconomic data, central bank decisions, stock market moves and their impact on investors in India and worldwide"
             }
         ]
     },{
